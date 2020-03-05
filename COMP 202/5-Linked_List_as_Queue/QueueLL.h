@@ -3,44 +3,46 @@
 
 #include <iostream>
 
-class node {
+class node
+{
 public:
-node() {
-};
-int info;
-node* next;
+    node(){};
+    int info;
+    node *next;
 };
 
-class LL {
+class LL
+{
 public:
-//constructors
-LL();
-~LL();
+    //constructors
+    LL();
+    ~LL();
 
-//functons
-bool isEmpty();
+    //functons
+    bool isEmpty();
 
-void addToHead(int data);
-void addToTail(int data);
+    void addToHead(int data);
+    void addToTail(int data);
 
-int removeFromHead();
+    int removeFromHead();
 
-void traverse();
+    void traverse();
 
 private:
-node* HEAD;
-node* TAIL;
+    node *HEAD;
+    node *TAIL;
 };
 
-class Queue {
+class Queue
+{
 private:
-LL LS;
+    LL LS;
 
 public:
-void isEmpty();
-void enQueue(int data);
-void showItems();
-int deQueue();
+    void isEmpty();
+    void enQueue(int data);
+    void showItems();
+    int deQueue();
 };
 
 #endif

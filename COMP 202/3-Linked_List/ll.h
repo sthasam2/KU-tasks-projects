@@ -1,36 +1,37 @@
 #ifndef ll_h
 #define ll_h
 
-class node {
+class node
+{
 public:
-node(){
-};
-int info;
-node* next;
+    node(){};
+    int info;
+    node *next;
 };
 
-class ll {
+class ll
+{
 public:
-//constructors
-ll();
-~ll();
+    //constructors
+    ll();
+    ~ll();
 
-//functons
-bool isEmpty();
+    //functons
+    bool isEmpty();
 
-void addToHead(int data);
-void addToTail(int data);
-void add(int data, node* predecessor);
+    void addToHead(int data);
+    void addToTail(int data);
+    void add(int data, node *predecessor);
 
-void removeFromHead();
-void remove(int data);
+    void removeFromHead();
+    void remove(int data);
 
-bool search(int data);
-void traverse();
-bool retrieve(int data, node* &outputPtr);
+    bool search(int data);
+    void traverse();
+    bool retrieve(int data, node *&outputPtr);
 
 private:
-node* HEAD;
-node* TAIL;
+    node *HEAD;
+    node *TAIL;
 };
 #endif

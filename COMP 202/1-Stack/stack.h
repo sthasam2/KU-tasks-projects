@@ -3,28 +3,29 @@
 
 #define MAX_STACK_SIZE 5
 
-class stack {
+class stack
+{
 public:
-//constructors
-stack();
-~stack();
+    //constructors
+    stack();
+    ~stack();
 
-//functions
-void push(int element);
-int pop();
-int top();
-bool isEmpty();
-bool isFull();
-void displayStack();
-void sizeStack();
-int getCurrentPosition();
+    //functions
+    void push(int element);
+    int pop();
+    int top();
+    bool isEmpty();
+    bool isFull();
+    void displayStack();
+    void sizeStack();
+    int getCurrentPosition();
 
 private:
-int elements[MAX_STACK_SIZE];
-int element;
+    int elements[MAX_STACK_SIZE];
+    int element;
 
 protected:
-int topp;
+    int topp;
 };
 
 #endif

@@ -3,45 +3,47 @@
 
 #include <iostream>
 
-class node {
+class node
+{
 public:
-node() {
-};
-int info;
-node* next;
+    node(){};
+    int info;
+    node *next;
 };
 
-class LL {
+class LL
+{
 public:
-//constructors
-LL();
-~LL();
+    //constructors
+    LL();
+    ~LL();
 
-//functons
-bool isEmpty();
+    //functons
+    bool isEmpty();
 
-void addToHead(int data);
-void addToTail(int data);
+    void addToHead(int data);
+    void addToTail(int data);
 
-int removeFromHead();
+    int removeFromHead();
 
-void traverse();
-int itemHead();
+    void traverse();
+    int itemHead();
 
 private:
-node* HEAD;
-node* TAIL;
+    node *HEAD;
+    node *TAIL;
 };
 
-class Stack {
+class Stack
+{
 private:
-LL LS;
+    LL LS;
 
 public:
-void isEmpty();
-void push(int data);
-int top();
-int pop();
+    void isEmpty();
+    void push(int data);
+    int top();
+    int pop();
 };
 
 #endif
