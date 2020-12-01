@@ -32,7 +32,7 @@ class Newtons_Divided_Differnce:
     n = None
     value = None
 
-    def __init__(self, x, y, n):
+    def __init__(self, x=None, y=None, n=None):
         """
             Initializes class object
 
@@ -106,13 +106,14 @@ class Newtons_Divided_Differnce:
             -------
             String Literal
         """
-        # assigning new variables for easy calculation
-        n = self.n
-        x = self.x
-        y = self.y
 
         # check if data inputted of not
         if self.check_input() == True:
+           # assigning new variables for easy calculation
+            n = self.n
+            x = self.x
+            y = self.y
+
             # Loop through x,y and calculate divided differencecl
             for i in range(1, n):
                 for j in range(n-i):
