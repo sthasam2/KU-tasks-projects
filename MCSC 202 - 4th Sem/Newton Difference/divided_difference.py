@@ -10,20 +10,21 @@
 
 class Newtons_Divided_Differnce:
     """
-            A class used to represent a newton's divided differnce question
+        A class used to represent a newton's divided differnce question
 
-            Attributes
-            ----------
-            x : list <float>
-                list of x values
+        Attributes
+        ----------
+        x : list <float>
+            list of x values
 
-            y : 2D list <float>
-                list of functional values of x i.e. f(x) as well as divided differnces [x0,x1],...
+        y : 2D list <float>
+            list of functional values of x i.e. f(x) as well as divided differnces [x0,x1],...
 
-            n : int
-                cardinality of paired data
-            value : float
-                actual value to be interpolated
+        n : int
+            cardinality of paired data
+
+        value : float
+            actual value to be interpolated
     """
 
     x = None
@@ -38,6 +39,7 @@ class Newtons_Divided_Differnce:
             Parameters
             ----------
             self : object
+
             x : list <float>
 
             y : 2D list <float>
