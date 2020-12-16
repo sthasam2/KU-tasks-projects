@@ -89,11 +89,14 @@ class Newtons_Divided_Differnce:
             Checks whether the attributes x,y,n are inputted or not
         """
         if self.x == None:
-            raise Exception("x is not inputted")
+            print("x is not inputted")
+            quit()
         if self.y == None:
-            raise Exception("y is not inputted")
+            print("y is not inputted")
+            quit()
         if self.n == None:
-            raise Exception("n is not inputted")
+            print("n is not inputted")
+            quit()
 
         return True
 
@@ -117,8 +120,7 @@ class Newtons_Divided_Differnce:
             # Loop through x,y and calculate divided differencecl
             for i in range(1, n):
                 for j in range(n-i):
-                    y[j][i] = ((y[j][i-1] - y[j+1][i-1])
-                               / (x[j] - x[i + j]))
+                    y[j][i] = ((y[j+1][i-1] - y[j][i-1]) / (x[i + j] - x[j]))
 
             # define self.y to new divided difference table
             self.y = y
@@ -224,21 +226,60 @@ class Newtons_Divided_Differnce:
 
         return round(sum, 4)
 
+# DRIVER CODE
 
-# Driver code
-def main():
+# INPUTS
+def take_input():
     """
-        function for executing the code
+        Module for taking input from user and showing results
     """
-    # input based driver code
-    # instance = Newtons_Divided_Differnce()
-    # instance.input_values()
-    # instance.display_difference_table()
-    # answer = instance.newton_interpolation_formula()
-    # print(
-    #     f'\nThe interpolated value corresponding to {instance.value} is {answer}')
+    instance = Newtons_Divided_Differnce()
+    instance.input_values()
+    instance.display_difference_table()
+    answer = instance.newton_interpolation_formula()
+    print(
+        f'\nThe interpolated value corresponding to {instance.value} is {answer}')
 
-    # predefined value driver code
+
+def take_multiple_input():
+    """
+        Module for taking multiple inputs at once
+    """
+    print("\nMultiple value input method\n...........................\n\n Please use comma \" , \" to split the values.\n Eg, 123.21, 2345.2, 11123.345")
+
+    n_val = int(input("\nEnter the number of data to be inputted: "))
+
+    x_val = input("\nPlease enter the values of x\n=> ")
+    x = [float(i) for i in x_val.split(",")]
+
+    if len(x) != n_val:
+        print(
+            "Error occoured while input. The number of x values does not correspond to the number of values to be inputted previously defined")
+        quit()
+
+    y_val = input("Please enter the values of y\n=> ")
+    y = [float(i) for i in y_val.split(",")]
+
+    if len(y) != len(x):
+        print(
+            "Error occoured while input. The number of x values does not correspond to f(x) i.e. y values")
+        quit()
+
+    y_2D = [[0 for i in range(n_val)] for j in range(n_val)]
+    for j in range(n_val):
+        y_2D[j][0] = y[j]
+
+    new_instance = Newtons_Divided_Differnce(x, y_2D, n_val)
+    new_instance.display_difference_table()
+    new_answer = new_instance.newton_interpolation_formula()
+    print(
+        f'\nThe interpolated value corresponding to {new_instance.value} is {new_answer}')
+
+
+def demo():
+    """
+        Predefined test
+    """
     n = 4
     x = [300, 304, 305, 307]
     y = [[0 for i in range(n)] for j in range(n)]
@@ -252,6 +293,32 @@ def main():
     new_answer = new_instance.newton_interpolation_formula()
     print(
         f'\nThe interpolated value corresponding to {new_instance.value} is {new_answer}')
+
+# Driver code
+
+
+def main():
+    """
+        function for executing the code
+    """
+
+    print("-------------------------------------------------------------",
+          "\n\n\tNEWTON'S DIVIDED DIFFERENCE INTERPOLATION\n\n",
+          "-------------------------------------------------------------\n")
+
+    option = input(
+        "Enter an option (number):\n\t1. Enter multiple values at once\n\t2. Enter single values at once\n\t3. Run a demo program\n=> ")
+
+    if option == "1":
+        take_multiple_input()
+    elif option == "2":
+        take_input()
+    elif option == "3":
+        demo()
+    else:
+        print("Wrong option!")
+
+    print("Program Completed.")
 
 
 if __name__ == '__main__':
