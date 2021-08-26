@@ -1,5 +1,9 @@
 let memoryFrame = [];
-const pageQueue = [7, 2, 3, 1, 2, 5, 3, 4, 6, 7, 7, 1, 0, 5, 4, 6, 2, 3, 0, 1];
+// const pageQueue = [7, 2, 3, 1, 2, 5, 3, 4, 6, 7, 7, 1, 0, 5, 4, 6, 2, 3, 0, 1];
+const pageQueue = [
+	1, 0, 2, 2, 1, 7, 6, 7, 0, 1, 2, 0, 3, 0, 4, 5, 1, 5, 2, 4, 5, 6, 7, 6, 7, 2, 4, 2, 7, 3, 3, 2,
+	3,
+];
 
 let remainingQueue = [...pageQueue];
 
@@ -24,9 +28,16 @@ const fifo = (memoryFrame, pageQueue, capacity) => {
 		// check memory frame filled
 		else {
 			if (memoryFrame[i].length < capacity) {
-				memoryFrame[i].push({ page: page, entryIndex: i });
-				pageFaults += 1;
-				hitsMisses[i] = "miss";
+				// check matching
+				hit = memoryFrame[i].some((segment) => segment.page === page);
+				// if matching ie hit
+				if (hit) hitsMisses[i] = "hit";
+				// else replace
+				else {
+					memoryFrame[i].push({ page: page, entryIndex: i });
+					pageFaults += 1;
+					hitsMisses[i] = "miss";
+				}
 			}
 
 			// check previous memory frame for hit then replace
@@ -72,6 +83,7 @@ const fifo = (memoryFrame, pageQueue, capacity) => {
 			frame1: frame[0],
 			frame2: frame[1],
 			frame3: frame[2],
+			frame4: frame[3],
 			hitOrMiss: hitsMisses[memoryFrame.indexOf(segment)],
 		});
 	});
@@ -98,9 +110,18 @@ const lru = (memoryFrame, pageQueue, capacity) => {
 		// check memory frame filled
 		else {
 			if (memoryFrame[i].length < capacity) {
-				memoryFrame[i].push({ page: page, accessIndex: i });
-				pageFaults += 1;
-				hitsMisses[i] = "miss";
+				// check matching
+				hit = memoryFrame[i].some((segment) => segment.page === page);
+				// if matching ie hit, update previously existing's access to current
+				if (hit) {
+					hitIndex = memoryFrame[i].findIndex((segment) => segment.page === page);
+					memoryFrame[i][hitIndex].accessIndex = i;
+					hitsMisses[i] = "hit";
+				} else {
+					memoryFrame[i].push({ page: page, accessIndex: i });
+					pageFaults += 1;
+					hitsMisses[i] = "miss";
+				}
 			}
 
 			// check previous memory frame for hit then replace
@@ -150,6 +171,7 @@ const lru = (memoryFrame, pageQueue, capacity) => {
 			frame1: frame[0],
 			frame2: frame[1],
 			frame3: frame[2],
+			frame4: frame[3],
 			hitOrMiss: hitsMisses[memoryFrame.indexOf(segment)],
 		});
 	});
@@ -244,6 +266,7 @@ const optimal = (memoryFrame, pageQueue, capacity) => {
 			frame1: frame[0],
 			frame2: frame[1],
 			frame3: frame[2],
+			frame4: frame[3],
 			hitOrMiss: hitsMisses[memoryFrame.indexOf(segment)],
 		});
 	});
@@ -352,6 +375,7 @@ const second = (memoryFrame, pageQueue, capacity) => {
 			frame1: frame[0],
 			frame2: frame[1],
 			frame3: frame[2],
+			frame4: frame[3],
 			hitOrMiss: hitsMisses[memoryFrame.indexOf(segment)],
 		});
 	});
@@ -360,8 +384,8 @@ const second = (memoryFrame, pageQueue, capacity) => {
 	console.log("Page Faults = ", pageFaults);
 };
 
+// driver
 // fifo(memoryFrame, pageQueue, 3);
-// lru(memoryFrame, pageQueue, 3);
+lru(memoryFrame, pageQueue, 4);
 // optimal(memoryFrame, pageQueue, 3);
 // second(memoryFrame, pageQueue, 3);
-second(memoryFrame, [2, 3, 2, 1, 5, 2, 4, 5, 3, 2, 3, 5], 3);

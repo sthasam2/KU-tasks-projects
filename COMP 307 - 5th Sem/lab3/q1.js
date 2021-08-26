@@ -90,7 +90,6 @@ let firstFit = (memoryPartitions, pages) => {
 	}
 
 	console.log("Free memory in occupied partitions = ", freeMemory);
-	console.table(memoryPartitions);
 };
 
 let bestFit = (memoryPartitions, pages) => {
@@ -181,6 +180,6 @@ let worstFit = (memoryPartitions, pages) => {
 	console.log("Free memory in occupied partitions = ", freeMemory);
 };
 
-firstFit(_memoryPartitions, _pages);
-bestFit(_memoryPartitions, _pages);
-worstFit(_memoryPartitions, _pages);
+// firstFit([..._memoryPartitions], [..._pages]);
+// bestFit([..._memoryPartitions], [..._pages]);
+worstFit([..._memoryPartitions], [..._pages]);
