@@ -39,3 +39,9 @@
 # LISP
 
 lisp-format/
+
+# VHDL using ModelSim
+schoolwork/
+*.mti
+*.mpf
+*.wlf
