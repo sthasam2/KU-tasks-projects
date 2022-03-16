@@ -45,3 +45,7 @@ schoolwork/
 *.mti
 *.mpf
 *.wlf
+
+# python
+__pycache__/
+.pytest_cache/
