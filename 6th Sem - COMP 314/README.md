@@ -11,3 +11,7 @@ All Lab works for COMP 314 - Algorithms and Complexity
 * ### [Lab2: Sorting](Lab2/)
   
   *Implementation, Testing* and *Visualization* of **Sorting** algorithms: **Insertion Sort** and **Merge Sort**
+  
+* ### [Lab3: Binary Search Tree](Lab2/)
+  
+  *Implementation*, and *Testing* of **Data Structure** algorithm: **Binary Search Tree**
