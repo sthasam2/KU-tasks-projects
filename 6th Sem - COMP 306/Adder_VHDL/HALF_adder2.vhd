@@ -7,7 +7,7 @@ ENTITY HALF_ADDER IS
         SUM, CARRY_OUT : OUT STD_LOGIC);
 END HALF_ADDER;
 
-ARCHITECTURE behavoiur OF HALF_ADDER IS
+ARCHITECTURE behavoural OF HALF_ADDER IS
 BEGIN
     HA : PROCESS (A, B)
     BEGIN
@@ -20,4 +20,4 @@ BEGIN
         END IF;
     END PROCESS HA;
 
-END behavoiur;
+END behavoural;
