@@ -20,7 +20,7 @@ def DDA(x1=None, y1=None, x2=None, y2=None):
     Calculate line coordinates based on given start and end coordinates
     """
 
-    if not (x1 and y1 and x2 and y2):
+    if x1 == y1 == x2 == y2 == None:
         get_input()
 
     dx, dy = (x2 - x1), (y2 - y1)
@@ -38,6 +38,19 @@ def DDA(x1=None, y1=None, x2=None, y2=None):
     return [[round(x[i]), round(y[i])] for i in range(len(x) - 1)]
 
 
+def rand_4_ints():
+    return (random.randrange(-540, 540) for _ in range(4))
+
+
 if __name__ == "__main__":
-    Points = DDA(2, 3, 410, 420)
-    plotInGlut("Line Drawing Using DDA", Points, "red")
+    # Points = [DDA(69, 420, -19, -520)]
+    # Points.append(DDA(-102, -180, 202, 480))
+    # Points.append(DDA(213, 501, -313, -301))
+    # Points.append(DDA(-185, 333, 485, -233))
+
+    Points = [DDA(*rand_4_ints())]
+    Points.append(DDA(*rand_4_ints()))
+    Points.append(DDA(*rand_4_ints()))
+    Points.append(DDA(*rand_4_ints()))
+
+    startGlutMultipleItemPlot("Line Drawing Using DDA", Points)

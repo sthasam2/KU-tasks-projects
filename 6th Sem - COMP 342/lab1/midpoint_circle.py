@@ -68,5 +68,5 @@ def midpoint_circle(center: list = None, radius: int = None):
 
 
 if __name__ == "__main__":
-    Points = midpoint_circle([250, 250], 200)
-    plotInGlut("Circle drawing using Midpoint Algorithm", Points, "green")
+    Points = midpoint_circle([0, 0], 200)
+    startGlutPlot("Circle drawing using Midpoint Algorithm", Points, "green")

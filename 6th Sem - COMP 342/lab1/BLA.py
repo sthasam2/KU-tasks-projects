@@ -23,49 +23,63 @@ def BLA(x1: int = None, y1: int = None, x2: int = None, y2: int = None) -> list:
 
     X_Y = []
 
-    if not (x1 and x2 and y1 and y2):
+    if x1 == y1 == x2 == y2 == None:
         get_input()
 
-    if x2 > x1:
-        dx, dy = (x2 - x1), (y2 - y1)  # getting differences
-        x, y = x1, y1  # making starting points
-    else:
-        dx, dy = (x1 - x2), (y1 - y2)
-        x, y = x2, y2
+    dx, dy = (x2 - x1), (y2 - y1)  # getting differences
+
+    x_inc = 1 if dx > 0 else -1
+    y_inc = 1 if dy > 0 else -1
+    x, y = x1, y1
 
     # setting decision parameter parameters based on slope
-    if abs(dx) > abs(dy):  # slope < 1
-        c1, c2 = (2 * dy), (2 * (dy - dx))
-        p = c1 - dx
+    if abs(dy) < abs(dx):  # slope < 1
+        # making starting points
+
+        p = 2 * abs(dy) - abs(dx)
+        c1 = 2 * abs(dy)
+        c2 = 2 * (abs(dy) - abs(dx))
 
         for _ in range(abs(dx)):
             X_Y.append([x, y])
 
-            # Calculating decision parameters
             if p < 0:
                 p += c1
             else:
                 p += c2
-                y += 1
-            x += 1
+                y += y_inc
+            x += x_inc
     else:  # slope => 1
-        c1, c2 = 2 * abs(dx), 2 * (abs(dx) - abs(dy))
-        p = c1 - dy
+
+        p = 2 * abs(dx) - abs(dy)
+        c1 = 2 * abs(dx)
+        c2 = 2 * (abs(dx) - abs(dy))
 
         for _ in range(abs(dy)):
             X_Y.append([x, y])
-
-            # Calculating decision parameters
             if p < 0:
                 p += c1
             else:
                 p += c2
-                x += 1
-            y += 1
+                x += x_inc
+            y += y_inc
 
     return X_Y
 
 
+def rand_4_ints():
+    return (random.randrange(-540, 540) for _ in range(4))
+
+
 if __name__ == "__main__":
-    Points = BLA(69, 69, 420, 420)
-    plotInGlut("Line Drawing Using BLA", Points, "blue")
+    # Points = [BLA(69, 420, -19, -520)]
+    # Points.append(BLA(-102, -180, 202, 480))
+    # Points.append(BLA(213, 501, -313, -301))
+    # Points.append(BLA(-185, 333, 485, -233))
+
+    Points = [BLA(*rand_4_ints())]
+    Points.append(BLA(*rand_4_ints()))
+    Points.append(BLA(*rand_4_ints()))
+    Points.append(BLA(*rand_4_ints()))
+
+    startGlutMultipleItemPlot("Line Drawing Using BLA", Points)

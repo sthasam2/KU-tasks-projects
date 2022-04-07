@@ -15,7 +15,7 @@ def get_input():
 def pie_chart(items: list) -> list:
     """ """
 
-    CENTRE = [512, 384]
+    CENTRE = [0, 0]
     RADIUS = 300
     _2PI = 2 * pi
 
@@ -50,13 +50,12 @@ def pie_chart(items: list) -> list:
 
     all_coordinates = circle_coordinates + sector_line_coordinates
 
-    # drawing
-    plotMultipleInGlut(
-        "Pie Chart",
-        all_coordinates,
-    )
+    return all_coordinates
 
 
 if __name__ == "__main__":
-    pie_chart([100, 200, 400, 800, 1600])
-    # pie_chart([100, 100, 100, 100, 100])
+    # items = pie_chart([100, 200, 400, 800, 1600])
+    items = pie_chart([100, 100, 100, 100, 100])
+
+    # drawing
+    startPiePlot("Pie Chart", items)
