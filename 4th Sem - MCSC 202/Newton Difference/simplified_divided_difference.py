@@ -19,8 +19,7 @@ def dividedDiffTable(x, y, n):
     """
     for i in range(1, n):
         for j in range(n - i):
-            y[j][i] = ((y[j][i - 1] - y[j + 1][i - 1]) /
-                       (x[j] - x[i + j]))
+            y[j][i] = (y[j][i - 1] - y[j + 1][i - 1]) / (x[j] - x[i + j])
     return y
 
 
@@ -45,18 +44,17 @@ def printDiffTable(y, n):
     for i in range(n):
         print(x[i])
         for j in range(n - i):
-            print(round(y[i][j], 4), "\t",
-                  end=" ")
+            print(round(y[i][j], 4), "\t", end=" ")
 
         print("")
+
 
 # Driver Code
 
 
 # number of inputs given
 n = 4
-y = [[0 for i in range(10)]
-     for j in range(10)]
+y = [[0 for i in range(10)] for j in range(10)]
 x = [5, 6, 9, 11]
 
 # y[][] is used for divided difference
@@ -76,6 +74,4 @@ printDiffTable(y, n)
 value = 7
 
 # printing the value
-print("\nValue at", value, "is",
-      round(applyFormula(value, x, y, n), 2))
-
+print("\nValue at", value, "is", round(applyFormula(value, x, y, n), 2))
