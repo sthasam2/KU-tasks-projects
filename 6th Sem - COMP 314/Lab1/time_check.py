@@ -1,7 +1,6 @@
 import time
 
 from matplotlib import pyplot as plt
-
 from search import binary_search, linear_search
 
 

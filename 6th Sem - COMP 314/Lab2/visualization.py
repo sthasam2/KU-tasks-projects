@@ -1,10 +1,9 @@
 """Time Complexity visualiztion for sorting algorithms"""
 
-import time
 import random
+import time
 
 from matplotlib import pyplot as plt
-
 from sorting import insertion_sort, merge_sort, merge_sort_internal
 
 
@@ -78,11 +77,11 @@ if __name__ == "__main__":
 
     # Merge Sort
     # plt.title("Time Complexity for Merge sort")
-    # plt.plot(sample_sizes, merge_sort_times, ".-", label="Merge Sort")
+    # plt.plot(sample_sizes, merge_sort_times, ".-", label="Merge Sort Type 2")
 
     # Merge Sort 2
     # plt.title("Time Complexity for Merge sort")
-    # plt.plot(sample_sizes, merge_sort_new_times, ".-", label="Merge Sort type 2")
+    # plt.plot(sample_sizes, merge_sort_new_times, ".-", label="Merge Sort")
 
     # Insertion vs Merge vs Merge (second algo)
     plt.title("Time Complexity: Insertion sort vs Merge Sort")

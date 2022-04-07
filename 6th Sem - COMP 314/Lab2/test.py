@@ -3,8 +3,8 @@
 from sorting import (
     insertion_sort,
     merge,
-    merge_sort,
     merge_internal,
+    merge_sort,
     merge_sort_internal,
 )
 
