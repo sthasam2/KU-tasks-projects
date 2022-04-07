@@ -61,7 +61,7 @@ def merge(left_arr: list, right_arr: list, arr: list):
 
 
 def merge_internal(start, mid, end, arr):
-    """Sort array by using merge sort by acting within a array"""
+    """Merge algorithm using array indexes"""
 
     # extracting left sub array (mid+1: added 1 beacuase python splices an index before specified end eg a = [0,1,2], a[0:2] = [0,1])
     left = arr[start : (mid + 1)]
@@ -83,6 +83,7 @@ def merge_internal(start, mid, end, arr):
 
 
 def merge_sort_internal(start, end, arr):
+    """Merge Sort using array indexes"""
 
     if start < end:
         mid = (start + end) // 2
@@ -91,20 +92,20 @@ def merge_sort_internal(start, end, arr):
         merge_internal(start, mid, end, arr)
 
 
-if __name__ == "__main__":
-    #     arr = [5, 7, 2, 9, 6, 8, 11, 3]
+# if __name__ == "__main__":
+#     arr = [5, 7, 2, 9, 6, 8, 11, 3]
 
-    #     sample1 = [777, 69, 420]
-    #     sample2 = [13, 7, 2022]
-    #     combined = [0] * 6
-    #     merge(sample1, sample2, combined)
+#     sample1 = [777, 69, 420]
+#     sample2 = [13, 7, 2022]
+#     combined = [0] * 6
+#     merge(sample1, sample2, combined)
 
-    # sample = [68, 419, 1, 4, 331, 619, 45]
-    # expected = [1, 4, 45, 68, 331, 419, 619]
+#     sample = [68, 419, 1, 4, 331, 619, 45]
+#     expected = [1, 4, 45, 68, 331, 419, 619]
 
-    sample = [1]
-    expected = [1]
-    merge_sort_internal(0, len(sample) - 1, sample)
-    #     insertion_sort(arr)
-    #     merge_sort(arr)
-    print(sample)
+#     sample = [1]
+#     expected = [1]
+#     merge_sort_internal(0, len(sample) - 1, sample)
+#     insertion_sort(arr)
+#     merge_sort(arr)
+#     print(sample)

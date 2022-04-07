@@ -1,4 +1,4 @@
-"""Time Complexity visualiztion for sorting algorithms"""
+"""Time Complexity visualization for sorting algorithms"""
 
 import random
 import time
@@ -69,7 +69,7 @@ if __name__ == "__main__":
     # Plotting
     plt.figure(figsize=(10, 6))
     plt.xlabel("Sample Size (n)")
-    plt.ylabel("Time Elasped (ns)")
+    plt.ylabel("Time Elapsed (ns)")
 
     # Insertion sort
     # plt.title("Time Complexity for Insertion sort")
@@ -77,7 +77,7 @@ if __name__ == "__main__":
 
     # Merge Sort
     # plt.title("Time Complexity for Merge sort")
-    # plt.plot(sample_sizes, merge_sort_times, ".-", label="Merge Sort Type 2")
+    # plt.plot(sample_sizes, merge_sort_times, ".-", label="Merge Sort")
 
     # Merge Sort 2
     # plt.title("Time Complexity for Merge sort")
