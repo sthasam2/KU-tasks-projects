@@ -139,6 +139,43 @@ class BSTTestCase(unittest.TestCase):
         # Now the largest key is 54
         self.assertTupleEqual(self.bst.largest(), (54, "Value for 54"))
 
+    def test_remove_custom(self):
+        """
+        Test for removing elements with no, single and two children
+        """
+
+        #  Node with no children
+        self.bst.remove(30)
+        self.assertEqual(self.bst.size(), 7)
+        self.assertListEqual(self.bst.inorder_walk(), [1, 5, 8, 10, 40, 45, 52])
+        self.assertListEqual(self.bst.preorder_walk(), [10, 5, 1, 8, 52, 40, 45])
+
+        # Node with single child
+        self.bst.remove(40)
+        self.assertEqual(self.bst.size(), 6)
+        self.assertListEqual(self.bst.inorder_walk(), [1, 5, 8, 10, 45, 52])
+        self.assertListEqual(self.bst.preorder_walk(), [10, 5, 1, 8, 52, 45])
+
+        # Node with double children
+        self.bst.remove(10)
+        self.assertEqual(self.bst.size(), 5)
+        self.assertListEqual(self.bst.inorder_walk(), [1, 5, 8, 45, 52])
+        self.assertListEqual(self.bst.preorder_walk(), [8, 5, 1, 52, 45])
+
+    def test_recursive_size_vs_size(self):
+        """
+        Test for checking size of tree using recursive method and attribute
+        """
+
+        self.assertEqual(self.bst.recursive_size(), 8)
+        self.assertEqual(self.bst.size(), 8)
+        self.assertEqual(self.bst.recursive_size(), self.bst.size())
+
+        self.bst.remove(10)
+        self.assertEqual(self.bst.recursive_size(), 7)
+        self.assertEqual(self.bst.size(), 7)
+        self.assertEqual(self.bst.recursive_size(), self.bst.size())
+
 
 if __name__ == "__main__":
-    unittest.main()
+    unittest.main(verbosity=2)
