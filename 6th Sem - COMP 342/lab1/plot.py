@@ -115,8 +115,8 @@ def plotPoints():
         glColor4f(*RED)
     elif Color.upper() == "GREEN":
         glColor4f(*GREEN)
-    elif Color.upper(*BLUE) == "BLUE":
-        glColor4f()
+    elif Color.upper() == "BLUE":
+        glColor4f(*BLUE)
     else:
         glColor4f(*WHITE)
 
