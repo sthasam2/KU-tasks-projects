@@ -1,12 +1,11 @@
 import collections
-import time
 import random
+import time
 from pprint import pformat
-from tabulate import tabulate
-
 
 import matplotlib.pyplot as plt
 import networkx as nx
+from tabulate import tabulate
 
 
 class Graph:
