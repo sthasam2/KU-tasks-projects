@@ -1,5 +1,3 @@
-"""Python program to implement Cohen Sutherland algorithm for line clipping."""
-
 from time import sleep
 
 from OpenGL.GL import *
@@ -207,6 +205,6 @@ if __name__ == "__main__":
     clip.liang_barsky_clip()
     clip.draw()
 
-    clip = LiangBarskyLineClipping([200, 200, -200, -200], [-202, -202], [-550, 250])
-    clip.liang_barsky_clip()
-    clip.draw()
+    # clip = LiangBarskyLineClipping([200, 200, -200, -200], [-202, -202], [-550, 250])
+    # clip.liang_barsky_clip()
+    # clip.draw()

@@ -1,5 +1,3 @@
-"""Python program to implement Cohen Sutherland algorithm for line clipping."""
-
 from time import sleep
 
 from OpenGL.GL import *

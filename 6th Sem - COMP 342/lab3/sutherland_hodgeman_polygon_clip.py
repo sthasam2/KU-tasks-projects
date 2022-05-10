@@ -1,6 +1,5 @@
-"""Python program to implement Cohen Sutherland algorithm for line clipping."""
-
 from time import sleep
+from utils import clockwiseangle_and_distance
 
 from OpenGL.GL import *
 from OpenGL.GLUT import *
@@ -184,8 +183,8 @@ class SutherlandHodgemanPolygonClipping:
     def clip_polygon(self):
         vertices = self.original_polygon_vertices
 
+        new_vertices = []
         for boundary in range(4):
-            new_vertices = []
 
             for i in range(len(vertices)):
                 p1 = vertices[i]
@@ -193,7 +192,7 @@ class SutherlandHodgemanPolygonClipping:
 
                 case = self._get_case(boundary, p1, p2)
 
-                if case == self.IN_TO_IN:
+                if (case == self.IN_TO_IN) & (p2 not in new_vertices):
                     new_vertices.append(p2)
                 elif case == self.IN_TO_OUT:
                     p = self._find_intersection(boundary, p1, p2)
@@ -203,8 +202,16 @@ class SutherlandHodgemanPolygonClipping:
                     new_vertices.append(p)
                     new_vertices.append(p2)
 
-            self.clipped_polygon_vertices = new_vertices
+        for index, vertex in enumerate(new_vertices):
+            if not (
+                (self.XW_MIN <= vertex[0] <= self.XW_MAX)
+                & (self.YW_MIN <= vertex[1] <= self.YW_MAX)
+            ):
+                new_vertices.pop(index)
 
+        # sort vertices for displaying in opengl
+        new_vertices = sorted(new_vertices, key=clockwiseangle_and_distance)
+        self.clipped_polygon_vertices = new_vertices
         return self.clipped_polygon_vertices
 
     def _draw_line(self, ends):
@@ -307,14 +314,8 @@ class SutherlandHodgemanPolygonClipping:
 
 if __name__ == "__main__":
     clip = SutherlandHodgemanPolygonClipping(
-        [150, 150, -200, -200],
-        [(-200, 80), (50, 300), (120, 80), (100, -200), (-100, -100)],
+        [150, 150, -150, -150],
+        [(-200, 80), (50, 200), (120, 80), (100, -200), (-100, -100)],
     )
     clip.clip_polygon()
     clip.draw()
-
-    # clip = SutherlandHodgemanPolygonClipping(
-    #     [200, 200, -200, -200], [-202, -202], [-550, 250]
-    # )
-    # clip.clip_polygon()
-    # clip.draw()
