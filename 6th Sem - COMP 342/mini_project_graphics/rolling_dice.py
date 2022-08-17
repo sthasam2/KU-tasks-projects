@@ -69,6 +69,8 @@ def key_input_clb(window, key, scancode, action, mode):
     elif key == glfw.KEY_E and action == glfw.RELEASE:
         down = False
 
+    print(key, action)
+
 
 def do_movement():
     """
@@ -106,6 +108,8 @@ def mouse_click_clb(window, button, action, mods):
         elif action == glfw.RELEASE:
             left_mb_click = False
 
+    print(button, action)
+
 
 def mouse_scroll_clb(window, x_offset, y_offset):
     """
@@ -123,7 +127,7 @@ def mouse_scroll_clb(window, x_offset, y_offset):
     if y_offset < 0:
         cam.process_keyboard("BACKWARD", 1)
 
-    # print(x_offset, y_offset)
+    print(x_offset, y_offset)
 
 
 def mouse_look_clb(window, x_pos, y_pos):
@@ -146,7 +150,7 @@ def mouse_look_clb(window, x_pos, y_pos):
     lastX = x_pos
     lastY = y_pos
 
-    # print(lastX, lastY)
+    print(lastX, lastY)
 
     if left_mb_click:
         cam.process_mouse_movement(x_offset, y_offset)
