@@ -9,6 +9,7 @@ license = "GNU v.3"
 python = "^3.10"
 networkx = "^2.8.5"
 matplotlib = "^3.5.3"
+pygraphviz = "^1.9"
 
 [tool.poetry.dev-dependencies]
 
