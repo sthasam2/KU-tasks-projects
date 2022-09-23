@@ -10,3 +10,29 @@
 2. Write a lex program to count the type of numbers
 3. Write a lex program to count the number of words, characters, blank spaces and lines.
 4. Write a lex program to check the validity of arithmetic statement.
+
+## Implementation
+
+### Requirements
+
+- GraphViz
+
+### Results
+
+![Results1](/7th%20Sem%20-%20COMP%20409/lab2/Results/Screenshot__2022-09-23_12:28:35.png)  
+![Results2](/7th%20Sem%20-%20COMP%20409/lab2/Results/Screenshot__2022-09-23_12:30:05.png)
+
+#### Graphs
+
+![nfa](/7th%20Sem%20-%20COMP%20409/lab2/graph-nfa.png)  
+*fig: NFA*
+
+![dfa](/7th%20Sem%20-%20COMP%20409/lab2/graph-dfa.png)  
+*fig: DFA*
+
+![mdfa](/7th%20Sem%20-%20COMP%20409/lab2/graph-mdfa.png)  
+*fig: Minimized DFA*
+
+## References
+
+1. <https://github.com/sdht0/automata-from-regex>
