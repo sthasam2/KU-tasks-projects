@@ -33,9 +33,11 @@ def main():
         print("\nGraphs have been created in the code directory using dot file")
         print(minDFA.getDotFile())
 
-    check_string = input("\nEnter a test string for the regex\n")
-    isValid = dfaObj.acceptsString(check_string)
-    print(f"The input string's validity = {isValid}")
+    
+    for i in range(5):
+        check_string = input("\nEnter a test string for the regex\n")
+        isValid = dfaObj.acceptsString(check_string)
+        print(f"The input string's validity = {isValid}")
 
 
 if __name__ == "__main__":
