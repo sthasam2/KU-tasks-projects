@@ -30,9 +30,9 @@ s1s3 = sig1(f, 5e3, t_range(20e3, 5));
 % q2
 % time ranges used for calculating signals
 ct3Cyc = t_range(dF, 3);
-s2s1T = t_range(5e3, 3); % discrete time ranges for 5KHz 5 cycles
-s2s2T = t_range(10e3, 3); % discrete time ranges for 10KHz 5 cycles
-s2s3T = t_range(20e3, 3); % discrete time ranges for 20KHz 5 cycles
+s2s1T = t_range(5e3, 3); % discrete time ranges for 5KHz 3 cycles
+s2s2T = t_range(10e3, 3); % discrete time ranges for 10KHz 3 cycles
+s2s3T = t_range(20e3, 3); % discrete time ranges for 20KHz 3 cycles
 
 signal2 = sig2(f, dF, ct3Cyc);
 s2s1 = sig2(f, 5e3, s2s1T);
