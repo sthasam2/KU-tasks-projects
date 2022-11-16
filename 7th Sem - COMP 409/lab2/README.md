@@ -19,18 +19,18 @@
 
 ### Results
 
-![Results1](/7th%20Sem%20-%20COMP%20409/lab2/Results/Screenshot__2022-09-23_12:28:35.png)  
-![Results2](/7th%20Sem%20-%20COMP%20409/lab2/Results/Screenshot__2022-09-23_12:30:05.png)
+![Results1](/7th%20Sem%20-%20COMP%20409/lab2/Results/many.png)  
+![Results2](/7th%20Sem%20-%20COMP%20409/lab2/Results/nfa-dfa.png)
 
 #### Graphs
 
-![nfa](/7th%20Sem%20-%20COMP%20409/lab2/graph-nfa.png)  
+![nfa](/7th%20Sem%20-%20COMP%20409/lab2/Results/graph-nfa.png)  
 *fig: NFA*
 
-![dfa](/7th%20Sem%20-%20COMP%20409/lab2/graph-dfa.png)  
+![dfa](/7th%20Sem%20-%20COMP%20409/lab2/Results/graph-dfa.png)  
 *fig: DFA*
 
-![mdfa](/7th%20Sem%20-%20COMP%20409/lab2/graph-mdfa.png)  
+![mdfa](/7th%20Sem%20-%20COMP%20409/lab2/Results/graph-mdfa.png)  
 *fig: Minimized DFA*
 
 ## References
