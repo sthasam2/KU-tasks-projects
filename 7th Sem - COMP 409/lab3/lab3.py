@@ -48,24 +48,24 @@ def left_recursion_removal(grammar: str) -> None:
             else:
                 non_recursive.append(element[i])
 
-    if flag:
-        form_3[count] = form_3[count][:1]
-        new_variable = element[0]
-        repeat = True
+        if flag:
+            form_3[count] = form_3[count][:1]
+            new_variable = element[0]
+            repeat = True
 
-        while repeat:
-            if any(new_variable in _ for _ in form_3):
-                new_variable = f"{new_variable}'"
-            else:
-                repeat = False
+            while repeat:
+                if any(new_variable in _ for _ in form_3):
+                    new_variable = f"{new_variable}'"
+                else:
+                    repeat = False
 
-        for production in non_recursive:
-            form_3[count].append(f"{production} {new_variable}")
+            for production in non_recursive:
+                form_3[count].append(f"{production} {new_variable}")
 
-        new = [f"{new_variable}"]
-        new.extend(f"{production} {new_variable}" for production in recursive)
-        new.append("ε")
-        form_3.append(new)
+            new = [f"{new_variable}"]
+            new.extend(f"{production} {new_variable}" for production in recursive)
+            new.append("ε")
+            form_3.append(new)
 
     if whole_flag:
         print("\nThe grammar after removing left recursion is:")

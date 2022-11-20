@@ -1,3 +1,8 @@
+%
+% Lab 4
+% Author: Sambeg Shrestha
+%
+
 clc; clearvars; close all;
 
 syms x;
@@ -21,18 +26,18 @@ sum2 = fourierExpansion(y2);
 %
 
 subplot(2, 1, 1)
-fplot(x, y1, [-pi, pi], 'Linewidth', 1); %plot the original signa
+fplot(x, y1, [-pi, pi], 'Linewidth', 1.5); %plot the original signa
 grid on; hold on;
 %plot the fourier expansion
-fplot(x, (sum1 + a0_1 / 2) + 0.3, [-pi, pi], 'Color', 'r', 'Linewidth', 1.5);
+fplot(x, (sum1 + a0_1 / 2) + 0.3, [-pi, pi], 'Color', 'r', 'Linewidth', 1);
 legend('Even Signal', 'Fourier Series');
 
 subplot(2, 1, 2)
-fplot(x, y2, [-pi, pi], 'Linewidth', 1); %plot the original signa
+fplot(x, y2, [-pi, pi], 'Color', 'g', 'Linewidth', 1.5); %plot the original signa
 grid on; hold on;
 %plot the fourier expansion
-fplot(x, (sum2 + a0_2 / 2) + 0.3, [-pi, pi], 'Color', 'r', 'Linewidth', 1.5);
-legend('Even Signal', 'Fourier Series');
+fplot(x, (sum2 + a0_2 / 2) + 0.3, [-pi, pi], 'Color', 'm', 'Linewidth', 1);
+legend('Odd Signal', 'Fourier Series');
 
 %
 % Function

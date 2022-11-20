@@ -1,3 +1,7 @@
+%
+% Lab 2
+%
+
 figure("Name", "Different discrete and continuous functions")
 tiledlayout(3, 2);
 

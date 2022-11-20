@@ -1,4 +1,7 @@
+%
 % Familiarization with Matrix
+%
+
 A = [1 5 7 11; 2 6 4 8; 2 0 4 4]; % 3 x 4 matrix
 B = [1 2 4; 5 9 0; 2 8 9; 5 6 4]; % 4 * 3 matrix
 

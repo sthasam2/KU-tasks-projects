@@ -1,4 +1,6 @@
+%
 % Getting acquainted with functions
+%
 
 % creating figure
 figure('Name', 'Demonstraing Plotting in Matlab');

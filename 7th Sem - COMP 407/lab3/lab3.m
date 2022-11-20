@@ -1,5 +1,5 @@
 %
-%
+% lab3
 %
 
 f = 2e3; % frequency
