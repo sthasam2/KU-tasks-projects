@@ -1,0 +1,41 @@
+Cardiology Consultation Medical Transcription Transcribed Sample
+
+DATE OF CONSULTATION:
+ MM/DD/YYYY
+CONSULTING PHYSICIAN: John   Doe, MD
+REQUESTING PHYSICIAN: Jane   Doe, MD
+REASON FOR CONSULTATION: Evaluation and management of new-onset supraventricular tachycardia and chest pain.
+HISTORY OF PRESENT ILLNESS: This pleasant (XX)-year-old male has no known coronary artery disease. He did undergo a treadmill dual isotope nuclear exercise stress test that revealed reduced perfusion throughout the inferior wall in a relatively fixed pattern consistent with diaphragmatic attenuation artifact. There are, however, no clear-cut perfusion abnormalities to indicate any areas of significant reversible myocardial ischemia. He does have a history of hypertension, hyperlipidemia, prostate cancer, benign colon polyps and TIAs. He has a significant family history with heart problems and diabetes mellitus. He has two sisters and a half brother who underwent coronary artery bypass grafting. The patient reports he woke up with weakness and dizziness. He decided to go to work. He states he drove himself to work, and after arriving, he experienced palpitations, heart racing and chest pressure, which was nonradiating. He thought his blood pressure was elevated and contacted his wife to bring him his beta-blocker, atenolol. After a while, he had associated symptoms of diaphoresis, weakness, difficulty walking, dyspnea with exertion and nausea. When his wife and son arrived, they assisted him into the car and brought him to (XX) Hospital. He was found to be in SVT with a heat rate of 150 to 160 beats per minute. EMS was called and he was taken via ambulance to the emergency department at (XX) Hospital. En route, he was given IV adenosine intravenously. He had another episode of SVT at 150 beats per minute in the emergency department and was started on Cardizem drip. He was subsequently hospitalized for SVT and chest pain. Cardiology was consulted for cardiac workup.
+PAST MEDICAL HISTORY: Hypertension, hyperlipidemia, prostate cancer, benign colonic polyps, history of TIAs x3 with no residual deficits, lumbar degenerative disease, and gastroesophageal reflux disease.
+PAST SURGICAL HISTORY: Colon resection, hemorrhoidectomy, appendectomy, and polypectomy.
+ALLERGIES: SULFA.
+CURRENT MEDICATIONS: Lovenox 40 mg subcutaneously daily; Cozaar 100 mg daily; hydrochlorothiazide 12.5 mg daily; Catapres 0.2 mg daily; Biaxin 500 mg b.i.d.; amoxicillin 500 mg b.i.d.; Protonix 40 mg b.i.d.; terazosin 10 mg b.i.d.; potassium chloride 20 mEq; Nasonex 50 mcg 1 to 2 sprays each nostril daily.
+SOCIAL HISTORY: He denies consuming beverages containing caffeine. He is a nonsmoker and a nondrinker.
+FAMILY HISTORY: Mother is deceased and had history of heart problems and diabetes mellitus. Father is deceased and had a history of peripheral vascular disease. He has a sister deceased with breast cancer. He has a sister who underwent a 4-vessel coronary artery bypass grafting. Another sister had a 3-vessel coronary artery bypass grafting and a half brother who underwent coronary artery bypass grafting.
+REVIEW OF SYSTEMS: Denies fever, chills, pedal edema, vomiting or syncopal episode. Denies a history of liver abnormalities, hepatitis, cirrhosis, congestive heart failure, diabetes mellitus, chronic lung disease, emphysema, bronchitis, asthma, urinary tract infections, kidney stones, anemia, blood dyscrasias, peptic ulcer disease, hiatal hernia, diverticulitis, colitis, CVA, migraine headaches, thyroid abnormality, carotid artery disease, peripheral vascular disease, leg cramps, glaucoma or gout.
+PHYSICAL EXAMINATION:
+GENERAL: This pleasant (XX)-year-old male is well developed, well nourished, in no acute distress. 
+VITAL SIGNS: Afebrile with temperature 98.6 degrees, pulse 68 and regular, respirations 21 and nonlabored, blood pressure 118/58, and O2 saturation 97% on room air.
+HEENT: Normocephalic and atraumatic. Eyes symmetrical and anicteric. Mucous membranes are pink and moist. 
+NECK: Supple. No jugular venous distention or carotid bruits. Trachea midline. CHEST: Diminished at the bases with occasional wheezing. No rhonchi, rales or rubs.
+HEART: S1 and S2, regular rate and rhythm. A 1/4 systolic murmur. No rubs, gallops or S3.
+ABDOMEN: Positive bowel sounds in all four quadrants and nontender. No abdominal bruit, fluid wave or hepatomegaly.
+EXTREMITIES: Pulses are +2 and equal. No clubbing, cyanosis or edema.
+NEUROLOGIC: Alert, awake and oriented x3, cooperative. Moves all extremities. Gait smooth and balanced.
+LABORATORY AND DIAGNOSTIC DATA: WBC 9.4, hemoglobin 14.4, hematocrit 42.6, and platelet count 186,000. APTT 28.2, PT 12.8, INR 0.94. D-dimer 0.36. Triglycerides 206, cholesterol 188, HDL 45, LDL 106. CPK 158, 119, and 128, CK-MB 2.8, 1.6. Potassium 3.4, magnesium 2.9. Troponin 0.02 and less than 0.02. TSH 0.897. Total T3 of 124, T4 of 6.6.
+Chest x-ray reveals tortuous and ectatic aorta with atherosclerosis, degenerative changes in the spine, consolidating infiltrates, significant pleural fluid collection or pneumothorax not identified. Echocardiogram revealed normal overall left ventricular systolic function, 62%, left ventricular hypertrophy, trace to mild pulmonic insufficiency, trace to mild mitral regurgitation and trace to mild tricuspid regurgitation.
+IMPRESSION:
+1. Chest pain, rule out angina with a significant family history of coronary artery disease.
+2. Supraventricular tachycardia with heart rate in 150s to 160s.
+3. Hypertension.
+4. Hyperlipidemia.
+5. History of transient ischemic attacks with no neurologic deficits.
+6. Gastroesophageal reflux disease.
+RECOMMENDATIONS:
+1. Serial cardiac enzymes and troponin to rule out myocardial infarction.
+2. Discontinue Cardizem drip and change to Cardizem 30 mg by mouth every 6 hours with parameters.
+3. A 2D echocardiogram to evaluate for wall motion abnormalities, valvular heart disease and estimate the ejection fraction.
+4. NPO after midnight.
+5. Schedule for treadmill dual isotope nuclear exercise stress test to evaluate for cardiac ischemia.
+6. Further orders and recommendations pending the patient's clinical course.
+Thank you, Dr. Doe, for this consultation and allowing us to participate in the care of this patient.

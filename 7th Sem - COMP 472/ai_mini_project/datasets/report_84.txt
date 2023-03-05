@@ -1,0 +1,31 @@
+Selective Coronary Angiography Transcription Sample Report
+
+DATE OF PROCEDURE: MM/DD/YYYY
+PROCEDURES PERFORMED:
+1. Selective coronary angiography.
+2. Left heart catheterization.
+3. Left ventriculography.
+4. Percutaneous intervention to the right coronary artery via 2 Cypher drug-eluting stents.
+INDICATION FOR PROCEDURE:
+Acute coronary sinus syndrome with unstable angina.
+INTERVENTIONAL CARDIOLOGIST: John Doe, MD
+COMPLICATIONS:
+None.
+DESCRIPTION OF PROCEDURE: Informed consent was obtained prior to presentation to the cardiac catheterization lab. The patient was brought to the cardiac catheterization lab in a fasting state and prepped and draped in sterile fashion. The right groin was then anesthetized via 20 mL of 2% lidocaine, and the right common femoral artery was accessed via single wall puncture technique. A 6-French femoral arterial sheath was advanced over a guidewire using modified Seldinger technique.
+Next, a 6-French JL4 catheter was advanced over the guidewire to the level of the ascending aorta. This catheter was used to selectively engage the left main coronary artery. The left main coronary artery and its branches were then imaged in multiple planes and views. The JL4 catheter was subsequently withdrawn over the guidewire.
+Next, a 6-French JR4 catheter was advanced over the guidewire to the level of the ascending aorta. This catheter was used to selectively engage the right coronary artery, which was then imaged in multiple planes and views. The JR4 catheter was then withdrawn over the guidewire.
+Next, a 6-French angled pigtail catheter was advanced over the guidewire to the level of the ascending aorta. This catheter was used to cross the aortic valve and enter the left ventricle where hemodynamic measurements were obtained and left ventriculography was performed in the RAO projection via hand injection. The pigtail catheter was then used to obtain hemodynamic measurement upon pullback across the aortic valve into the ascending aorta. The pigtail catheter was subsequently withdrawn over the guidewire.
+At the termination of diagnostic coronary angiography, the patient was referred for percutaneous intervention.
+PROCEDURE FINDINGS:
+SELECTIVE CORONARY ANGIOGRAPHY:
+1. Left main: The left main is long and bifurcates into left anterior descending and circumflex coronary arteries. The left main is angiographically free of significant stenosis.
+2. Left anterior descending: The left anterior descending has mild to moderate luminal irregularities and is noted to be angiographically free of significant disease. The left anterior descending provides 2 medium caliber, medium length diagonal branches in its proximal and mid segments.
+3. Circumflex: The circumflex coronary artery is noted to be moderately, diffusely diseased without focal significant stenosis and provides 3 obtuse marginal branches prior to terminating in the AV groove. The circumflex coronary artery and its branches are, otherwise, free of angiographically significant stenosis.
+4. Right coronary artery: The right coronary artery is dominant and is noted to have a proximal 90% ulcerated plaque. The rest of the right coronary artery is noted to have moderate diffuse luminal irregularities with multiple segments of ectasia.
+5. Left heart catheterization and left ventriculography: Left ventricular end-diastolic pressure 20. No gradient noted upon pullback. Visually estimated ejection fraction of 60-65%.
+FINAL DIAGNOSIS:
+Severe coronary artery disease involving the right coronary artery.
+PLAN:
+The patient underwent successful percutaneous intervention to the proximal right coronary artery via 3.5 x 13 mm and 3.5 x 8 mm Cypher drug-eluting stents. These stents were placed in an overlapping fashion and were postdilated with excellent angiographic results with 0% residual stenosis.
+Electrophysiology Sample Reports    Cardiac Cath Sample Report
+Cardiology Operative Samples #1    Cardiology Operative Samples #2Medical Transcription Word Seeker - Google Search for MTs - Searches just Medical Websites

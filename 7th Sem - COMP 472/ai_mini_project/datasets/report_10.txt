@@ -1,0 +1,39 @@
+Cardiomyopathy Discharge Summary Sample Report
+
+DATE OF ADMISSION: 
+MM/DD/YYYY
+DATE OF DISCHARGE: 
+MM/DD/YYYY
+FINAL DIAGNOSES:
+1. Cardiomyopathy.
+2. Atrial fibrillation, new onset, with rapid ventricular response.
+3. Congestive heart failure.
+PROCEDURES PERFORMED:
+1. Left heart catheterization.
+2. Coronary angiography.
+3. Left ventriculogram.
+CONSULTANT: 
+John Doe, MD
+HISTORY OF PRESENT ILLNESS: 
+The patient is a (XX)-year-old female who has been in good health until two weeks prior to admission when she presented with cold symptoms, cough and congestion but no fever or chills. She was treated with antibiotics and expectorants for acute bronchitis with mild improvement.
+On the morning of admission, she became short of breath with pressure-type substernal chest pain. She was seen at the emergency room due to worsening symptoms and was found to be in atrial fibrillation with rapid ventricular response. Cardiac enzymes were normal. CAT scan of the chest was negative for pulmonary embolism. She was admitted after she was started on Cardizem drip.
+PHYSICAL EXAMINATION:
+GENERAL: Revealed well-developed, well-nourished, oriented Hispanic female who was complaining of shortness of breath.
+VITAL SIGNS: Blood pressure 114/56, respirations 18, pulse 78, and temperature 98.4.
+HEENT: Normal.
+HEART: Regular rate and rhythm.
+LUNGS: Clear to auscultation.
+ABDOMEN: Benign.
+EXTREMITIES: No edema, clubbing or cyanosis.
+LABORATORY DATA: 
+Revealed a normal CBC: Hemoglobin 14.2, hematocrit 42.4. Blood sugar 122, BUN 17, creatinine 1.18. CK 86, troponin 0.06. BNP 554. Thyroid function test was normal. D-dimer 1.22.
+TRANSTHORACIC ECHOCARDIOGRAM: Left ventricle was markedly dilated. Overall, left ventricular systolic function was moderately to markedly decreased. Left ventricular ejection fraction was 35%. There was severe diffuse left ventricular hypokinesis. Left ventricular wall thickness was normal. Left atrium was moderately dilated. There was mild mitral annular calcification. There was moderate mitral valvular regurgitation. The right ventricle was moderately to markedly dilated. Right ventricular systolic function was moderately reduced. There was moderate tricuspid valvular regurgitation. Right atrium was moderately dilated.
+EKG: 
+Atrial fibrillation with rapid ventricular response at the rate of 148 beats per minute with nonspecific ST-T wave abnormality.
+HOSPITAL COURSE: 
+The patient was admitted to telemetry bed and continued on Cardizem drip with anticoagulation with heparin. She underwent echocardiogram with the above findings. She was seen by Dr. John Doe in consultation. She later developed congestive heart failure requiring diuretic treatment with ACE inhibitor. Beta blocker was also given.
+     
+The patient underwent cardiac catheterization showing 20% stenosis of the left main coronary artery with calcification. There was 50% proximal stenosis of the left anterior descending artery with focal 40% stenosis in the mid segment and 50% stenosis on the mid to distal segment. At the bifurcation of the small diagonal artery, there was 50-70% ostial stenosis and 50% mid stenosis of the left circumflex artery, 50% proximal stenosis of the second obtuse marginal artery and 50-70% small focal stenosis of the mid right coronary artery being dominant artery.
+Left ventriculogram showing left ventricle dilatation and globally hypokinetic with ejection fraction of 20-25%. Left ventricular end-diastolic pressure was 33 mmHg. Dr. Jane Doe's recommendation was to treat the patient medically with beta blocker, ACE inhibitor, and digoxin for rate control of her atrial fibrillation in addition to aspirin and lipid-lowering therapy. Electrophysiology consultation was also obtained. The patient remained stable throughout her hospital stay. She was later transferred to outside hospital for further evaluation and treatment.
+Cardiology Consult Sample Report Cardiovascular Terms for Medical Transcriptionists
+Medical Transcription Word Seeker - Google Search for MTs - Searches just Medical Websites

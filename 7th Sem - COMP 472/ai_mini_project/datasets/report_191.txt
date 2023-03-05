@@ -1,0 +1,29 @@
+Implantable Cardioverter-Defibrillator Implantation Sample Report
+
+DATE OF PROCEDURE: MM/DD/YYYY
+PREOPERATIVE DIAGNOSES:
+1. Ischemic cardiomyopathy with ejection fraction of 35%. 
+2. Coronary artery disease, status post myocardial infarction and status post coronary artery bypass graft. 
+3. Congestive heart failure.
+4. Right bundle branch block with intraventricular conduction delay of 130 milliseconds.
+5. Dyslipidemia. 
+POSTOPERATIVE DIAGNOSES:
+1. Ischemic cardiomyopathy with ejection fraction of 35%. 
+2. Coronary artery disease, status post myocardial infarction and status post coronary artery bypass graft. 
+3. Congestive heart failure.
+4. Right bundle branch block with intraventricular conduction delay of 130 milliseconds.
+5. Dyslipidemia. 
+PROCEDURE PERFORMED:
+1. Implantation of biventricular implantable cardioverter-defibrillator. 
+2. Serial defibrillation threshold testing. 
+3. Fluoroscopic guidance.
+SURGEON: John Doe, MD
+ANESTHESIA: Monitored anesthesia.
+ESTIMATED BLOOD LOSS: Minimal. 
+BRIEF HISTORY: This is a (XX)-year-old female with ischemic cardiomyopathy, depressed ejection fraction, intraventricular conduction delay, classification III congestive heart failure, referred for biventricular ICD implant. Meeting criteria of MADIT II trial and COMPANION trial. 
+DESCRIPTION OF PROCEDURE: The patient was prepped and draped in the regular fashion. After giving lidocaine locally in the left pectoral region, a 12 cm incision was made after a blunt dissection. A subcutaneous pocket was created at the left pectoral region. The subclavian vein was punctured three times. Using the wire system, the coronary sinus extended hook with the help of coronary sinus straight decapolar catheter used to cannulate the coronary sinus. A coronary sinus angiogram was done and the lateral vein was selected. However, the lateral vein was too small and it was felt it might not be very good to stabilize the LV lead for a long period of time, concern of lead dislodgement later, so the anterior cardiac vein was then selected. The LV lead was then placed to the anterior cardiac vein with good sensing and pacing parameters. Then, RV active fixation lead was placed at the RV apex with good pacing and sensing parameters. The right atrial lead was then also screwed in the anterior cardiac vein with good pacing and sensing parameters. All leads were anchored to pectoralis major muscle with 0-silk. The subcutaneous pocket was irrigated with antibiotic solution. All leads were then attached to the generator and the generator was implanted in the subcutaneous pocket. After interrogating the device, VF was induced with T-wave shock, which was correctly diagnosed by the device without any dropout, and the patient was cardioverted back to sinus rhythm with 11 joules. The subcutaneous pocket was closed with 2-0 Vicryl and the skin was closed with staples. The patient tolerated the procedure and there were no complications seen. We will check chest x-ray postprocedure to rule out pneumothorax. 
+TECHNICAL DATA: Device implanted is Guidant Contak Renewal 3HE, model xxxx with serial #xxxxxx. Leads implanted, right atrial lead is a Medtronic CapSureFix xxxx, 52 cm with serial #PJNxxxxxxV. The right ventricular lead is Guidant model xxxx with a serial #xxxxxx. The left ventricular lead is a Guidant Easytrak 2, model #xxxx, serial #xxxxxx. 
+MEASURED DATA: Atrial electrogram in the right atrium is 0.8 millivolts, in the RV 14.6 and in the LV 3.3 millivolts. Atrial lead impedance 540 ohms. RV lead impedance 528 ohms and the LV lead impedance 1372 ohms. The atrial capture threshold is 0.6 volts at 0.5 milliseconds, RV is 0.6 volts at 0.5 milliseconds and the LV is 3.0 volts at 0.5 milliseconds. 
+DEFIBRILLATION THRESHOLD TESTING: High shock impedance of 38 ohms. VF was induced with T-wave shock and was successfully cardioverted back to sinus rhythm with 11 joules and high shock impedance again at 33 ohms . 
+SUMMARY: Successful biventricular implantable cardioverter-defibrillator implant from left subclavian vein. Good defibrillation threshold testing, equal to 11 joules.
+Electrophysiology Sample Reports     Cardiac Cath Sample ReportCardiology Operative Samples #1      Cardiology Operative Samples #2MT Word Help                       Medical Transcription SamplesMedical Transcription Word Seeker - Search Medical and MT Websites Exclusively

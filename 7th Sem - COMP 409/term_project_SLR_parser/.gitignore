@@ -1,0 +1,9 @@
+# FILES
+
+*.dot
+*.dot.png
+
+# DIRS
+
+.venv/
+__pycache__/

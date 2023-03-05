@@ -1,0 +1,17 @@
+Google for MTs and Other Useful MT Search Engines
+
+Customized search engines are search engines that cater to the specific needs of certain individuals or groups. We, as medical transcriptionists, basically research words via a search engine such as Google. However, since Google searches all available websites on the web, the search results you get from a general search engine might not be relevant to your query. Hence, the need for a custom search engine that searches primarily across medical sites (in the case of a medical transcriptionist).
+One such search engineis called "Medical Transcription Word Seeker." It is also known to medical transcriptionists as "MT Google" or "Google MT" or "Google for MTs" or "Google search for MTs."
+This is a Google custom search engine just for medical transcriptionists. It searchesonly websitesthat focus on medical and medical transcription data. Here's the direct link to this custom search engine for MTs. 
+Google search for MTs
+Another custom search engine is "Doctor Finder Search Engine." This custom search engine, as the name suggests, searches across just doc finder / hospital finder websites to get you doc / hospital names that you may be searching for. You can use search quotes and wildcards to find docs. A typical search query might look like,
+"* Smith, MD * OH" - if you are looking for a "Dr. Smith"in Ohio, but aren't sure of his/her first name
+If you have additional information like the department the doc is from, you can add that to the query and it may now look like this,
+"* Smith, MD * OH" Cardiology
+If you don't know the name of the doc at all, or can't spell out the name, you may search using a query like this,
+"*, MD * OH" cardiology - this search would return results with all doctors who are cardiologists from Ohio
+You can switch from using "MD" to "DO" as your credentials - if you don't find any results with "MD"
+This custom search engine can be found here,
+Doc Finder Custom Search Engine
+There are other similar custom search engines created just for MTs. You may find some more custom-made Google search engines on this site,
+MT Word Help

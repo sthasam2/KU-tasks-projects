@@ -1,0 +1,35 @@
+Sample Newborn Medical History and Discharge Sample Report
+
+DATE OF ADMISSION: MM/DD/YYYY
+DATE OF DISCHARGE: MM/DD/YYYY
+HISTORY OF PRESENT ILLNESS: Infant is (XX) weeks’ gestation large for gestational age female who was born via normal spontaneous vaginal delivery. Mother is (XX) years old, gravida 1, para 0, A negative, serology negative. Other prenatal labs were negative. Mother had pregnancy-induced hypertension during this pregnancy and was induced at 36 weeks’ gestation secondary to PIH. Rupture of membrane was 21 hours prior to delivery. Mother also had temperature of 100.8 degrees Fahrenheit during labor and did receive ampicillin, multiple doses. Baby was born with Apgars of 8 and 9, and after birth, the infant became tachypneic during transition to 70-80 breaths per minute, and the infant was admitted to NICU for further management.
+PHYSICAL EXAMINATION ON ADMISSION:
+VITAL SIGNS: Tachypneic with a respiratory rate of 80 per minute. Mild retractions. Pink on room air. O2 saturations were 96% on room air.
+HEART: Regular rate and rhythm. No murmur. Pulses were normal.
+LUNGS: Clear.
+ABDOMEN: Soft. No hepatosplenomegaly.
+GENITOURINARY: Normal female.
+NEUROLOGICAL: Grossly good tone.
+ADMISSION DIAGNOSIS:
+1. Transient tachypnea of newborn.
+2. Rule out sepsis secondary to respiratory distress and prolonged rupture of membranes and maternal fever.
+PLAN ON ADMISSION: To keep the baby NPO, on IV fluids. Septic workup was done. IV antibiotics were started. Infant was observed on pulse oximetry with O2 saturations between 92-96%. Parents were told regarding the status of the infant and management in NICU.
+HOSPITAL COURSE:
+1. TTN. The infant gradually started to breathe normal with a respiratory rate of less then 60 breaths per minute by the end of the day of admission, and the TTN problem was resolved as well.
+2. Rule out sepsis. Workup was done secondary to respiratory distress, prolonged rupture of membranes and maternal fever. CBC was with 8 bands, but the rest of the CBC was benign. Blood culture remained negative until 72 hours, after which the antibiotics were stopped and the problem was resolved.
+3. Hypoglycemia. The infant had a D-stick of 46 initially but then improved gradually with feeds and the problem was resolved.
+4. Hyperbilirubinemia. The infant looked icteric since MM/DD/YYYY. On MM/DD/YYYY, the bilirubin level was 10.4 and the direct was 0.4, and on MM/DD/YYYY, the bilirubin level was 12.2 with the direct of 0.4. Baby’s blood type was A negative, direct Coombs negative. Although looks very icteric, but the bilirubin level was only 12, and it was not adequate to start the phototherapy. Mother is told to continue to supplement and watch for 6-8 wet diapers and make sure that the baby is well hydrated, and in case of worsening of jaundice, she will call the pediatrician right away. On MM/DD/YYYY, the infant was in stable condition.
+PHYSICAL EXAMINATION ON DISCHARGE:
+VITAL SIGNS: Stable.
+HEART: Regular rate and rhythm. No murmur. Pulses are normal.
+LUNGS: Clear.
+ABDOMEN: Soft. No hepatosplenomegaly.
+NEUROLOGICAL: Grossly good tone.
+DISCHARGE DIAGNOSIS:
+1. Transient tachypnea of newborn, resolved.
+2. Sepsis ruled out.
+3. Hypoglycemia, resolved.
+4. Hyperbilirubinemia, stable.
+CONDITION ON DISCHARGE: Stable.
+PLAN ON DISCHARGE: To follow up with Dr. Doe in 1 week.
+Pediatric Discharge Summary Samples #1      Discharge Summary Sample Reports #2Neonatal / Infant Discharge Summary Sample   Delivery Note Transcribed Sample ReportMedical Transcription Word Seeker - Google Search for MTs - Searches just Medical Websites

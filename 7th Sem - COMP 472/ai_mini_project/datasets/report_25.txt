@@ -1,0 +1,66 @@
+Pediatric SOAP Note Dictation Sample Report
+
+CHIEF COMPLAINT: 
+Sore throat.
+SUBJECTIVE: 
+The patient is a (XX)-year-old female who presents to the clinic with father due to concerns for sore throat. The patient states that over the past three days, she has had difficulty with sore throat, runny nose, cough and nasal congestion. Yesterday, she also had a fever of 101. Her appetite has been decreased. She is still maintaining good fluid intake. No vomiting or diarrhea. No sick contacts at home; however, she does attend school. Medications included Tylenol during this illness. No known drug allergies.
+OBJECTIVE:
+VITAL SIGNS: Temperature 98.2 and weight 51 kg.
+GENERAL: Alert, in no acute distress.
+HEENT: Normocephalic and atraumatic. Pupils are equal, round, and reactive to light. Conjunctivae are clear. Tympanic membranes are clear bilaterally. Nares are patent, free of discharge. Oropharynx has slight erythema. No tonsillar exudates.
+NECK: Supple with shotty anterior cervical lymphadenopathy.
+LUNGS: Clear to auscultation bilaterally.
+HEART: Regular rate and rhythm without murmur.
+ABDOMEN: Benign.
+SKIN: Free of rashes.
+LABORATORY DATA: 
+Rapid strep screen was negative.
+ASSESSMENT: 
+A (XX)-year-old female with viral nasopharyngitis.
+PLAN: 
+A rapid strep screen was performed in the clinic today, which was negative. We will send this for culture and contact the family with appropriate medical management if it returns positive. Otherwise, discussed likely viral etiology of illness. Supportive care measures were reviewed. The patient and her father were advised about warning signs and to return to clinic if any noted. Otherwise, follow up as needed.
+Sample #2
+CHIEF COMPLAINT: 
+Possible eye infection.
+SUBJECTIVE: 
+The patient is an (XX)-year-old female who presents to the clinic with mother due to concerns for possible pinkeye. Mother states that over the past three to four, her eyes have been watering a lot, and there was a little bit of green discharge. They also appear slightly red. Over the past few days, she has also had runny nose and nasal congestion. The patient denies any fever or coughing. Overnight, she began complaining of ear pain. She is still maintaining good oral intake. No vomiting or diarrhea. No sick contacts. No routine medications. No known drug allergies.
+OBJECTIVE:
+VITAL SIGNS: Temperature 98.2. Weight 15.8 kg, height 94 cm.
+GENERAL: Alert, in no acute distress.
+HEENT: Normocephalic and atraumatic. Pupils are equal, round, and reactive to light. Conjunctivae are clear. She does have some watering of the eyes noted. Tympanic membrane on the right is erythematous and bulging, left is clear. Nares are patent, clear rhinorrhea. Oropharynx is pink and moist.
+NECK: Supple.
+LUNGS: Clear to auscultation bilaterally.
+HEART: Regular rate and rhythm without murmur.
+ABDOMEN: Benign.
+SKIN: Free of rashes.
+ASSESSMENT:
+1. Right otitis media.
+2. Mild conjunctivitis.
+3. Viral upper respiratory infection.
+PLAN: 
+Recommended beginning the patient on a 10-day course of amoxicillin, 80 mg/kg/day, to treat for her otitis media. Her conjunctivitis is mild, and we do not believe she will require any topical antibiotics at this time since she will already be on an oral antibiotic. Discussed continuing supportive care measures and to return to clinic as needed.
+Sample #3
+CHIEF COMPLAINT: 
+Fever, congestion.
+SUBJECTIVE: 
+The patient is an (XX)-month-old female who presents to the clinic with a one-day history of fever up to 103 degrees, decreased appetite and increased fussiness. Mother states that she has had chronic runny nose, nasal congestion and intermittent wet cough for the past four weeks. The patient does attend daycare, and there have been multiple sick exposures at school. Mother states that there have been confirmed cases of RSV. The patient, however, has not had any wheezing, increased work of breathing, vomiting or diarrhea. The patient is drinking fluids well and maintaining good number of wet diapers. Medications include Tylenol every 4 to 6 hours as needed and Advil every 6 to 8 hours as needed. No known drug allergies.
+OBJECTIVE:
+VITAL SIGNS: Temperature 98.2, pulse 100, respiratory rate 22, weight 8.3 kg, length 66 cm, oxygen saturation 100% on room air.
+GENERAL: Awake, alert, active infant in no acute distress.
+HEENT: Normocephalic and atraumatic. Pupils are equal, round, and reactive to light. Conjunctivae are clear. Left TM is erythematous and bulging. Right TM is slightly erythematous, dull. Positive nasal congestion. Throat is nonerythematous. Mucous membranes are moist.
+HEART: Regular rate and rhythm.
+LUNGS: Clear to auscultation bilaterally with no wheezes. Good air movement throughout.
+ABDOMEN: Soft, nontender, and nondistended. Active bowel sounds.
+GENITOURINARY: Erythematous confluent areas with satellite lesions.
+EXTREMITIES: Warm and well perfused.
+ASSESSMENT:
+1. Bilateral otitis media.
+2. Prolonged viral upper respiratory infection.
+3. Monilial diaper dermatitis.
+PLAN:
+1. For otitis media, we will treat with a 10-day course of cefdinir 125 mg/5 mL half teaspoon by mouth twice a day.
+2. For viral symptoms, recommended continued supportive measures, clearing nasal secretions as needed, encouraging fluid intake, advancing diet slowly as tolerated and Tylenol or ibuprofen as needed for fever or pain.
+3. For monilial dermatitis, prescription was provided for nystatin ointment to apply to affected area three times a day until clear. Recommended airing the patient out of diaper, limiting moisture in this area and using diaper creams in between as needed.
+4. Warning signs were discussed with the mother. Mother is to return with the patient if the patient develops persistent fever, worsening symptoms, respiratory difficulty, poor feeding or for any other concerns.
+Pediatric Discharge Summary Samples #1    Discharge Summary Sample Reports #2Infant Physical Exam Words for MTs Pediatric SOAP Note Example ReportNeonatal / Infant Discharge Summary Sample  Delivery Note Transcribed Sample Report
+Medical Transcription Word Seeker - Google Search for MTs - Searches just Medical Websites

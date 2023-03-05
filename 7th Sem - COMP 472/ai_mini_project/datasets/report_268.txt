@@ -1,0 +1,23 @@
+Esophageal Motility / Esophageal Manometry and Bravo PH Study Medical Transcription Sample / Example Report
+
+DATE OF PROCEDURE: MM/DD/YYYY
+PROCEDURE PERFORMED: Esophageal motility.
+PHYSICIAN: John Doe, MD
+INDICATION: The patient is being evaluated for dysphagia.
+PROCEDURE AND FINDINGS:
+1. Lower esophageal sphincter: Using the Medtronics esophageal manometry recording system, multiple circumferential measurements were taken of the patient's lower sphincter. The highest pressure obtained was a slightly elevated value at 37 mmHg. Relaxation during swallowing was definitely abnormal. Several swallows showed no relaxation at all, and in fact, there appeared to be a paradoxical increase in the lower sphincter pressure with swallowing. Most other contractions showed a brief, short duration relaxation towards the gastric baseline with the average relaxation duration being 6.5 seconds. The normal value is 11-12 seconds. Most significantly, there was an increased residual pressure with swallows where relaxation was present, with an average of 11.8 mmHg. The normal value is less than 8 mmHg. This patient's sphincter was 2.5 cm, of which 1.5 cm was intrathoracic. It was noted that the intraesophageal pressure was less than gastric pressure, which is the normal situation, and which is not typical of achalasia.
+2. Esophageal contractions: The contractions in this patient were abnormal, but not uniform. Frequent simultaneous contractions were definitely seen, but other contractions were undefined. With these contractions, there was the initial contraction in the proximal channel, and then shortly afterward, simultaneous contraction of the second and third channels. No normal peristalsis was seen during this examination. The average distal amplitude was approximately 50 mmHg, which is borderline normal.
+3. Upper esophageal sphincter: A circumferential measurement of the upper sphincter was normal at 32.2 mmHg. There was normal relaxation to the esophageal baseline following a swallow and normal coordination of this sphincter with the pharynx during a swallow.
+CONCLUSIONS: The lower sphincter study in this patient is very typical of achalasia, but the body study is less so. Given all the findings, I suspect that this represents some variant of achalasia.
+*********************************************************************************
+DATE OF PROCEDURE: MM/DD/YYYY
+PROCEDURE PERFORMED: A 48-hour Bravo pH study.
+PHYSICIAN: John Doe, MD
+INDICATION: The patient is being evaluated for acid reflux disease.
+PROCEDURE AND FINDINGS:
+1. Reflux studies: During the 2 days of this study, day #2 was the most significant with regard to the patient’s reflux. During the 22 hours and 45 minutes of this period, the patient experienced 54 episodes of reflux. This was slightly above the normal value of less than 46.8 reflux events. The reflux time in the supine position was elevated at 6.3%. The normal reflux time supine is less than 3.5%. The reflux time in the upright position was normal at 7.2%. For the total study, the reflux time was elevated at 6.9%. The normal value is less than 4.5%. There were a normal number of long reflux events at 3. However, the duration of the longest event was elevated at 30 minutes. Normally, the longest reflux event should not exceed 19.8 minutes.
+2. Symptom index: Symptom index was calculated using the SAP table for the total procedure. For the complaint of heartburn, this occurred at the 99th percentile with respect to reflux giving a positive result. The complaint of regurgitation occurred at the 99.9th percentile giving also a positive result. The complaint of chest pain occurred at the 100th percentile giving a positive result.
+CONCLUSIONS:
+1. Positive reflux study.
+2. Positive symptoms index for heartburn, regurgitation and chest pain.
+MT Word HelpMedical Transcription SamplesMedical Transcription Word Seeker - Google Custom Search for MTs - Searches just Medical Websites

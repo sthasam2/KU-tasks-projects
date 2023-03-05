@@ -1,0 +1,38 @@
+Nephrology - Renal Consultation Medical Transcription Sample Report
+
+DATE OF CONSULTATION: MM/DD/YYYY
+REFERRING PHYSICIAN: Jane Doe, MD
+REASON FOR CONSULTATION: Acute renal failure on chronic kidney disease.
+HISTORY OF PRESENT ILLNESS: The patient is a (XX)-year-old woman admitted with complaints of chest pain and shortness of breath. Per family, she also had episodes of nausea, vomiting and diarrhea. She was hypotensive. Review of data revealed that she was hypotensive in the emergency department with her blood pressure dropping to the 70s/20s. She is now on a dopamine drip with her blood pressure increasing to 90s-100s/30s-40s. Of note, on admission, her BUN and creatinine were 72 and 2.1 respectively, which decreased to 51 and 1.5 later today. She remains oliguric. Review of her other labs reveal a BUN and creatinine of 54 and 1.2 respectively 2 weeks ago. We are consulted for further evaluation and management of her renal disease. Of note, her potassium was 6.6 on admission and it has been treated medically and at present is down to 5.1.
+PAST MEDICAL HISTORY/PAST SURGICAL HISTORY:
+1. Chronic kidney disease with suspected baseline creatinine of 1.3 mg/dL on labs reviewed from 2 weeks ago.
+2. Type 2 diabetes mellitus.
+3. Hypertension.
+4. Coronary artery disease, status post CABG, status post stent and angioplasty subsequent to this.
+5. Dyslipidemia.
+6. Status post hernia repair.
+ALLERGIES: NO KNOWN DRUG ALLERGIES.
+CURRENT MEDICATIONS: Isordil 10 mg 3 times daily, Synthroid 25 micrograms daily, Lipitor 40 mg daily, aspirin 325 mg daily and Coreg 25 mg daily.
+SOCIAL HISTORY: The patient denies any alcohol, tobacco or illicit drug abuse.
+FAMILY HISTORY: Noncontributory.
+PHYSICAL EXAMINATION:
+GENERAL: The patient is alert, in no acute distress.
+VITAL SIGNS: Blood pressure is 98/34, temperature is 98.6, pulse is 110, respirations 20. She is saturating 99% on 8 liters of nasal cannula. Yesterday's I's and O's are 745 in and 1400 out. Today's I's and O's are 1276 in and 1000 out.
+HEENT: Reveals pink conjunctivae, moist mucous membranes, and no oral lesions.
+NECK: Her neck is supple with JVD.
+CARDIAC: Regular rate and rhythm with normal S1 and S2.
+LUNGS: Demonstrate bibasilar crackles, left greater than right, with good air exchange.
+ABDOMEN: Her abdomen is soft and nontender with normal bowel sounds.
+EXTREMITIES: There is no lower extremity edema appreciated.
+LABORATORY DATA: WBC count is 11.7, hemoglobin 10.2, platelets 232. Sodium is 137, potassium is 5, chloride 104, bicarbonate 24, BUN and creatinine are 51 and 1.5 respectively (improved from 72 and 2.1 on admit), glucose 70, calcium 8.4, BNP 1030. Urinalysis demonstrates a specific gravity of 1.010, protein is 29, pH is 5.4, 12 rbc's, full field wbc's. Random urine sodium is 120, random urine creatinine is 6.6, random urine protein is 35, fractional excretion of sodium is 21.07%.
+     
+IMPRESSION AND PLAN:
+1. The patient has acute renal failure, which I suspect is secondary to acute tubular necrosis related to her hypotension. This is supported by her markedly increased fractional excretion of sodium. I am encouraged by the fact that her hemodynamics is stable with the administration of vasopressor therapy. I will continue this to keep her systolic blood pressure greater than 80 to 90 mmHg. To further investigate this, I will check a renal ultrasound to assess for kidney size and echogenicity and to rule out any degree of obstruction. I would check her renal function at least twice daily for now.
+2. She does have some evidence of pulmonary edema, which is mild in nature. This is based on clinical exam as well as chest x-ray. We will therefore decrease her IV fluids to 30 mL/hour. We will give her one time dose of Lasix 20 mg x1. I will follow her I's and O's, daily weights and renal function very closely.
+3. Her hyperkalemia on admission is deemed secondary, predominantly, to her acute renal failure and complicated by ongoing administration of Diovan and Bactrim. I will hold Diovan and Bactrim. Her potassium is now within normal limits status post Kayexalate, insulin, D50, calcium gluconate and sodium bicarbonate. I will recheck her potassium twice daily for now and continue medical management as needed.
+4. The etiology of her hypotension is unclear, however may be related to sepsis versus acute coronary syndrome causing left ventricular dysfunction. I suspect sepsis may be a cause since her urinalysis is highly suspicious of significant urinary tract infection and she also has leukocytosis. I will pan culture her and empirically plan on starting her on Levaquin at this point. In terms of the latter, I agree with checking a 2D echocardiogram to assess her LV function.
+5. If any cardiac catheterization is deemed necessary, the patient is at risk for contrast nephropathy and therefore will need prophylaxis with Mucomyst and IV bicarbonate.
+Thank you for allowing us to participate in the care of this patient. We will follow along closely with you.
+MT Word Help
+Medical Transcription Samples
+Medical Transcription Word Seeker - Google Custom Search for MTs - Searches just Medical Websites

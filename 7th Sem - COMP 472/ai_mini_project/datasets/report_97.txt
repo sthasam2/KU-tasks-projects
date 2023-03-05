@@ -1,0 +1,27 @@
+Pulse Generator Replacement Medical Transcription Sample
+
+DATE OF PROCEDURE: MM/DD/YYYY
+PREOPERATIVE DIAGNOSIS: 
+Pacemaker battery at end-of-life.
+POSTOPERATIVE DIAGNOSES:
+1. Pacemaker battery at end-of-life.
+2. Potential need for biventricular pacemaker.
+PROCEDURE PERFORMED: 
+Pulse generator replacement, removal of a Medtronic unit and insertion of Biotronik Stratos LV with biventricular port.
+SURGEON: John Doe, MD
+ASSISTANT: Jane Doe, MD
+ANESTHESIA:
+Local anesthesia and general anesthesia.
+COMPLICATIONS:
+None.
+DISPOSITION:
+To the recovery room.
+INDICATION FOR PROCEDURE:
+The patient is a (XX)-year-old male who had previous aortic valve replacement. Later, the patient had insertion of a dual chamber pacemaker and now the pacemaker has shown signs of battery at the end-of-life. Therefore, the patient was brought in by Dr. Doe for pacemaker replacement, which was done as follows.
+DESCRIPTION OF PROCEDURE:
+The patient was placed in the supine position. Sedation was initially given and then it was converted to general anesthesia. The patient was positioned, then prepped and draped as usual for pulse generator pacemaker replacement.
+The skin where the pacemaker was inserted in the left infraclavicular area was incised over the old scar, and the incision was carried down sharply all way to the pacemaker pocket. Attention was paid not to injure any of the structures going down to the pacemaker itself. Once that was found, the pocket incision was extended to allow removal of the pacemaker from the subcutaneous pocket. Once the pacemaker was at the surface, the leads were disconnected from the pulse generator and connected with an outside pacemaker. The patient has underlying rhythm, which is an atrial flutter. Hemostasis was done in the pocket with electrocautery. Then, the bottom of the pocket was incised to allow placement of the new pulse generator.
+A Biotronik pulse generator Stratos LV was chosen, which has biventricular capabilities. At this point, we did not think the patient needed it, but the pulse generator can be connected to a third lead in the future if necessary. We checked both leads inserted several years ago. The atrial lead shows P-waves of 2.2 mV and the resistance was 480 ohms. The ventricular lead was tested as well and the threshold was 0.6 V at 0.4 msec. R-waves were 5.9 mV and the resistance was 520 ohms. Both leads were bipolar. The leads were then reconnected to the atrial and ventricular ports of the Biotronik pulse generator.
+The pocket was irrigated with a large amount of antibiotic solution. The pulse generator was easily placed into the pocket and then pocket was closed in layers as usual. The patient was pacing normally once this was into the pocket. The patient tolerated the procedure well and was transferred to the recovery room in satisfactory condition.
+Electrophysiology Sample Reports    Cardiac Cath Sample Report
+Cardiology Operative Samples #1    Cardiology Operative Samples #2Medical Transcription Word Seeker - Google Search for MTs - Searches just Medical Websites

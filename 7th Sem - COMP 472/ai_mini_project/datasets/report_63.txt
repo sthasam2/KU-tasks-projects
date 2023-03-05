@@ -1,0 +1,41 @@
+Anemia Consult Medical Transcription Sample Report
+
+DATE OF CONSULTATION: MM/DD/YYYY
+REFERRING PHYSICIAN:  John Doe, MD
+REASON FOR CONSULTATION: Normochromic, normocytic anemia.
+HISTORY OF PRESENT ILLNESS: The patient is a (XX)-year-old male with multiple medical issues. He has been admitted with complaints of sensation of ill feeling in addition to discovery of right lower lobe pneumonia with his underlying immune deficiency syndrome, as a result of HIV infection. The patient did have a history of anemia in normochromic, normocytic fashion, chronically. The patient did have a bone marrow aspirate and biopsy evaluation for this.
+At that time, bone marrow study showed evidence for normal cellular marrow with adequate megakaryocytes when he had a hemoglobin of 9.6 with MCV 88.2 and platelet count of 128,000. The patient has had essentially chronic stable anemia with fluctuating results throughout this past year.
+On this admission, the patient had hemoglobin of 7.4 initially, and today, his hemoglobin is 9.6 with MCV 89.8 while his white cell count is 2.7 and platelet count is 224,000. Reticulocyte count yesterday was 3.26, and he did have sedimentation rate of 90.
+PAST MEDICAL HISTORY: The patient does have HIV infection in addition to hepatitis C infection. Furthermore, he has history of cardiomegaly, congestive heart failure, hypertension, hyperlipidemia, diabetes mellitus, prior history of pneumonia, and prior history of polysubstance abuse. There was also a history of Pneumocystis pneumonia in the past, and in addition, he has a history of chronic renal failure.
+MEDICATIONS: The patient has been on Levaquin, dapsone, insulin, clonidine, Procardia XL, enteric aspirin, Zocor, Sustiva, methadone, Vibramycin, vancomycin, Primaxin, Toprol-XL, Cancidas, heparin and Bumex.
+ALLERGIES: NKDA.
+SOCIAL HISTORY: The patient denies alcohol and smoking. He did have a prior history of polysubstance drug abuse.
+FAMILY HISTORY: Significant for diabetes mellitus and cancer. Otherwise, noncontributory.
+REVIEW OF SYSTEMS: CONSTITUTIONAL: No fever or chills previously. He did have loss of appetite. Unsure about weight loss, but he has been complaining of increased fatigue. CARDIOVASCULAR: No chest pain or orthopnea. RESPIRATORY: Some shortness of breath, particularly on exertion; cough, nonproductive. GASTROINTESTINAL: No nausea or emesis. No GI bleed. GENITOURINARY: No dysuria, polyuria, or hematuria per patient. NEUROLOGIC: Nonfocal. No history of TIA, CVA, or seizure activity.
+PHYSICAL EXAMINATION:
+VITAL SIGNS: Temperature 96.6, blood pressure 158/82, pulse 78, and respiratory rate 18.
+GENERAL: Alert, oriented, not in distress at this time.
+HEENT: Anicteric sclerae. Pale conjunctivae. Moist mucosa.
+NECK: Supple.
+LYMPH: No peripheral adenopathy in the cervical and supraclavicular areas.
+LUNGS: Coarse breath sounds with a few rhonchi in the right lower lobe area.
+HEART: S1 and S2 present. Regular rhythm.
+ABDOMEN: Soft. No organomegaly.
+EXTREMITIES: No edema.
+NEUROLOGIC: Nonfocal.
+LABORATORY STUDIES: CBC study is as noted above. He did have erythropoietin value that was checked out previously, and the laboratory studies documented in the record show that these have been elevated; most recently this was at 64. Previous evaluation with immunofixation showed no evidence of monoclonal band.
+ASSESSMENT:
+1. Normochromic, normocytic anemia.
+2. Systemic infection with human immunodeficiency virus as well as hepatitis C.
+3. Multiple other comorbid medical issues as described above, including this current admission with right lower lobe pneumonia.
+DISCUSSION:
+1. Differential diagnosis for anemia includes chronic systemic infection with probable underlying low-grade hemolysis as a result of it, and in addition chronic disease, for which the patient has multiple reasons.
+2. Drugs could also be the culprit, but the prior bone marrow study showed no evidence of decrease in erythropoiesis and now bone marrow, based on reticulocyte count, does not appear to be hypoplastic.
+RECOMMENDATIONS:
+1. We would not proceed with bone marrow aspirate and biopsy at this time, as patients with advanced AIDS/HIV infection can have cytopenia, particularly secondary to the multiple drugs they take.
+2. The only course of action at this time should be a supportive one.
+3. There is no need to administer erythropoietin.
+Thank you, Dr. Doe, for involving us in the care of this pleasant patient. We will continue to follow with you, and further recommendations are to follow.
+Hem-Onc Consult Sample
+   
+Hem-Onc Consult Sample #2

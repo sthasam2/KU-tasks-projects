@@ -1,0 +1,21 @@
+ERCP Medical Transcription Sample Report / Example
+
+DATE OF PROCEDURE: MM/DD/YYYY
+PREOPERATIVE DIAGNOSES:
+1. Elevated liver function test and elevated bilirubin.
+2. Mildly dilated common bile duct on ultrasound.
+POSTOPERATIVE DIAGNOSIS:
+Attenuated intrahepatic duct.
+PROCEDURE PERFORMED:
+Endoscopic retrograde cholangiopancreatography.
+SURGEON: John Doe, MD
+SEDATION: Demerol 75 mg and Versed 6 mg IV.
+DESCRIPTION OF PROCEDURE: The patient was placed in the left lateral decubitus position. We sedated the patient as outlined above. The video endoscope was inserted in the esophagus and advanced into the descending duodenum. The duodenal mucosa was normal. The papilla appeared normal. Free cannulation of the common bile duct was easily obtained and a cholangiogram was performed. Initially, there were four filling defects at the distal duct, two of them were rectangular and the other two were rounded. We were somewhat concerned about there being bubbles, as we did see a couple of bubbles coming in out of the papilla, but they did not appear to rise. They appeared to be irregularly-shaped filling defects. The rest of the common bile duct was about a centimeter. The gallbladder did fill; it appeared normal. The liver appeared small and somewhat dense.
+At that point, because those seemed to persist, we put a balloon up. We did a sphincterotomy in the 12 o'clock position for about 1.2 cm. We placed a 12 mm balloon up, dragged it throughout, and some sludge did get removed, but no stones. The filling defects were no longer present. Although we did not see stones come out, we could actually see the balloon easily come through, approximating the duct. Therefore, we were suspicious that there may have been just air bubbles in this situation post treatment.
+At this point, reviewing the cholangiogram, we were uncomfortable that her intrahepatic duct did not fill very well. We attempted to put the catheter up. We could not get the catheter very well into the right side of the liver. We put a balloon up and did a cholangiogram under pressure with the balloon inflated. This did fill the intrahepatic ducts better. They appeared again difficult to fill the right side little bit, but we did not see any strictures. The intrahepatic ducts did drain very well, as well as the common bile duct.
+At this point, we felt that the cholangiogram was negative and the scope was withdrawn. The patient tolerated the procedure well.
+IMPRESSION: Elevated liver function test. Dilated duct may be an age issue. At this point, still need to consider drug-induced changes versus autoimmune process.
+RECOMMENDATIONS: We will proceed with CT scan of the abdomen to evaluate the liver.
+MT Word Help
+Medical Transcription Samples
+Medical Transcription Word Seeker - Google Custom Search for MTs - Searches just Medical Websites

@@ -1,0 +1,38 @@
+Medical Oncology Sample Report / Transcription Example
+
+DATE OF CONSULTATION: MM/DD/YYYY
+REFERRING PHYSICIAN: John Doe, MD
+REASON FOR CONSULTATION: Newly diagnosed small cell lung cancer.
+HISTORY OF PRESENT ILLNESS: The patient is a (XX)-year-old female who gives an approximately 4-week history of malaise, anorexia, loss of weight, nausea and more recently very distressing upper abdominal pain. Recently, a CT scan showed evidence of mediastinal and perihilar lymphadenopathy, as well as liver lesions. Biopsy confirmed small cell carcinoma. A medical oncology consultation was therefore requested by the primary physician. The patient states that she has not had any overt vomiting. Denies fevers or chills. Her weight loss has been about 9 pounds over the past 2 to 3 weeks. She states that her breathing is clearly worse than her usual COPD, but she has not had any cough, sputum or hemoptysis.
+PAST MEDICAL HISTORY: Hypertension, autoimmune hepatitis for about 8 years, COPD for many years, degenerative arthritis. Denies diabetes, heart disease or kidney disease.
+PAST SURGICAL HISTORY: Denies any prior surgeries.
+ALLERGIES: NO KNOWN DRUG ALLERGIES.
+CURRENT MEDICATIONS: Vicodin, prednisone, 6-mercaptopurine, losartan, Klonopin, potassium chloride, Lasix, calcitonin, albuterol and MiraLax.
+SOCIAL HISTORY: The patient states that she smoked 3 packs a day for about 30 years, but quit approximately 8 years ago. She states she has never had any history of heavy alcohol abuse. Denies any drug abuse.
+FAMILY HISTORY: There are no clear familial illnesses. The patient's half-sister was treated for a fibrous histiocytoma with surgery. Her mother was treated for colon cancer.
+REVIEW OF SYSTEMS: GENERAL: Please see HPI. HEENT: No mouth sores, gum bleeds or difficulty swallowing. CARDIOVASCULAR: No chest pressure. No palpitations. RESPIRATORY: See HPI. GASTROINTESTINAL: See HPI. GENITOURINARY: No blood or burning with urination. MUSCULOSKELETAL: Denies any new or unusual back, bone or muscle pains. SKIN: No unusual new skin spots or rashes. HEMATOLOGIC: No history of blood clots. No abnormal hemorrhaging.
+PHYSICAL EXAMINATION:
+VITAL SIGNS: Temperature 98.6, blood pressure 136/78, heart rate 104, respiration rate 22 with mild dyspnea at rest.
+GENERAL: The patient is a chronically ill, pleasant lady, in no acute distress, although has dyspnea at rest.
+SKIN: Clear, warm and dry.
+NODES: Not palpable in cervical, supraclavicular and axillary regions.
+HEENT: Normocephalic and atraumatic. Sclerae and conjunctivae are clear without icterus or watery discharge. Oropharynx shows candida plaques on the palate, no ulcers or bleeding. Extraocular movements and visual fields are intact. Pupils are equal, round and reactive to light.
+NECK: Supple.
+BACK: No point spine or CVA tenderness.
+LUNGS: Breath sounds are decreased throughout both lung fields, except in the extreme bases. No rales or rhonchi.
+HEART: Distant S1, S2, without murmur or gallop.
+ABDOMEN: Distended with tender liver edge palpable about 10 cm below the right costal margin. No other masses.
+EXTREMITIES: There is no clubbing, cyanosis or edema and no calf tenderness.
+NEUROLOGIC: The patient is alert and oriented x3. Cranial nerves II through XII are intact. Motor strength is 5/5 in both upper and both lower extremities. Deep tendon reflexes are 1+ and bilaterally symmetric in both upper and lower extremities. No Babinski sign is noted.
+LABORATORY DATA: Pathology report from liver biopsy confirms differentiated small cell carcinoma. WBC 9.8, hemoglobin 12.6, platelets 502. Basic metabolic panel was unremarkable. INR 1.12, PTT 26.2, AST 118, ALT 88, total bilirubin 0.9, alkaline phosphatase 242, albumin 2.6, and calcium 10.6. CT chest report read and images reviewed; bulky mediastinal and perihilar lymph node masses are identified, as are lucent lesions in the liver compatible with metastatic disease. Bone scan report showed there is some concern about osseous metastasis, although degenerative changes are also possible.
+IMPRESSION:
+1. Extensive stage small cell lung cancer.
+2. Liver metastasis due to extensive stage small cell lung cancer.
+3. Hypercalcemia, likely in part due to metastatic small cell lung cancer.
+4. Underlying chronic obstructive pulmonary disease.
+5. Underlying hypertension.
+6. History of autoimmune hepatitis.
+RECOMMENDATIONS: This was discussed at length with the patient. Her half-sister and her significant other were at the bedside during the discussion. As I explained to the patient, median survival without treatment for patients with small cell lung cancer is in the order of 2 to 3 months. This is raised to around 10 to 12 months with systemic chemotherapy. Several regimens are possible. Cisplatin and Camptosar is one such useful regimen. We discussed the schedule as well as anticipated risks and side effects, which include hearing loss, kidney damage, numbness and tingling from neuropathy, infection or bleeding from marrow toxicity. There is even a small risk of death. There is a chance of diarrhea from Camptosar. Despite these risks and potential toxicity, patients who receive chemotherapy have an improved survival and quality of life than patients who refuse treatment. At this point, the patient is still undecided and wishes to think things over overnight. We will write pretreatment hydration for overnight administration along with allopurinol to reduce the risk of tumor lysis syndrome and related nephropathy. Chemotherapy orders will be placed on the chart to be administered only after the patient consents. We will also request that patient materials about small cell lung cancer as well as the drugs just described are provided to the patient.
+Thank you very much for this consultation. We will follow the patient with you.
+Hem-Onc Consult Sample           Hem-Onc Consult Sample # 2
+MT Word HelpMedical Transcription SamplesMedical Transcription Word Seeker - Google Custom Search for MTs - Searches just Medical Websites

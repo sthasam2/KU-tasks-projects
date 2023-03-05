@@ -1,0 +1,51 @@
+Prostate Adenocarcinoma Consult Sample Report
+
+DATE OF CONSULTATION:
+ MM/DD/YYYY
+ 
+REASON FOR CONSULTATION: 
+Prostate adenocarcinoma.
+HISTORY OF PRESENT ILLNESS: 
+The patient is a (XX)-year-old who underwent prostate biopsies for a rising PSA. Biopsies were negative for malignancy. His PSA was followed and ultimately rose to 7.6 last year. This prompted a second round of prostate biopsies showing one core positive for adenocarcinoma, Gleason score 4+3 equals 7. Treatment options have been reviewed by Dr. John Doe. A Radiation Oncology consultation is kindly requested. The patient's AUA symptom score is 7. He denies recent osseous discomforts.
+PAST MEDICAL HISTORY: 
+Hypertension; spinal stenosis, lumbar spine, treated in the past with physical therapy and epidural steroid injection; significant hearing loss requiring hearing aids; glaucoma; elevated cholesterol; and history of GERD.
+PAST SURGICAL HISTORY: 
+Cholecystectomy, removal of schwannoma from rib, and bilateral hip replacements.
+MEDICATIONS: 
+Sular, Diovan, Lipitor, and Travatan ophthalmic drops.
+ 
+ALLERGIES: 
+None.
+ 
+FAMILY HISTORY: 
+Maternal cousin had breast cancer in her 30s. Two maternal cousins had pancreatic cancer in their 40s. A half-sister had breast cancer in her 50s.
+ 
+SOCIAL HISTORY: 
+The patient has three children and two stepchildren. The patient denies tobacco use and drinks alcoholic beverages socially.
+REVIEW OF SYSTEMS: 
+A 12-point review of systems is reviewed and placed on chart.
+PHYSICAL EXAMINATION:
+GENERAL: The patient is in no acute distress.
+VITAL SIGNS: Temperature 98.2, pulse 68, respirations 18, blood pressure 156/82, and weight 182 pounds. Pain 0 on a scale of 0 to 10. ECOG performance status 0.
+HEENT: PERRLA, EOMI, sclerae nonicteric. No suspicious lesions of the oral cavity. No palpable neck adenopathy.
+LUNGS: Clear to auscultation.
+HEART: Regular rate and rhythm.
+ABDOMEN: Without tenderness, organomegaly or masses. No inguinal adenopathy.
+RECTAL: Good sphincter tone. There is a 0.5 cm nodule at the left prostate apex. Prostate otherwise mildly enlarged diffusely. No rectal masses present.
+EXTREMITIES: No clubbing, cyanosis or edema of the extremities.
+LABORATORY DATA: 
+PSA profile as follows; 3.66, 3.76, 5.32, 4.8, 5.6, 6.36, 6.3, and 7.6.
+RADIOLOGIC DATA: 
+By report, bone scan and chest x-ray showed no evidence of metastatic disease.
+PATHOLOGY DATA: 
+Prostate biopsies from last year: Adenocarcinoma, Gleason score 4+3 equals 7, involving 69% of a core taken from the left apex. No perineural invasion seen. High-grade prostatic intraepithelial neoplasia seen in biopsies taken from the left apex, left base, and right lateral apex. Eight additional prostate biopsies negative for malignancy.
+     
+ASSESSMENT: 
+Stage T2aNxM0 prostate adenocarcinoma, Gleason score 4+3 equals 7, PSA 7.6.
+RECOMMENDATIONS: 
+We have discussed radiotherapy treatment options with the patient. At the outset, the patient stated that he had done significant research and was leaning more toward external beam radiation than an implant or resection, and therefore, while we briefly discussed a radioactive permanent prostate seed implant, the majority of our discussion was focused on external beam treatment.
+The risks, benefits, and details of this were outlined in detail. The patient is very interested in the different types of technology available for delivering external beam radiation. He had questions regarding use of the TrueBeam linear accelerator, the Trilogy linear accelerator, and protons. We discussed these as well as use of TomoTherapy and the BrainLAB Novalis system.
+Overall, we do not believe there is a significant difference in the above. However, the patient is leaning toward the TrueBeam linear accelerator. One question which arises is whether his bilateral hip replacements will interfere with the image-guided portion of his treatment. We will discuss this further to see if this is an issue. If it is, an alternative would be use of TomoTherapy, which could provide image guidance for the radiation, despite the hip implants.
+We also briefly discussed active surveillance, but this was not recommended in view of the Gleason 4+3 tumor seen on biopsy. We have promised to get back to the patient after discussing things further.
+Hem-Onc Consultation Sample     Hem-Onc Consult Sample #2Radiation Oncology Consult Sample Consultation Sample Reports
+Medical Transcription Word Seeker - Custom Search for MTs - Searches just Medical Websites

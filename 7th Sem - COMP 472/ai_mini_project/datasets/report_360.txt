@@ -1,0 +1,34 @@
+Left Heart Catheterization Ventriculogram MT Sample Report
+
+DATE OF PROCEDURE:
+ MM/DD/YYYY
+PROCEDURES PERFORMED:
+1. Left heart catheterization.
+2. Left ventriculogram.
+3. Selective coronary angiography.
+4. O2 saturation monitoring.
+5. IV sedation.
+6. Percutaneous transluminal coronary angioplasty with bare-metal stent of the right coronary artery.
+7. Postintervention angiography x1.
+DESCRIPTION OF PROCEDURE: 
+After informed consent was obtained, the patient was taken to the catheterization lab where he was sedated with IV Versed and fentanyl. O2 saturation and hemodynamics were monitored throughout the procedure. The patient was sterilized and draped in the usual manner. Access was obtained via the right femoral artery using a 6 French sheath.
+Selective coronary angiography was performed using JR4, JL4, 6 French diagnostic catheters and left ventriculogram using a 6 French angled pigtail catheter. After review of the films, it was determined that there was a significant, approximately 70-80% stenosis of the mid right coronary artery, which most likely was the cause of the patient's anginal symptoms.
+Angiomax was administered. We chose not to use 2b/3a. Secondary to the patient's risk of bleed due to esophageal varices, a JR4 catheter without side holes was placed in the ostium of the right coronary artery. The lesion was crossed with the BMW wire. We primarily stented the lesion with a 3.0 x 12 mm Liberte bare-metal stent to a total of 14 atmospheres.
+Post-intervention angiography revealed 0% residual stenosis. The patient did have reproduction of chest pain and ST-segment elevation during deployment of the stent, which resolved post deflation of the balloon. The patient was then transferred to the holding area in stable condition.
+PROCEDURE FINDINGS:
+1. Left main coronary artery: The left main coronary artery has less than 20% atherosclerosis.
+2. Left anterior descending artery: The left anterior descending artery has diffuse atherosclerotic disease. In the mid portion, the artery is relatively small at about 2 to 2.5 mm in diameter and there is about a 50% focal stenosis. There is a diagonal artery that comes off near this stenosis, but has about 50% ostial stenosis.
+3. Left circumflex artery: The left circumflex artery has diffuse nonobstructive coronary artery disease
+4. Right coronary artery: The right coronary has a focal 70-80% stenosis in the mid segment.
+5. Left ventriculogram: The left ventricle shows uniformly normal wall motion with an ejection fraction of 50-55%.
+CONCLUSIONS:
+1. Successful angioplasty of the right coronary artery with reduction of stenosis from 70-80% down to 0% after placement of a 3.0 x 12 mm Liberte bare-metal stent.
+2. Moderate stenosis of the left anterior descending artery consisting of a 50% mid left anterior descending artery and 50% ostial diagonal artery stenosis.
+3. Preserved left ventricular systolic function.
+PLAN:
+1. The patient will remain in the hospital overnight for observation of potential complications.
+2. Should be loaded with Plavix 300 mg and continue 75 mg daily for one month, at which time he can discontinue Plavix.
+3. He will be treated with aspirin 81 mg daily and Toprol 25 mg daily.
+4. Due to his alcohol consumption and liver abnormalities, we will not use statin therapy and treat his hyperlipidemia with Zetia 10 mg daily.
+Electrophysiology Sample Reports    Cardiac Cath Sample Report
+Cardiology Operative Samples #1    Cardiology Operative Samples #2Medical Transcription Word Seeker - Google Search for MTs - Searches just Medical Websites

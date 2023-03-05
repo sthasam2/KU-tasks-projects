@@ -1,0 +1,20 @@
+Medical Transcription Tips - Answers to Common MT Questions - Part 1
+
+TRANSCRIBING CONTRACTIONS IN A MEDICAL REPORT:
+Contractions are not to be used in medical reports. If dictated as a contraction, here is how you'd transcribe,
+Dictated: The patient can't take penicillin as he is allergic to it.
+Transcribed: The patient cannot take penicillin as he is allergic to it.
+EXCEPTION:
+The only exception to this rule is if a contraction occurs in a direct quote, as in the example below.
+Dictated: CHIEF COMPLAINT: "I don't feel too good."
+Transcribed: CHIEF COMPLAINT: "I don't feel too good."*********************************************************************************************************************************I HEAR A MED THAT SOUNDS LIKE "ENALOPRAM" - IS THERE SUCH A MED?If you hear this s/l - the med being referred to most likely isAnalpram or Analpram-HC.If this fits the context, then you have your answer!!*********************************************************************************************************************************
+HOW TO TRANSCRIBE DUPLEX ULTRASOUND?
+Many newbie as well as experienced MTs are unsure of how to transcribe "duplex ultrasound." So, is the "D" in duplex capitalized?
+Well, the answer is "duplex ultrasound" is correct. The "D" is not capitalized. Much of the confusion in this stems from the fact that the "D" in Doppler ultrasound is ALWAYS capitalized. So, the expectation is that the "D" in duplex should also be capitalized. Well, it should not be!
+CORRECT: duplex ultrasound.
+CORRECT: Doppler ultrasound.
+*********************************************************************************************************************************IS "MELANOTIC STOOL" CORRECT?
+Many doctors do dictate "melanotic stool" when in fact they should be dictating it as "melenic stool."
+Melanotic actually refers to the presence of melanin, which is a pigment of the hair/skin, etc. Melanin does not occur in stools.
+Melenic is used to refer to melena, which is defined as dark, tarry tools.
+NOTE: Most doctors dictate this wrongly as "melanotic," however it should ALWAYS be typed correctly as 'melenic.' An exception could be if you are on a STRICLY VERBATIM account - in which case you need to ask for guidance from QA or client in regards to how they'd prefer having this term transcribed.Medical Transcription Word Help

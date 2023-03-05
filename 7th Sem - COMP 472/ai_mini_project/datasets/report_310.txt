@@ -1,0 +1,55 @@
+Renal Consultation Medical Transcription Sample Report / Example
+
+DATE OF CONSULTATION: MM/DD/YYYY
+REFERRING PHYSICIAN: John Doe, MD
+REASON FOR CONSULTATION: Abnormal renal function.
+HISTORY OF PRESENT ILLNESS: The patient is an (XX)-year-old female who was admitted to the hospital after presenting with respiratory distress, ultimately requiring intubation because of a combination of x-ray findings suggestive of both airspace disease as well as congestive heart failure, and the patient was treated for both congestive heart failure and pneumonia. In this setting, the patient had an element of abnormal renal function with creatinine going as high as 2.9. It was already abnormal on admission in the low 2s. The patient also now has been noted to have new onset of hyponatremia with a sodium of 130. Because of these abnormalities, I was asked to see this patient in consultation. The patient has a longstanding history of hypertension but was unable to state the exact duration. She denies any history of diabetes mellitus. She denied any nausea or vomiting, any diarrhea, no melena, no difficulty urinating, no presence of blood in the urine and no history of recurring urinary tract infection or pyelonephritis.
+PAST MEDICAL HISTORY: As stated in the HPI. She also has COPD secondary to history of tobacco use, hypothyroidism, coronary artery disease with prior history of MI, hypertension, depression and did have some element of chronic renal insufficiency which she is aware of.
+PAST SURGICAL HISTORY: Appendectomy.
+OUTPATIENT MEDICATIONS: Lexapro 10 mg once a day, Plavix 75 mg daily, Lipitor 20 mg daily, aspirin 81 mg daily, Coreg 6.25 mg daily, Isordil 10 mg p.o. 2 times a day, Lasix 10 mg p.o. 2 times a day and Synthroid 150 mcg p.o. once a day.
+ALLERGIES: NO KNOWN DRUG ALLERGIES.
+FAMILY HISTORY: Not significant for renal disease.
+SOCIAL HISTORY: The patient had chronic tobacco use in the past, but has since discontinued. No alcohol abuse.
+REVIEW OF SYSTEMS:
+NEUROLOGIC: The patient denied any prior history of epilepsy or stroke.
+PULMONARY: She has COPD and emphysema. She did not have any hemoptysis as stated in the HPI.
+CARDIOVASCULAR: She did not have any recent chest pain, palpitation or leg edema.
+GASTROINTESTINAL: She has a history of hemorrhoids, but no recent vomiting blood or blood in the stools.
+GENITOURINARY: Normally no pain urinating. No presence of blood in the urine.
+MUSCULOSKELETAL: She has arthritis, particularly on the knees and shoulders, but no chronic use of nonsteroidal anti-inflammatory drugs.
+PSYCHIATRIC: No overt history of depression.
+HEMATOLOGIC: No overt bleeding complications.
+DERMATOLOGIC: No skin cancer.
+ENDOCRINE: She has thyroid disease. No overt diabetes mellitus.
+PHYSICAL EXAMINATION:
+VITAL SIGNS: Blood pressure 114/48, heart rate 72 beats per minute and respirations 20 per minute. She is extubated at this time. Temperature 97.8.
+GENERAL: The patient is alert and oriented x3 and has adequate insight into her current condition. She does have some poor memory recall.
+HEENT: Normocephalic. Pupils are reactive to light and accommodation. Extraocular movements are grossly intact. Somewhat pale conjunctivae. Anicteric. Oral cavity shows no lesions of the hard or soft palate. Adequate moisture in the mucosa.
+NECK: Supple with full range of motion. No JVD. Trachea is midline. No obvious palpable neck masses.
+LUNGS: Fairly clear to auscultation at this time. There is some increased percussion and no obvious retractions.
+HEART: Regular in rate and rhythm. S1 and S2. No obvious murmur, rub or gallop auscultated at this time. PMI slightly displaced from midclavicular line.
+ABDOMEN: Bowel sounds are present, soft and depressible. Nontender and nondistended. No obvious palpable masses. No obvious abdominal bruits auscultated. No hepatosplenomegaly.
+EXTREMITIES: No clubbing, cyanosis or edema. No obvious hemorrhage of the nails.
+SKIN: There is some ecchymosis, but no active rash or lesions.
+NEUROLOGIC: Grossly nonfocal. Moves all the extremities.
+LABORATORY AND DIAGNOSTIC DATA: As previously described. Today, sodium is 130, potassium 4.6, chloride 96, CO2 of 22, BUN 74, creatinine 2.4, calcium 7.6, white count of 16.6, hemoglobin 9.6, hematocrit of 30.8 and platelet count 260,000.
+Chest x-ray was reviewed and it showed some improvement of mixed airspace and interstitial infiltrate in both lungs suggestive of improving edema, probable small left pleural effusion. EKG on admission was reviewed, compatible with atrial fibrillation, left ventricular hypertrophy and ST abnormalities. Currently, on telemetry, she has sinus rhythm.
+IMPRESSION:
+1. Acute on chronic renal failure.
+2. Congestive heart failure exacerbation.
+3. Chronic obstructive pulmonary disease.
+4. Pneumonia.
+5. Hyponatremia.
+6. Hypertension.
+The patient is an (XX)-year-old female with the above-stated medical history who likely has an element of chronic renal disease on the basis of age-related chronic renal function, hypertensive nephrosclerosis and increased risk of renal atherosclerotic vessel disease, who now developed an acute exacerbation on the basis of adverse changes in renal hemodynamics. The patient does have a significant elevation of BUN in relation to the creatinine, which is due to the diuretics the patient received, as well as the intravenous steroids she is receiving for treatment of the COPD exacerbation component. The hyponatremia is on the basis of infusion of hypotonic fluids, as the patient is receiving D5 half-normal saline at this time.
+PLAN:
+1. The patient stated she has had a previous renal ultrasound within the last 6 months. We will request a copy of that renal ultrasound, as well as we will request all records related to previous hospitalizations and office records to ascertain what her baseline renal function is.
+2. We will obtain baseline 24-hour collection for total protein and creatinine clearance at this time.
+3. Given that the patient now has oral intake, I will discontinue IV fluids.
+4. Continue intravenous Lasix.
+5. Defer on a renal scan at this time.
+6. Taper down steroids as possible.
+7. Obtain urinalysis to assess for active urinary sediment. We will not do urine electrolytes at this time as the patient is currently on diuretics.
+8. Further recommendations will depend on the patient's clinical course.
+Thank you very much for allowing me to participate in the management of this patient.
+MT Word HelpMedical Transcription SamplesMedical Transcription Word Seeker - Google Custom Search for MTs - Searches just Medical Websites

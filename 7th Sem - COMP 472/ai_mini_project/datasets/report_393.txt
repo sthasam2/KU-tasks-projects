@@ -1,0 +1,58 @@
+Hematology Oncology Consultation Medical Transcription Sample Report
+
+DATE OF CONSULTATION: MM/DD/YYYY
+REFERRING PHYSICIAN: Jane Doe, MD
+CONSULTANT: John Doe, MD
+REASON FOR CONSULTATION: Persistent macrocytosis, hyperferritinemia and significant weight loss, rule out occult malignancy.
+HISTORY OF PRESENT ILLNESS: The patient is a (XX)-year-old female who was recently seen in consultation for persistent macrocytosis. She was also noted to have hyperferritinemia and significant weight loss over the last 8 months. She underwent a workup that included lab tests and a bone marrow aspirate and biopsy. The patient was admitted with a near syncopal episode. She denied having chest pain, palpitations, headache, blurred vision, bowel or bladder incontinence, witnessed seizures, etc. She also denied having bright red blood per rectum, melena, hemoptysis, hematemesis, night sweats, palpable lymphadenopathy, malaise, fatigue, etc.
+REVIEW OF SYSTEMS: She denies having chest pain, palpitations, or shortness of breath. She denies having fever, chills, or rigors. She denies having cough or wheezing. She denies having abdominal pain, bright red blood per rectum, or melena. She denies having loss of consciousness, seizures, or weakness. She denies having headache, blurred vision, or diplopia.
+PAST MEDICAL HISTORY:
+1. Left bundle branch block.
+2. Hypothyroidism.
+3. Diverticulosis.
+4. Osteoarthritis of the knees.
+5. Degenerative disk disease.
+PAST SURGICAL HISTORY:
+1. Sympathectomy.
+2. Total abdominal hysterectomy.
+3. Breast biopsy.
+4. Arthroscopic surgery of the right shoulder.
+5. Bilateral cataract surgery.
+6. Partial thyroidectomy.
+FAMILY HISTORY: Positive for cancer.
+HABITS: The patient denies smoking or drinking alcohol.
+MEDICATIONS AT HOME:
+1. Lasix.
+2. Darvocet.
+3. Altace.
+4. Synthroid.
+PHYSICAL EXAMINATION:
+GENERAL: The patient is lying in bed in no apparent distress.
+VITAL SIGNS: Blood pressure 162/92, pulse 64 per minute, respirations 22 per minute and temperature 98.8.
+HEENT: No pallor, no icterus. Extraocular muscles are intact. Pupils are round and reactive to light. Normocephalic and atraumatic.
+NECK: No JVD, no cervical lymph nodes, no bruits.
+LUNGS: Vesicular breath sounds heard in both lung fields. No rhonchi, no crackles.
+HEART: First and second heart sound heard, regular rate and rhythm. No S3, no S4.
+ABDOMEN: Bowel sounds heard in all four quadrants. No hepatosplenomegaly. Mild epigastric tenderness noted. No rebound, no guarding.
+NEUROLOGIC: Alert and oriented x4. Cranial nerves II through XII intact. Motor and sensory system grossly intact. No meningeal signs. No cerebellar deficits.
+EXTREMITIES: No edema. No Homans. No cyanosis. Pulses 2+.
+LYMPHATIC: No palpable lymphadenopathy.
+LABORATORY DATA: Stool occult blood positive. WBC 15.6, hemoglobin 12.3, hematocrit 35.8, platelet count 439,000. Sedimentation rate 95. PT 15.4, INR 1.5, and PTT 32.4. Sodium 141, potassium 4.2, chloride 102, carbon dioxide 23.7, glucose 118, BUN 31, creatinine 1.4, and calcium 9.3.
+ASSESSMENT AND PLAN:
+1. Macrocytic anemia secondary to B12 deficiency.
+a. Rule out pernicious anemia.
+2. Low grade non-Hodgkin’s lymphoma.
+3. Reactive leukocytosis
+4. Reactive hyperferritinemia.
+The patient is a (XX)-year-old female who was seen in consultation for progressive leukocytosis, eosinophilia, and hyperferritinemia. Following an outpatient consultation, she was subjected to lab tests and a bone marrow aspirate and biopsy. At the time of her consultation, she had also complained of a 30-pound weight loss over the last one year. Her lab tests that included leukocyte alkaline phosphatase and methylmalonic acid level noted an elevated methylmalonic acid consistent with B12 deficiency. Her leukocyte alkaline phosphatase was also elevated suggesting a reactive leukocytosis rather than a chronic myeloproliferative disorder. She then underwent a bone marrow aspirate and biopsy and was noted to have a normal cellular marrow showing normal maturation of myeloid precursors. Rare hypersegmented neutrophils and rare dyserythropoietic cells were also identified. Megakaryocytes appeared increased in numbers, and the blast count was less than 2%. There was no evidence of reticulin fibrosis, and the bone marrow biopsy findings were not suggestive of a chronic myeloproliferative disorder. Incidentally, a flow cytometry that was done on the bone marrow aspirate noted a small monoclonal B-cell population with chronic lymphocytic leukemic phenotype versus a small lymphocytic lymphoma phenotype with lambda light chain restriction. B cells accounted for less than 3% of the total cells analyzed. Based on this evaluation, she has been diagnosed with B12 deficiency and a low-grade lymphoma. Her leukocytosis is secondary to a reactive process rather than a chronic myeloproliferative disorder. Her hyperferritinemia was further investigated with a hemochromatosis gene analysis. This gene analysis was negative for a hereditary hemochromatosis.
+PLAN:
+1. Vitamin B 12 one mg intramuscular every month.
+2. Folic acid 1 mg by mouth every day.
+3. Antiparietal cell antibodies.
+4. Anti-intrinsic factor antibodies.
+5. CAT scan of the chest, abdomen and pelvis to further evaluate her lymphoma.
+6. No intervention required for her leukocytosis.
+7. Consider upper endoscopy in light of severe dyspepsia.
+8. Awaiting Philadelphia chromosome analysis.
+9. Consider screening upper endoscopy if the patient has pernicious anemia.
+Thank you, Dr. Doe, for this interesting consult. We will follow the patient with you.Medical Transcription SamplesMedical Transcription Word Seeker - Google Custom Search for MTs - Searches just Medical Websites

@@ -1,0 +1,20 @@
+Colorectal Surgery SOAP Note Transcription Sample Report
+
+DATE OF SERVICE: 
+MM/DD/YYYY
+SUBJECTIVE:
+ The patient is here for a long office visit. He was recently discharged from an outside clinic where he had been admitted after he had a bowel obstruction. He had recurrent strictures of ileum from Crohn's disease.
+He is followed by Dr. John Doe. He finally underwent a resection by Dr. Jane Doe, 2-3 feet of terminal ileum, which was reattached to the colon.
+He had some diarrhea treated with Imodium tablets 4 times a day. Otherwise, he has had no nausea or vomiting. His appetite is improved. He has followup with the Colorectal Surgery in about a week.
+PAST MEDICAL HISTORY:
+ Other histories include labile blood pressure, hyperlipidemia, reflux esophagitis.
+OBJECTIVE:
+ On examination, his vital signs include blood pressure of 122/84, pulse 82, respirations 18, weight is 240. HEENT: Sclerae anicteric. Neck was supple. Lungs: Clear. Heart: Regular rhythm. No gallop or ectopy. Carotids had no bruits. Abdomen: Soft, distended. He had a healing midline scar going from the entire midline. He had some mild eschars coming off without signs of infection or drainage. Extremities: No edema, cyanosis or clubbing. Pedal pulses were intact. Neurologically, he was nonfocal.
+ASSESSMENT AND PLAN: 
+The patient is recovering from extensive 
+colorectal surgery
+ with the lower terminal ileum. He is having some postoperative 
+diarrhea
+, which is to be expected at this time. We can check to see if his CBC, liver profile, albumin are recovered.
+His list of medications are aspirin 81 mg a day, he takes B12 1000 mcg monthly intramuscularly. He is going to be restarting his Humira after he has healed from his surgery. He is taking loperamide, which is Imodium 2 tablet 4 times a day for diarrhea. Takes a multivitamin daily, Protonix 40 mg daily. He had been on Welchol, but this has been held and he is now on Metamucil 2 tablets once daily.
+We will see him back in 2-3 months. He will call sooner if any problems.

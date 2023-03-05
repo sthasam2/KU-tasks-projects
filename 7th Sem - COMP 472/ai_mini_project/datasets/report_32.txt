@@ -1,0 +1,41 @@
+Abdominal Aortogram Medical Transcription Sample Report
+
+DATE OF OPERATION:
+ MM/DD/YYYY
+PREOPERATIVE DIAGNOSIS:
+ Infrarenal abdominal aortic aneurysm.
+POSTOPERATIVE DIAGNOSES:
+1. Infrarenal abdominal aortic aneurysm.
+2. Left common iliac artery stenosis.
+3. Bilateral superficial femoral artery occlusions.
+4. Single-vessel runoff bilaterally consisting of peroneal artery.
+OPERATION PERFORMED: 
+Abdominal aortogram with bilateral lower extremity runoff.
+SURGEON: 
+John Doe, MD
+ANESTHESIA: 
+Lidocaine 1% along with 1 mg of Versed and 100 mcg of fentanyl.
+ADJUSTED CONTRAST: 
+Visipaque 70 mL
+INDICATION FOR PROCEDURE: 
+The patient is a (XX)-year-old female who is a renal dialysis patient as well as hypertensive, with known peripheral vascular disease. The patient was found to have a 5 cm infrarenal abdominal aortic aneurysm. At this time, we discussed the possibility of an endovascular repair secondary to her multiple comorbidities. We discussed with the patient the risks, benefits, and alternatives to an arteriogram. She understood and agreed to proceed.
+ESTIMATED BLOOD LOSS: 
+Minimal.
+SHEATH: 
+A 5-French sheath.
+DESCRIPTION OF OPERATION: 
+After the patient was taken to the operating room and adequate anesthesia was induced, the groins were prepped and draped in the usual fashion. The right common femoral artery was easily accessed using a 19 gauge introducer needle, and a guidewire was fluoroscopically guided to the level of the diaphragm. This was then followed by placing a 5 French sheath and then a pigtail catheter with 1 cm markings.
+Sequential views were obtained from the level of the celiac artery down to the pelvis, followed by runoff of bilateral lower extremities. This showed bilaterally occluded renal arteries, a patent SMA and celiac artery, and an infrarenal abdominal aortic aneurysm that involved the bifurcation. The right common iliac artery was mildly dilated and calcified. The right external iliac artery was patent, but small, with no evidence of focal stenosis. The right hypogastric artery was patent.
+On the left, the common iliac artery showed a 40% stenosis 1 cm distal to the ostium, associated also to severe calcification. The external iliac was also, overall, small and calcified. The left hypogastric artery was patent. Bilateral common femoral arteries were patent and not diseased. Both profunda femoral arteries were patent.
+Actually, both superficial femoral arteries occlude after takeoff, with some collateralization around the geniculate, into an occluded segment of popliteal artery, with highly diseased tibioperoneal trunks, completely occluded anterior tibial arteries, and single vessel runoffs via the peroneal artery.
+At this time, we went ahead and removed the patient's sheaths and catheters from the right groin and held pressure for 10 minutes, obtaining good hemostasis.
+At the end of the procedure, all counts were correct.
+IMPRESSION:
+1. Infrarenal abdominal aortic aneurysm, bilateral occluded renal arteries.
+2. Occluded superficial femoral arteries bilaterally.
+3. Moderate stenosis of the left common iliac artery.
+4. Single vessel runoff on the right consisting of peroneal artery.
+5. Single vessel runoff on the left consisting of peroneal artery.
+The patient tolerated the procedure well without any complication.
+MT Word Help  More General Surgery Sample Reports  Medical Transcription Samples
+Medical Transcription Word Seeker - Search Just Medical Sites - Custom Search for MTs

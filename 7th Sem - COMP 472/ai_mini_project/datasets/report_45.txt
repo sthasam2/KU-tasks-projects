@@ -1,0 +1,41 @@
+Dyspnea Consult Medical Transcription Sample Report
+
+DATE OF CONSULTATION: MM/DD/YYYY
+REFERRING PHYSICIAN: John Doe, MD
+REASON FOR CONSULTATION: Dyspnea.
+HISTORY OF PRESENT ILLNESS: The patient is a (XX)-year-old gentleman who was admitted with complaints of increasing shortness of breath. He also had intermittent leg pain as well as headache along with the symptom of dyspnea. The patient states that the shortness of breath would usually occur when he sat down. He does not complain of any orthopnea. He has not had any chills, fevers, or associated increased exertional dyspnea from his usual. He was seen two weeks ago by his cardiologist, Dr. Jane Doe, at which time he had been admitted with acute appendicitis.
+He was seen for preoperative clearance, and his notes are reviewed. Dr. Doe explains in her note that the patient has been having problems with exertional dyspnea in the past secondary to his cardiomyopathy, and this has been stable for him. He was also seen prior to that, at which time he had been complaining of chest pain. These chest pains were typical in nature. However, because of history, he underwent a stress Myoview. This showed abnormal myocardial perfusion imaging for adenosine-induced myocardial ischemia demonstrating fixed inferior and anterior apical perfusion defects, most likely representing previous myocardial scarring. There was no evidence of reversible myocardial ischemia, and his EF appeared to be from 30 to 35%. The patient underwent appendectomy approximately one week ago and had been recuperating well, when he noticed the symptoms as mentioned above.
+PAST MEDICAL HISTORY: Ischemic cardiomyopathy with EF previously estimated at 25%. He had an implantable cardiac defibrillator placed last year for nonsustained ventricular tachycardia. He is on Coumadin for his mechanical mitral valve from St. Jude. He does have a history of renal insufficiency, hypercholesterolemia, peripheral vascular disease, carotid artery disease, diabetes mellitus, and obesity. He does have a history of coronary artery disease having undergone coronary artery bypass graft. He has also undergone stenting of both saphenous vein grafts to LAD and SVG to obtuse marginal branch. A left heart catheterization was performed showing that the stents were patent.
+PAST SURGICAL HISTORY: Coronary artery bypass graft, status post right carotid artery endarterectomy, appendectomy as described above.
+ALLERGIES: No known allergies.
+MEDICATIONS: Prior to hospitalization, the patient had been on Coumadin 4 mg daily Tuesday, Thursday, Saturday, and Sunday and 2 mg in between that; Lasix 40 mg daily; potassium 10 mEq b.i.d.; Plavix 40 mg p.o. daily; simvastatin 20 mg at bedtime; Niaspan 500 mg daily; loratadine 10 mg daily; bupropion SR 150 mg b.i.d.; and he had been on Omnicef for a period of 7 days.
+FAMILY HISTORY: Noncontributory.
+SOCIAL HISTORY: No alcohol or tobacco use.
+REVIEW OF SYSTEMS: The patient had symptoms as described above. Otherwise, a 12-point review of systems is unremarkable.
+PHYSICAL EXAMINATION: The patient is an obese Hispanic male who is alert and oriented and in no apparent distress. Blood pressure is 114/76, heart rate 110, respirations 20, temperature 97.6, and sats 95% on room air.
+LABORATORY DATA: WBC 10.8, hemoglobin 12.6, hematocrit 38.6, and platelets 492,000. Sodium 135, potassium 4.6, chloride 102, CO2 of 22, BUN 33, creatinine 1.8, and glucose of 204. ALT and AST within normal limits. TSH is within normal limits. His cholesterol shows that he has well-controlled LDL at 34. Triglycerides are high at 186. Total cholesterol is 102.
+DIAGNOSTIC DATA: Ultrasound of his lower extremities negative for deep venous thrombosis. CT of the chest was negative for any acute intracranial events. EKG shows junctional tachycardia at a rate of 110 with incomplete left bundle branch block. When compared to the EKG done prior, there appears to be T waves in V4, are upright in this EKG compared to the previous. With the exception of higher rates in the most recent EKG, the morphologies of QRS complexes are essentially unchanged.
+IMPRESSION:
+1. Dyspnea, rule out congestive heart failure decompensation versus 
+pulmonary 
+embolism.
+2. Status post appendectomy one week ago.
+3. History of cardiomyopathy with ejection fraction of 30 to 35%.
+4. History of coronary artery disease, status post stress test showing only fixed defect.
+5. Status post St. Jude mechanical valve, on Coumadin with subtherapeutic INR.
+6. Renal insufficiency.
+7. History of diabetes mellitus, obesity, dyslipidemia, peripheral vascular disease, carotid artery disease, and renal insufficiency.
+8. Status post automatic implantable cardioverter defibrillator secondary to history of nonsustained ventricular tachycardia.
+9. Headache, etiology uncertain, status post CAT scan showing no intracranial events.
+PLAN:
+1. Agree with V/Q scan.
+2. We will evaluate 2-D echocardiogram to evaluate the mechanical valve.
+3. Check BNP.
+4. Adjust Coumadin and place on heparin until therapeutic.
+5. Further recommendations to follow.
+Thank you very much, Dr. Doe, for allowing us to participate in the care of your patient.
+Pulmonary Consult Sample #1
+  
+Pulmonary Consult Sample #2
+  
+Consult Sample Reports

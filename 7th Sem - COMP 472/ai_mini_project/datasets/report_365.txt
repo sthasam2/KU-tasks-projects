@@ -1,0 +1,21 @@
+Sleep Study / Polysomnography Medical Transcription Transcribed Sample Report
+
+DATE OF STUDY: MM/DD/YYYY
+REFERRING PHYSICIAN: John Doe, MD
+BRIEF HISTORY: This patient is being referred for evaluation for clinical suspicion of sleep apnea.
+SLEEP STATUS: Total time in bed 389 minutes. Total sleep time 347 minutes. Sleep latency 17 minutes. REM latency 226 minutes. Sleep efficiency of 89%.
+SLEEP STAGES:
+1. Stage I: 7%.
+2. Stage II: 64%.
+3. Stage III and IV: 13%.
+4. REM of 14%. 
+The patient did have sleep fragmentation and disruption of sleep architecture with an arousal index of 19 per hour. Some periodic limb movements were also seen though they were mild in intensity and frequency. Oxygen desaturations were down to lowest of 88%. The patient had a total apnea-hypopnea index of 9 per hour, but during REM sleep, this was 17 per hour. In the supine position, this was 15 per hour. The patient slept 34% of the time in the supine position, 25% on the right side and 40% on the left side.
+Since the events were much more pronounced in the supine position, the overall data could have underestimated the severity of this patient's sleep disordered breathing.
+IMPRESSION:
+1. Overall the patient's polysomnographic data depicts mild sleep disordered breathing with apnea-hypopnea index of 9 per hour. During REM sleep, this was 17 and during supine position 15 per hour. Since the patient only slept 34% of the time in the supine position, the overall data could have underestimated the severity of this patient's sleep disordered breathing.
+2. Oxygen desaturation down to lowest of 88%. 
+3. Sleep fragmentation and disruption of sleep architecture with the arousal index of 19 per hour.
+RECOMMENDATIONS: In light of the above findings, I would consider inviting this patient back to the sleep center to undergo a second night study with CPAP/BiPAP titration, as this patient appears rather symptomatic though the polysomnographic data is mild. The patient will be requested to come back to sleep center for a second night's study with CPAP/BiPAP titration.
+MT Word Help
+Medical Transcription Samples
+Medical Transcription Word Seeker - Google Custom Search for MTs - Searches just Medical Websites

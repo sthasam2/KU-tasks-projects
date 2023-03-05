@@ -1,0 +1,19 @@
+Urodynamics and Cystometrogram Medical Transcription Sample
+
+DATE OF PROCEDURE: MM/DD/YYYY
+PREOPERATIVE DIAGNOSIS:
+Benign prostatic hypertrophy.
+POSTOPERATIVE DIAGNOSES:
+1. Benign prostatic hypertrophy.
+2. Bladder hypotonia.
+PROCEDURE PERFORMED: Complex urodynamics including sphincter EMG, cystometrogram, uroflow and abdominal manometry.
+SURGEON: John Doe, MD
+ANESTHESIA: None.
+DESCRIPTION OF PROCEDURE: The patient attempted to void and voided intermittently a total of 215 mL of yellow urine. Average flow rate was 5.5 mL per sec with maximum flow rate of 13.4 mL per sec. The patient's genital area was prepped with Betadine solution and a 7 French dual-lumen urethral catheter was inserted into the bladder without difficulty and 50 mL of postvoid residual urine was drained. A 9 French abdominal pressure catheter was inserted into the rectum. Pediatric EMG skin patches were placed perianally at 3 and 9 o'clock positions. The bladder was filled with sterile water, an infusion rate of 40 mL per minute. In the filling phase, there was evidence of uninhibited bladder contractions with pressures in the 10 to 17 cmH2O range. At 240 mL of bladder volume, the patient began to express a sense of urgency. Infusion was stopped at 260 mL and the patient voided. He voided 450 mL of fluid around the catheter at an average flow rate of 8.6 mL per sec and a maximum flow rate of 13.5 mL per sec. Detrusor pressure was estimated to be 5 to 8 cmH2O. There was no postvoid residual urine and there was good EMG relaxation during micturition.
+The bladder was filled a second time. The infusion rate was 40 mL per minute. Again, there was evidence of uninhibited bladder contractions at 10 to 13 cmH2O pressure range. At 360 mL of bladder volume, the patient felt and expressed a sense of urgency. Infusion was stopped at 375 mL. The patient then voided 400 mL of fluid around the catheter. There was appropriate EMG relaxation during micturition. The detrusor pressure was estimated to be 6 to 10 cmH2O. Flow rate was 7.5 mL per sec. On average, maximum flow rate was 11 mL per sec. There was no evidence of postvoid residual urine.
+The bladder was filled a third and last time at a 40 mL per minute rate. Again, there were uninhibited bladder contractions during filling ranging 13 to 16 cmH2O. The bladder was filled to 480 mL when the patient expressed an urge to void. He subsequently voided 460 mL of fluid with a sustained bladder pressure of 6 to 9 cmH2O. Average urinary flow rate was 6.8 mL per sec with maximum flow rate of 11 mL per sec. Postvoid residual was 10 mL.
+The catheters and EMG skin patches were removed and the patient was discharged in satisfactory condition.
+CONCLUSIONS: The above study indicates evidence of uninhibited bladder contractions with relative bladder hypotonia. Despite this fact, there was good bladder emptying and flow rates that were somewhat diminished. Appropriate urologic management such as TURP will be discussed with the patient.
+MT Word Help
+Medical Transcription Samples
+Medical Transcription Word Seeker - Google Custom Search for MTs - Searches just Medical Websites

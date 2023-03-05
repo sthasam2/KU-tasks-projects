@@ -1,0 +1,56 @@
+Discharge Summary Dictation MT Sample Report
+
+DATE OF ADMISSION: MM/DD/YYYY
+DATE OF DISCHARGE: 
+MM/DD/YYYY
+ADMITTING PHYSICIAN: John Doe, MD
+DISCHARGING PHYSICIAN: 
+Jane Doe
+, MD
+ADMITTING DIAGNOSES:
+1. Angina.
+2. Diabetes mellitus.
+3. Hypertension.
+4. Hyperlipidemia.
+5. Obstructive sleep apnea.
+DISCHARGE DIAGNOSES:
+1. Chest pain, myocardial infarction ruled out.
+2. Hypertension.
+3. Diabetes mellitus.
+4. Hyperlipidemia.
+5. Morbid obesity with obstructive sleep apnea.
+6. Depression.
+7. Hyperkalemia.
+CONSULTANT: Jack Doe, MD
+OPERATIONS AND PROCEDURES: Attempted left heart catheterization, left ventriculography and selective coronary angiography.
+LABORATORIES AND X-RAYS: HEMGPD, WBC 9.7, hemoglobin 13.4, hematocrit 39.4, platelet count 246,000, neutrophils 70 and bands 0. Prothrombin time 10.2, INR 1.36, aPTT 26.4, D-Dimer less than 0.21. HEMGPD, sodium 135, potassium 5.1, chloride 98, CO2 of 22, glucose 145, BUN 32, creatinine 1.1, calcium 11.2, total protein 7.7, total bilirubin 0.2, alkaline phosphate 47, ALT 46, AST 32, magnesium 2, CK 70, CK-MB 3.3, and troponin I less than 0.3. HDL 32, LDL 83, VLDL 58, triglycerides 291, and cholesterol 173. Chest x-ray, only moderately well inflated lung fields without evidence of alveolar filling.
+BRIEF HISTORY AND PHYSICAL: The patient is a (XX)-year-old male who complained of having chest pain, which was relieved with rest, poorly localized and provoked by stress.
+PHYSICAL EXAMINATION: On admission, temperature 98.9 degrees Fahrenheit, pulse rate 90 per minute, respirations 24 per minute, and blood pressure 137/68. Constitutional: The patient is morbidly obese. Respiratory: Decreased breath sounds. Cardiovascular: S1, S2 distant. Abdomen: Nontender, morbidly obese.
+HOSPITAL COURSE:
+1. Chest pain, rule out MI. On (mm dd, yyyy), the patient was admitted to a monitored bed and chest pain protocol was started. Serial cardiac enzymes were done, which were all negative. Cardiology, Dr. Doe, was consulted who saw the patient and planned to do cardiac catheterization due to recurrence of atypical chest pain. The patient signed the consent after the procedures and alternatives were discussed with him by the cardiologist. However, in the catheterization lab, the patient was belligerent, abusive and uncooperative with the staff and eventually he requested that the procedure be terminated. Thus, the cardiac catheterization procedure was never done. On (mm dd, yyyy), the patient was not complaining of any chest pain and no shortness of breath. He was transferred to a skilled nursing facility. Vital signs stable on discharge.
+2. Hypertension. During this hospital stay, the patient's blood pressure was well controlled with antihypertensive medications with only one occasion of having a blood pressure of 147/81. On discharge, the patient's blood pressure was 131/64.
+3. Diabetes mellitus. Accu-Cheks and sliding scale with NovoLog insulin subcutaneously were ordered. The patient also self-injected his insulin with Novolin N 100 units subcutaneously t.i.d. and Novolin R 100 units subcutaneously t.i.d. The patient was initially placed on metformin 500 mg p.o. t.i.d. on (mm dd, yyyy), and this was discontinued on (mm dd, yyyy), since the patient is going for the cardiac catheterization and creatinine level increased to 1.8 from the initial 1.1. The patient was given Mucomyst 600 mg p.o. prior to the scheduled cardiac catheterization.
+4. Hyperlipidemia. The patient was placed on Lipitor as well as Lopid.
+5. Morbid obesity with obstructive sleep apnea. The patient uses his own BiPAP. O2 saturation was adequate during this hospital stay.
+6. Depression. The patient was given Prozac p.o.
+7. Hyperkalemia. The patient's potassium was monitored and was noted to have normal as well as abnormal levels. On admission, his potassium was 5.1. However, this was noted to increase slightly, and on (mm dd, yyyy), the patient's potassium was 5.3.
+EKG was checked, which was within normal limits.
+DISCHARGE DISPOSITION: The patient is to be transferred to a skilled nursing facility on discharge.
+DISCHARGE CONDITION: Fair.
+DISCHARGE MEDICATIONS:
+1. Nitroglycerin patch 0.4 mg TD daily.
+2. Isosorbide dinitrate 40 mg p.o. b.i.d.
+3. Protonix 40 mg p.o. b.i.d.
+4. Lopressor 50 mg p.o. b.i.d.
+5. Lipitor 20 mg p.o. every night.
+6. Prozac 20 mg p.o. daily.
+7. Novolin R 100 units t.i.d., Novolin N 100 units t.i.d.
+8. Gemfibrozil 600 mg p.o. b.i.d. with meals.
+Pediatric Discharge Summary Samples #1   Discharge Summary Sample Reports #2
+Pediatric Discharge Summary Samples #1
+Discharge Summary Sample Reports #2
+Email This
+BlogThis!
+Share to Twitter
+Share to Facebook
+Share to Pinterest

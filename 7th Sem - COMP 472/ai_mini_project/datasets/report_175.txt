@@ -1,0 +1,24 @@
+Right and Left Heart Catheterization Sample Report
+
+DATE OF OPERATION: MM/DD/YYYY
+PREOPERATIVE DIAGNOSES:
+1. Dilated cardiomyopathy.
+2. Single-vessel coronary artery disease.
+POSTOPERATIVE DIAGNOSES:
+1. Dilated cardiomyopathy.
+2. Single-vessel coronary artery disease.
+OPERATION PERFORMED: Right and left heart catheterization.
+SURGEON: John Doe, MD
+ANESTHESIA: Local Xylocaine anesthesia.
+DESCRIPTION OF PROCEDURE AND FINDINGS: After sterile prep and drape and local Xylocaine anesthesia, diagnostic right and left heart catheterization was performed. The left heart catheterization was performed from the right femoral artery. Right heart catheterization was performed from the left femoral vein. Attempts at doing left heart catheterization from the left femoral artery were unsuccessful due to inability to pass the guidewire past the left femoral artery. Cardiac output was performed using the thermodilution technique. O2 saturations were taken on room air. Following completion of procedure, both the right and left femoral artery puncture sites were sealed with the AngioSeal device. The patient's resting right and left heart pressures are unremarkable with no evidence of valvular heart disease. There is no systolic gradient on pullback across the aortic or pulmonic valves. The left ventricular angiogram showed mild global hypokinesis, EF of 50% without mitral regurgitation. The aortic root angiogram is normal without aortic insufficiency. Selective coronary angiography shows a single-vessel coronary artery disease with diffuse atherosclerosis and a right dominant system. Injection into the left coronary artery shows the left main stem is free of significant lesion. It bifurcates into left anterior descending and left circumflex. The left anterior descending has minimal luminal irregularities but no flow-limiting lesion. The left circumflex artery shows the first obtuse marginal branch to be 100% occluded. This is where the previously deployed stent was placed. The remainder of the left circumflex artery has minimal luminal irregularities but no significant flow-limiting lesion. Injection into the right coronary found it to be the dominant vessel. It had minimal luminal irregularities, worst being a 30% proximal PDA stenosis.
+IMPRESSION: Single-vessel coronary artery disease characterized by occluded first obtuse marginal branch of circumflex in a patient with mild global hypokinesis, ejection fraction 50% with no evidence of valvular heart disease.
+1. Left main stem artery has minimal luminal irregularities.
+2. Left anterior descending artery and diagonals have minimal luminal irregularities.
+3. Left circumflex has minimal luminal irregularities. It has a 100% proximal occlusion of the first obtuse marginal branch where the previously deployed stent was placed.
+4. Right dominant coronary artery has minimal luminal irregularities, worst being a 30% proximal posterior descending artery stenosis.
+5. Mild left ventricular global hypokinesis, ejection fraction of 50% without mitral regurgitation.
+6. Normal aortic root angiogram without aortic insufficiency.
+7. Unremarkable resting right and left heart pressures with no evidence of valvular heart disease.
+8. Right ilial and left iliofemoral angiogram shows diffuse irregularities with no flow-limiting lesions.
+9. Attempts at negotiating the guidewire past the left femoral artery were unsuccessful requiring left heart catheterization to be performed from the right femoral artery.
+Electrophysiology Sample Reports      Cardiac Cath Sample ReportCardiology Operative Samples #1      Cardiology Operative Samples #2Medical Transcription Word Seeker - Google Search for MTs - Searches just Medical Websites

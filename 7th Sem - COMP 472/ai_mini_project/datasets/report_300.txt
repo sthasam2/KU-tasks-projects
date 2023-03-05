@@ -1,0 +1,28 @@
+Neonatal / Infant Discharge Summary Sample Report / Example
+
+DATE OF ADMISSION: MM/DD/YYYY
+DATE OF DISCHARGE: MM/DD/YYYY
+HISTORY OF PRESENT ILLNESS: The infant is a (XX) weeks' gestation, large-for-gestational-age male. Birth weight was 9 pounds 7 ounces. OB is Dr. Doe. The baby was born on MM/DD/YYYY at 8:18 a.m. via primary cesarean section for macrosomia. The baby initially was breech, but before birth flipped to cephalic position. The prenatal labs were negative. Mother is (XX) years old, gravida 2, para 0-0-1-0, O negative, and serology negative. Mother had normal pregnancy. Rupture of membranes was at the delivery. Apgars were 8 and 9. There was one loose nuchal cord around the neck after birth. The infant started to have retractions, grunting, flaring, and increased work of breathing. He also looked pale and required oxygen to stay pink. The infant was admitted to neonatal intensive care unit at that point and was put on 40% oxyhood. ABG and chest x-ray were done.
+PHYSICAL EXAMINATION: On admission showed grunting, retracting, and increased work of breathing. Respiratory rate was in the 70s-80s per minute while not grunting. Oxygen saturations were stable on 40% oxyhood. Heart had regular rate and rhythm, no murmurs. Pulses were normal. Abdomen was soft. No hepatosplenomegaly. Lungs had bilateral rales. Genitourinary exam showed normal male, testes descended bilaterally.
+ADMISSION DIAGNOSES:
+1. A 38 weeks' gestation, large-for-gestational-age male.
+2. Transient tachypnea of newborn, rule out sepsis due to respiratory distress. Rule out hypoglycemia secondary to macrosomia.
+PLAN ON ADMISSION: The infant was kept n.p.o. Septic workup was done. IV antibiotics were started. The infant was placed on pulse oximetry and hypoglycemia protocol was followed. ABG and chest x-ray were done. Parents were told regarding the sick status of the infant and management in the ICU.
+HOSPITAL COURSE:
+1. Transient tachypnea of newborn. Respiratory rate did improve and the infant was weaned to room air gradually with normal O2 saturations. Chest x-ray was consistent with TTN. Blood gas was normal.
+2. Rule out sepsis. Workup was done secondary to respiratory distress. Workup remained negative. Infant was on ampicillin and gentamicin until 72-hour negative culture, after which the antibiotics were stopped and the problem resolved.
+3. Rule out congenital heart disease. The infant had positive heart murmur on MM/DD/YYYY and then continued to have soft murmur at the left lower sternal border. Echocardiogram was consistent with small patent ductus arteriosus, small patent foramen ovale, and the rest of the anatomy was normal, so the infant is just being observed for that.
+4. Hypoglycemia, which was secondary to large for gestational age. The infant was on hypoglycemia protocol.
+5. Hyperbilirubinemia. The infant is icteric. The baby is stooling well and voiding, so it will be observed clinically.
+6. Fluid, electrolytes, and nutrition. Initially, the infant was n.p.o., on IV fluids, and then was started on feeds and advanced to full feeds without any problem.
+On MM/DD/YYYY, the infant was in stable condition. Vital signs were stable. Heart had regular rate and rhythm, no murmur. Pulses were normal. Abdomen was soft. No hepatosplenomegaly. Neurological exam showed grossly good tone. Genitourinary exam showed normal male. Circumcision was done.
+DISCHARGE DIAGNOSES:
+1. A 38 weeks' large-for-gestational-age male.
+2. Transient tachypnea of newborn, resolved.
+3. Sepsis, ruled out.
+4. Hyperbilirubinemia, stable.
+5. Hypoglycemia, ruled out.
+6. Congenital heart disease, ruled out.
+CONDITION ON DISCHARGE: Stable.
+PLAN ON DISCHARGE: Follow up with Dr. Doe in 1 week.
+MT Word HelpMedical Transcription SamplesMedical Transcription Word Seeker - Google Custom Search for MTs - Searches just Medical Websites

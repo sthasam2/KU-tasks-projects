@@ -1,0 +1,50 @@
+Electrophysiology Lab Procedure MT Sample Reports
+
+DATE OF PROCEDURE: MM/DD/YYYY
+PROCEDURE PERFORMED: Diagnostic electrophysiology study.
+SURGEON: John Doe, MD
+REFERRING DOCTOR: Jane Doe, MD
+INDICATIONS:
+1. Recurrent, unexplained syncope.
+2. Coronary artery disease.
+3. Left ventricular systolic dysfunction (LVEF=15%).
+SEDATION: Versed (2 mg), fentanyl (100 mcg) and propofol (250 mg).
+SHEATHS: Two French 4 inch vascular sheath inserted within the right femoral vein using modified Seldinger technique.
+CATHETERS: Two 5 mm interelectrode spacing, intracardiac pacer/coronary catheter advanced via the right femoral venous sheath and positioned within atrium, AV junction, right ventricular apex and right ventricular outflow tract under fluoroscopic guidance.
+FINDINGS:
+1. Baseline sinus rhythm with markedly prolonged HV interval in the setting of underlying interventricular conduction delay.
+A. Sinus cycle length=700 milliseconds.
+B. AH interval=90 milliseconds.
+C. HV interval=110 milliseconds.
+2. Normal sinus node function.
+A. Baseline SCL=700 milliseconds.
+B. Maximum CSNRT=450 milliseconds.
+3. Normal AV nodal conduction.
+A. Wenckebach cycle length=480 milliseconds.
+B. AV nodal ERP=600/390.
+4. Right atrial effective refractory=600/230.
+5. Markedly abnormal His-Purkinje system conduction (baseline HV interval=110 milliseconds).
+6. Right ventricular effective refractory.
+A. Right ventricular apex=600/310, 400/310.
+7. No inducible nonsustained or sustained ventricular tachyarrhythmias observed with right ventricular programmed electrical stimulation delivered at two RV patient sites in the setting of chronic procainamide therapy (Procan SR 500 mg q.i.d.), using:
+A. One to three premature stimulations following two drive cycles (600, 400 milliseconds).
+B. Rapid ventricular burst pacing (PCL=400-240 milliseconds).
+8. No evidence for carotid sinus hypersensitivity with either right or left-sided carotid sinus massage.
+Upon completion of the procedure, all catheters and sheaths removed and adequate hemostasis was achieved using manual compression. The patient was subsequently transferred to the stretcher and returned to the cardiac catheterization laboratory area in stable condition.
+COMPLICATIONS: None.
+IMPRESSION:
+1. Normal sinus rhythm function.
+2. Normal AV nodal conduction.
+3. No evidence for carotid sinus hypersensitivity.
+4. Markedly abnormal His-Purkinje system conduction (in the setting of longstanding procainamide therapy and underlying interventricular conduction delay manifested on surface ECG).
+5. No inducible ventricular tachyarrhythmias with right ventricular programmed electrical stimulation (in the setting of chronic procainamide therapy).
+RECOMMENDATION: Consider future pacemaker implantation +/- additional cardiac resynchronization therapy, given history of recurrent syncope in the setting of severe conduction system disease and required antiarrhythmic drug therapy, +/- additional cardiac resynchronization therapy given refractory NYHA class III CHF symptoms (despite optimized medical therapy) versus biventricular cardiac defibrillator implantation despite lack of inducible ventricular tachyarrhythmias, given possible false and negative results related to ongoing antiarrhythmic drug therapy in accordance with recent COMPANION and SCD-HeFT trial results supporting prophylactic biventricular cardiac defibrillator implantation among subjects with severe cardiomyopathy, moderate-severe cardiomyopathy (LVEF 130 milliseconds.)
+Electrophysiology Sample Reports    Cardiac Cath Sample Report
+Electrophysiology Sample Report
+s
+Cardiac Cath Sample Report
+Email This
+BlogThis!
+Share to Twitter
+Share to Facebook
+Share to Pinterest

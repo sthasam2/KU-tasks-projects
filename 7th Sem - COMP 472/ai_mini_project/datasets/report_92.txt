@@ -1,0 +1,31 @@
+Chronic Kidney Disease Consult Transcription Sample
+
+DATE OF CONSULTATION: MM/DD/YYYY
+REFERRING PHYSICIAN: John Doe, MD
+REASON FOR CONSULT: Chronic kidney disease.
+HISTORY OF PRESENT ILLNESS: This is a pleasant (XX)-year-old Caucasian male with history of hypertension, chronic kidney disease, cirrhosis of the liver, COPD, hypertension, DJD, gout, and esophagitis, who presented to the hospital with headaches and lower extremity swelling. The patient had a negative lumbar puncture, and headache has improved somewhat. The patient received 1 dose of 40 mg of IV Lasix, and his blood pressure is much better. The patient’s lower extremity swelling is much better at this time. In terms of the patient's kidney disease, his creatinine has been elevated for at least a year; although, I do not have the old records; it has been greater than 1.5. On admission, the patient's creatinine was 1.8, and this morning, it is 1.5. The patient feels well and has no complaints. He states that he has had hypertension, on medications for at least 2 years, and he takes for this metoprolol, Adalat, and Lasix. Otherwise, review of systems was reviewed, and it was negative. Specifically, denies any hematuria, frothy urine, family history of kidney disease or diabetes, or NSAID use.
+ALLERGIES: No known drug allergies.
+PAST MEDICAL HISTORY: As above.
+FAMILY MEDICAL HISTORY: No family history of kidney disease. Father has diabetes.
+SOCIAL HISTORY: The patient has been divorced. He was a heavy drinker and smoker in the past and has not had anything to drink in about 8 years.
+MEDICATIONS: Augmentin, fluticasone, temazepam, Dilaudid, heparin subcutaneously, Lasix 40 mg IV daily and at home he takes 20 p.o. daily, pantoprazole 40 mg p.o. daily, Procardia XL 30 mg p.o. daily, Lopressor 50 mg p.o. daily, allopurinol 200 mg p.o. daily.
+PHYSICAL EXAMINATION:
+VITAL SIGNS: Blood pressure 122/78, pulse 76, respirations 22, O2 saturation 98%. I's and O's 600 in and 1200 out, all urine output.
+GENERAL: The patient is a pleasant Caucasian male, in no acute distress.
+HEENT: EOMI. Oropharynx is clear. Sclerae are anicteric. Conjunctivae are not pale.
+NECK: No carotid bruits. No thyromegaly.
+CARDIAC: RRR. No murmurs or rubs.
+LUNGS: CTA bilaterally with normal respirations.
+ABDOMEN: Positive bowel sounds, soft, nontender. No renal bruits. No HSM.
+EXTREMITIES: 1+ pitting edema bilaterally.
+SKIN: Without rashes.
+NEUROLOGIC: Alert and oriented x3 and nonfocal exam.
+LABORATORY DATA: CBC: WBC 8.9, hemoglobin 12.4, hematocrit 37.4, and platelets 164. BMP: Sodium 138, potassium 3.4, chloride 102. BUN 22 and creatinine 1.5. Estimated GFR is 53 mL/minute. Calcium 8.4, phosphorous 4.4, magnesium 1.9. Albumin 3.3. Alkaline phosphatase 119. BNP 68 yesterday. UA: Protein 30, negative for blood. Renal ultrasound shows left kidney 10.2 cm, right kidney 9.2 cm. No renal artery stenosis noted. No hydronephrosis. There are several bilateral renal cysts, largest in the left kidney, measuring 1.8 cm, and in the right kidney of 1.6 cm. No renal stones are noted.
+IMPRESSION: This is a patient with chronic kidney disease and hypertension. The patient has multiple bilateral renal cysts, although no evidence of family history of dialysis or kidney disease.
+RECOMMENDATIONS:
+1. Chronic kidney disease with hypertension and bilateral renal cysts: Although it is possible that the patient has acquired cystic disease from his renal insufficiency, it is also possible that the patient has polycystic kidney disease type 2. Further evidence for this would be if he has liver cysts and pancreatic cysts. He has had a prior CT scan done and will need to find this report to see if he does indeed have pancreatic and liver cysts. In addition, any family history of polycystic kidney disease would be helpful, but the patient has no known family history of polycystic kidney. Finally, given that the patient does have headache and that is why he was admitted, since there is a possibility of polycystic kidneys, I would like to obtain an MRA of his brain just to rule out berry aneurysm; although, this is unlikely based on his exam and symptoms. In terms of the chronic kidney disease, the patient's hematocrit is at goal currently. His phosphorous is also within normal limits but would also like to check parathyroid hormone level to evaluate for secondary hyperparathyroidism from chronic kidney disease.
+2. Hypertension: The patient's blood pressure is under good control and we shall continue current regimen.
+3. Edema: This could be related to his chronic kidney disease and increased salt intake. Also, Procardia XL could be causing some of his leg swelling. This has improved since admission. We will give him another dose of Lasix today to help with his lower extremity swelling. The patient states that he had an echocardiogram done in the past, so we need to check those results to look for his ejection fraction as well as mitral valve prolapse if indeed he has polycystic kidney disease.
+Thank you, Dr. Doe, for consulting me on this patient. We will continue to follow closely as an inpatient and outpatient. Please do not hesitate to call with any questions.
+Renal Consult MT Sample Report   Cardiovascular Consultation MT Sample Report
+Medical Transcription Word Seeker - Google Search for MTs - Searches just Medical Websites

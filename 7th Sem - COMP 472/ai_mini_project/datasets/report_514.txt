@@ -1,0 +1,37 @@
+Pacemaker Implantation Medical Transcription Sample
+
+DATE OF PROCEDURE: MM/DD/YYYY
+PREOPERATIVE DIAGNOSIS:
+Intermittent Stokes-Adams events.
+POSTOPERATIVE DIAGNOSIS:
+Intermittent Stokes-Adams events.
+PROCEDURES PERFORMED:
+1. Chest fluoroscopy.
+2. Implantation of Guidant Insignia Ultra DR pacemaker.
+3. Implantation of a passive Guidant Fineline lead.
+4. Implantation of a Guidant atrial Fineline lead.
+INDICATION FOR PROCEDURE: Intermittent Stokes-Adams events.
+PROCEDURE IN DETAIL: The patient was taken to the operating room and a single subclavian stick was performed. Because of his age, I elected to avoid multiple subclavian sticks and a single stick technique was employed, after the initial wire was placed via Seldinger technique. The pockets then were formed using a #10 blade to transect the skin. Curved Metzenbaum scissors and pickups were used to isolate the pectoralis muscle fascia. Pockets were formed with blunt dissection inferiorly, medially and laterally. A lot of time was spent on the cautery and keeping the pocket dry with the patient taking aspirin and Plavix. Eventually, over the two wires that had been introduced, the sheaths were introduced and then leads were introduced into optimal position. Initial testing was satisfactory and both leads were secured using the sleeves as provided. Final testing was then performed.
+The R-wave was 25.4 millivolts. The impedance was 680 ohms. The threshold was 0.3 volts. The atrial leads have a P-wave of 2.0 millivolts. The impedance was 456 ohms. The threshold was 0.9 volts. There was no diaphragmatic pacing at 10 volts on either lead. The leads were attached to a pulse generator with a wrench provided. The pulse generator was secured to floor of the pocket. The pocket was flushed with vancomycin solution. The deep fascial layer was closed with 3-0 chromic. The skin was closed with 3-0 silk employing mattress sutures. Final fluoroscopy was performed. There was no evidence of pneumothorax. The RAO projection showed normal anterior location of the atrial lead and good position of the ventricular lead at the right ventricular apex. There was no significant blood loss. The patient was returned to his room in stable and satisfactory condition.
+MM/DD/YYYY
+Not dictated.
+Not dictated.
+1. Extraction of a dual chamber pacemaker.
+2. Intraoperative fluoroscopy.
+3. Implant of a dual chamber pacemaker.
+SURGEON: John Doe, MD
+None.
+The patient had a pacemaker malfunction. He understood possible risks and complications and agreed to proceed.
+After informed consent was obtained, the following procedure was performed. The right prepectoral area was prepped and draped in the usual sterile fashion. Lidocaine was used for local anesthesia of the skin and subcutaneous tissue.
+A skin incision was made over a pre-existing pacemaker. Blunt dissection was performed. Pacemaker was extracted. Leads were removed and connected to the analyzer. Right atrial lead revealed a T wave of 4.2 mV, impedance 530 ohms, threshold 1.1 volt at 0.5 milliseconds. Right ventricular lead with an R wave of 16.3 mV, impedance 600 ohms, and threshold 0.4 volt at 0.5 milliseconds. Lead was connected to the pacemaker, which secures to the underlying prepectoral fascia using nonabsorbable suture. The device was secured with one suture. Copious irrigation of the pocket with antibiotic saline solution was performed.
+Testing of the lead threshold via the device revealed a T wave of 3.9 mV, R wave 12 mV, impedance in the atrium 410 ohms and the ventricle 526 ohms. Threshold in the atrium 0.75 volt at 0.5 milliseconds and in the ventricle 0.75 volts at 0.5 milliseconds. Device was programmed as DDD lower rate 60, upper rate 120 and AV delay extended to 300 milliseconds to allow normal conduction.
+Prepectoral subcutaneous and subdermal layer was closed using interrupted and continuous Vicryl suture. Dermabond was applied to the skin. The patient left the operating room with no noted complications and the count was correct.
+Electrophysiology Sample Reports    Cardiac Cath Sample Report
+Electrophysiology Sample Report
+s
+Cardiac Cath Sample Report
+Email This
+BlogThis!
+Share to Twitter
+Share to Facebook
+Share to Pinterest

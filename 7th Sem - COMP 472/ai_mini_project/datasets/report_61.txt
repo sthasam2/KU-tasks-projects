@@ -1,0 +1,34 @@
+Abdominal Pain Nausea Consult Transcription Sample
+
+DATE OF CONSULTATION: MM/DD/YYYY
+REFERRING PHYSICIAN: John Doe, MD
+CHIEF COMPLAINT: Abdominal pain with nausea and vomiting.
+HISTORY OF PRESENT ILLNESS: The patient is a (XX)-year-old female with a history of coronary artery disease, congestive heart failure, and diabetes who presents to the emergency room with acute onset of abdominal pain, which initially began 18 hours ago and was found to have acute cholecystitis in need of urgent surgery. Preoperative clearance is requested on this patient at this time. Currently, she denies precordial pain as well as shortness of breath and dyspnea on exertion; although, she is complaining of abdominal pain. She has had lower extremity edema but cannot recall any significant weight gain.
+PAST MEDICAL HISTORY: As described above.
+MEDICATIONS: Pepcid, Lopressor, Lasix, glipizide, Singulair, lovastatin, nitroglycerin patch, Lidoderm patch, insulin, and aspirin.
+ALLERGIES: No known drug allergies.
+FAMILY HISTORY: Noncontributory.
+SOCIAL HISTORY: Negative for tobacco and alcohol use.
+REVIEW OF SYSTEMS: All other review of systems noncontributory and is otherwise as stated above in the history of present illness.
+PHYSICAL EXAMINATION:
+GENERAL: The patient is well developed, well nourished, in mild distress secondary to abdominal pain.
+VITAL SIGNS: Blood pressure was 180/100 mmHg, pulse regular at 82 beats per minute, respirations unlabored at 18 breaths per minute, and temperature currently afebrile.
+HEENT: Extraocular movements are intact. Conjunctivae are pink. Mucous membranes are moist.
+NECK: There is no jugular venous distention. Carotid upstrokes are normal bilaterally without bruits. Trachea is midline. No thyromegaly.
+HEART: PMI is displaced. First and second heart sounds are regular and of normal intensity. There is grade 1/6 systolic murmur heard over the left sternal border and apex; otherwise, no rubs or gallops are present.
+LUNGS: Decreased breath sounds appreciated bilaterally.
+ABDOMEN: Soft, nontender, and somewhat nondistended with decreased bowel sounds. There is no hepatosplenomegaly. Pulsatile mass is not appreciated.
+EXTREMITIES: Negative for cyanosis, clubbing with +1 edema of the lower extremities bilaterally. Peripheral pulses are +2.
+NEUROLOGIC: Grossly intact and no focal deficits.
+LABORATORY DATA: EKG performed demonstrates sinus rhythm, borderline left ventricular hypertrophy with nonspecific repolarization abnormalities. Troponin I less than 0.4.
+IMPRESSION:
+1. Preoperative clearance for surgical intervention in treating acute cholecystitis.
+2. Coronary artery disease.
+3. Congestive heart failure.
+4. Hypertension.
+5. Diabetes.
+PLAN: The patient is currently in the telemetry unit for further observation. At this time, although the patient does not have any signs or symptoms suggestive of angina or congestive heart failure, she still represents at least moderate risk of major adverse cardiovascular event due to age and comorbidities. Nevertheless, given the urgency of the situation, surgery is clearly required without delay, and therefore, labetalol 20 mg IV push q. 6 hours will be administered for treatment of both hypertension and to decrease overall cardiovascular risk perioperatively. In addition, nitroglycerin paste 1 inch q. 6 hours is recommended. Postoperative EKG is recommended in addition to cardiac markers for 3 sets q. 8 hours. A 2-D echocardiogram with Doppler study will eventually be performed to assess for any heart abnormalities.
+Thank you very much for allowing me to see your patient. Please do not feel hesitate to contact me with any questions regarding her cardiovascular care.
+Gastroenterology Consultation MT Sample Report     Neuro Critical Care Consultation Sample Report
+Renal Consult MT Sample Report                  Cardiovascular Consultation MT Sample Report
+Neuropsychology Consultation MT Sample Report     Hematology / Oncology Consult Sample

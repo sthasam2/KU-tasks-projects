@@ -1,0 +1,27 @@
+Elbow MRI Medical Transcription Sample Report
+
+RIGHT ELBOW MRI
+DATE OF STUDY: MM/DD/YYYY
+REFERRING PHYSICIAN: John Doe, MD
+INDICATIONS: Trauma. Unable to extend elbow. Rule out tendon injury.
+TECHNIQUE AND FINDINGS: These images are not optimal as the patient was in too much pain to lie still through the exam and was not able to extend arm or rotate appropriately. Some distinct findings can be described however.
+There is high signal and either degenerative cystic changes through the proximal olecranon or incomplete fractures noted, which are directly opposite the trochlea. Near the medial epicondyle is some bony high signal debris indicating what may be some loose joint bodies in this trochlear ulnar joint space.
+There is increased fluid in the radiocapitellar joint space. There is some degenerative flattening of the capitellum and very small cyst.
+Just below the radial head of the proximal radius is a focal area of high signal. This would suggest either a contusion or a partial or incomplete fracture. No definite fracture line is noted on this exam to say that with certainty, and therefore, I would tend toward believing this is a bony contusion.
+There is an old fracture of the coronoid process of the ulna, most likely related to a prominent spur. This does not displace significantly.
+The biceps tendon and brachioradialis muscle and tendon are grossly intact. There is a very small amount of edema suggested of the brachioradialis muscle, directly adjacent to the capitellum, which may indicate a very small contusion or partial tear.
+There is also some signal in the area of the ulnar nerve directly adjacent to the olecranon, which could indicate some inflammation or radicular change. Although there is some DJD noted of these bony structures, I do not see significant bony compromise of this area. The changes appear to be possibly due to trauma, as there is somewhat high signal indicating inflammation.
+It is also noted that there is high signal in the superficial fatty tissues, particularly near the medial epicondyle area.
+IMPRESSION:
+1. There are some overall degenerative changes noted of the joint space, which may worsen any findings related to the recent trauma. There is some probable loose joint body between the trochlea and ulna in that more lateral trochlear ulnar joint space. The area of the proximal olecranon does suggest some focal high signal within it without displacement. This could be degenerative cyst or an incomplete fracture.
+2. Mild flattening of the capitellum is noted and small subchondral cyst seen indicating some chronic degenerative change. Joint space fluid is noted at the radiocapitellar joint space. No radial head fracture is seen. However, there is some probable contusion of the proximal radius just distal to the radial head. This could represent an incomplete fracture but that is felt less likely.
+3. The biceps tendon appears intact.
+4. Very small strain of the brachioradialis muscle near the lateral epicondyle is suggested, may indicate a very small partial tear.
+5. Some inflammation in the area of the ulnar nerve is noted, which could indicate some injury to this area.
+MRI OF THE RIGHT ELBOW
+DATE OF STUDY: MM/DD/YYYY
+REFERRING PHYSICIAN: John Doe, MD
+INDICATION FOR STUDY: Evaluated biceps tendon. Lifting injury.
+TECHNIQUE AND FINDINGS: Multiplanar images of the right elbow were obtained without contrast. Marrow signal within the bony structures is unremarkable. There is no obvious fracture or dislocation. There is no edema. The biceps tendon is intact. There are no large fluid collections. Muscle bundles are preserved. The tendons appear grossly unremarkable.
+IMPRESSION: Unremarkable MRI of the right elbow.
+More MRI Sample Reports

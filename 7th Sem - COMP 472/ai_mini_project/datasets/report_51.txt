@@ -1,0 +1,35 @@
+Renal Failure Consultation Medical Transcription Sample
+
+DATE OF CONSULTATION: MM/DD/YYYY
+REFERRING PHYSICIAN: John Doe, MD
+REASON FOR CONSULTATION: Renal failure.
+HISTORY OF PRESENT ILLNESS: The patient is a (XX)-year-old male with multiple problems. He has history of longstanding diabetes with complications, history of coronary artery disease, status post CABG and severe cardiomyopathy with poor EF around 20-25%, history of hypertension, history of hyperlipidemia, history of peripheral vascular disease with necrosis of both heels, history of obesity, history of anemia, history of prostate CA, history of chronic renal failure with acute worsening, needing hemodialysis temporarily on last admission. He has been off of dialysis and his creatinine has been stable in the range of mid 2s.
+The patient is now admitted to the hospital because of GI bleed. The patient was found to have coagulopathy secondary to Coumadin toxicity. GI has been consulted. The patient is scheduled for endoscopy. Also, ID has been seeing him for possible osteomyelitis. His labs, which have been showing elevated BUN and creatinine, prompted the renal consultation. His hospitalization course was reviewed. He had a CT of the chest done without contrast, which showed small bilateral pleural effusion, left greater than right, with some associated atelectasis. No adenopathy or pulmonary nodule seen. His labs showed his creatinine has remained stable with slight elevation; today it is 60 and 2.4. The patient has been started on IV fluids, since he has been n.p.o. for GI procedure. His echocardiogram, which has been done on this admission, shows EF of around 20%.
+PAST MEDICAL HISTORY: As above. History of multiple problems with multiple complications. He has history of chronic renal failure with acute worsening on past admission needing temporary hemodialysis. He has been off dialysis with stable chronic kidney disease with creatinine in range of mid 2s. History of coronary artery disease and cardiomyopathy, EF around 20%. History of CABG in the past, history of longstanding diabetes, history of hypertension, history of peripheral vascular disease, history of obesity, history of tobacco use, history of prostate CA, and history of anemia.
+ALLERGIES: No known allergies.
+MEDICATIONS: Lasix 40 mg daily; insulin, according to sliding scale coverage; Rocephin 1 g; Coreg 25 mg b.i.d.; Protonix 40 mg q. 24 h.; Zithromax 500 mg q. 24 h;, Lipitor 40 mg at bedtime; Zetia 10 mg at bedtime; and enalapril 10 mg b.i.d.; and he has received vitamin K.
+SOCIAL HISTORY: History of smoking in the past. Denies any alcohol or IV drug use.
+FAMILY HISTORY: Significant for diabetes and heart problems.
+PHYSICAL EXAMINATION:
+GENERAL: On exam, this is elderly male who is chronically ill, alert and awake.
+VITAL SIGNS: Blood pressure 124/58, heart rate 66, and temperature 98.6.
+HEENT: Normocephalic and atraumatic. Pupils are equal and reactive. Positive pallor, negative icterus.
+NECK: Supple. No JVD. No bruit.
+LUNGS: Have bilateral air entry anteriorly with diminished breath sound at the bases.
+HEART: S1 and S2 regular, distant.
+ABDOMEN: Obese, soft, and nontender, and difficult to evaluate organomegaly.
+EXTREMITIES: Shows no edema with gangrenous changes of both heels.
+NEUROLOGIC: Limited exam at this time.
+LABORATORY AND DIAGNOSTIC DATA: His white count is 10.4, hemoglobin 8.6, hematocrit 27.6, and platelets 124,000. Sodium 141, potassium 3.8, chloride 111, CO2 is 22, BUN is 60, and creatinine 2.4. His x-rays noted. Echocardiogram noted above.
+IMPRESSION:
+1. The patient was admitted with gastrointestinal bleed with coagulopathy and Coumadin toxicity. Gastrointestinal workup is in progress. The patient is scheduled for endoscopy.
+2. Renal failure, which is chronic, chronic kidney disease. He had acute worsening in the past needing temporary hemodialysis. Currently, he is off dialysis.
+3. Coronary artery disease and cardiomyopathy.
+4. Hypertension.
+5. Diabetes.
+6. Peripheral vascular disease.
+7. Obesity.
+8. Prostate carcinoma.
+RECOMMENDATIONS: At this time, I agree with current plans. We will check his iron studies and start him on erythropoietin shot and replace iron as needed. His creatinine seems stable. We will check his 24-hour urine for creatinine clearance. We will also check his phosphorus level and PTH level. Further recommendation as we go along.
+Thank you, Dr. Doe, for allowing me to participate in the care of the patient.
+Gastroenterology Consultation MT Sample Report     Neuro Critical Care Consultation Sample ReportRenal Consult MT Sample Report                  Cardiovascular Consultation MT Sample ReportNeuropsychology Consultation MT Sample Report     Hematology / Oncology Consult Sample

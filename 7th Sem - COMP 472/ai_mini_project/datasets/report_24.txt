@@ -1,0 +1,40 @@
+Congestive Heart Failure Consult Sample Report
+
+DATE OF CONSULTATION: 
+MM/DD/YYYY
+REFERRING PHYSICIAN: 
+John Doe, MD
+HISTORY OF PRESENT ILLNESS: 
+The patient is a (XX)-year-old Hispanic male, who was transferred for hypotension. Medical history is from review of the medical record and nursing home records, as the patient is unable to provide a significant amount of information. The patient was transferred from the nursing home for several days of generalized weakness and was noted to be hypotensive in the nursing home. The nursing home records reflect that the patient has had a new cough with green sputum, though he, over the past few days, has had decreased breath sounds and crackles, right more than left, with a few expiratory wheezes as well. He has not had a documented fever in the nursing home. He was treated in the nursing home for bronchitis with Biaxin, mucolytics, Robitussin, and was started on Bumex for venostasis disease. The patient was admitted today with hypotension. In the ambulance, his systolic blood pressure was approximately 80 while in the emergency department his systolic blood pressures in both arms were in the 60s. He was given approximately 2 liters of fluid during his time in the ER and atropine and was started on a dopamine drip. His initial EKG demonstrated sinus rhythm with a ventricular rate of approximately 44 beats per minute with a prolonged PR interval though no evidence of acute ischemic events. No ST segment abnormalities.
+PAST MEDICAL HISTORY: 
+COPD, for which the patient takes prednisone on every-other-day basis, diabetes mellitus, hypertension, benign prostatic hypertrophy, chronic renal insufficiency, and sick sinus syndrome.
+MEDICATION ALLERGIES: 
+NKDA.
+SOCIAL HISTORY: 
+Unknown whether or not the patient is a smoker or a drinker, and it is unknown what the patient's prior occupation was.
+FAMILY HISTORY: 
+Noncontributory.
+CURRENT MEDICATIONS: 
+In the nursing home include Mucinex, Bumex, Tylenol as needed, Biaxin, Colace, glyburide 10 mg twice daily, fluticasone nasal spray, GlycoLax, metformin 500 mg twice daily, multivitamins, lisinopril 2.5 mg daily, Flomax, Lasix, loratadine, Aldactone 25 mg daily, Toprol-XL 50 mg daily, Zocor 20 mg daily, NovoLog, prednisone 10 mg 3 times a week on Monday, Wednesday, and Friday.
+REVIEW OF SYSTEMS: 
+From the medical record indicates no constitutional symptoms, no fever, no chills, although he does report weakness. He denies shortness of breath or recent chest pain or pleuritic chest pain. He denies recent syncope. The patient had a recent echocardiogram, which demonstrated an ejection fraction of 65% with an increased LV size, mitral valve leaflets with normal motion, but mild left atrial dilatation, RA and RV with normal size and unremarkable IVC, though he had mild TR and an estimated right ventricular systolic pressure of 53 mmHg and was interpreted as mild diastolic dysfunction with mild-to-moderate pulmonary hypertension.
+PHYSICAL EXAMINATION:
+VITAL SIGNS: The patient's vital signs upon arrival to the intensive care unit are blood pressure of 120/56, heart rate ranging from 50 to 68 with sinus rhythm, respiratory rate approximately 22 times per minute, and a temperature of 95.6 degrees.
+GENERAL: The patient is sleepy and lethargic, though is arousable and does answer questions for a brief period when prompted to do so. He does follow commands until he falls asleep.
+HEART: The patient has a regular rate and rhythm. S1 and S2 are appreciated.
+LUNGS: There are diffuse bilateral crackles in the posterior lung fields. Also heard are bilateral expiratory wheezes with a few scattered inspiratory squeaks.
+ABDOMEN: Soft and nontender.
+EXTREMITIES: Display significant symmetric lower extremity edema, 3+ bilaterally, as well as erythematous, warm lesions to both anterior legs consistent with cellulitis.
+LABORATORY AND DIAGNOSTIC DATA: 
+Demonstrates blood gas with pH of 7.34, pCO2 of 50.6, and pO2 of 57.8. Chemistry with a sodium of 135, potassium 4.2, chloride 100, CO2 of 30, BUN 54, creatinine 2.0, and glucose of 62. Albumin is 2.5. Total bilirubin is 0.4. Magnesium is 2.6. Troponin is less than 0.4, and BNP is 106. INR is 0.92. White count is 10.8, hemoglobin is 12.4, hematocrit is 38.6, and platelets are 184. Urinalysis, urine cultures, and blood cultures are pending at this time. A chest x-ray was done in the emergency department demonstrating pulmonary vascular congestion and a widened mediastinum on this portable view. He had a CAT scan done in the past demonstrating wide mediastinum due to mediastinal lipomatosis, though he had a prominent ascending thoracic arch at that time, which measured 4.2 cm as well.
+ASSESSMENT: 
+This gentleman has a congestive heart failure and chronic obstructive pulmonary disease exacerbation in the setting of an infection, possibly cellulitis, possibly urinary tract infection complicated by excessive beta blockade.
+     
+PLAN: 
+We will treat his CHF exacerbation with intermittent doses of loop diuretics and with CPAP 6 cm of water pressure. We will treat his underlying infection, which likely include cellulitis and possibly an urinary tract infection, with cefepime which he has already received in the emergency department and vancomycin to cover resistant gram positive, which may be responsible for his cellulitis. We will obtain a CAT scan of his chest to evaluate the mediastinal widening in the presence of a known ascending thoracic arch prominence on a prior CAT scan and low blood pressure. We will hold metformin and oral diabetes medications and instead place him on an insulin sliding scale. We will treat his COPD exacerbation with albuterol and Atrovent nebulizers and increase his steroids to Solu-Medrol 40 mg q. 8 hours IV. The patient is currently not bradycardic, though if bradycardia persists despite dobutamine, we will initiate therapy with glucagon to reverse beta blockade. The patient likely suffers from obstructive sleep apnea, as he is noted to have a thick neck and is obese and was noted to be snoring. We will prescribe empiric CPAP therapy for the presumed diagnosis of sleep apnea, as well as for a CHF exacerbation.
+Cardiac Consult Sample 1
+ 
+Cardiac Consult Sample 2
+ 
+Cardiac Consult Sample 3
+Medical Transcription Word Seeker - Google Custom Search for MTs - Searches just Medical Websites

@@ -1,0 +1,57 @@
+Chest Pain Emergency Room ER Transcription Sample
+
+CHIEF COMPLAINT: Chest pain.
+HISTORY OF PRESENT ILLNESS: This is a (XX)-year-old male who presented to the emergency department with chest pain. He stated that he had congestion and heartburn since 9 p.m., which was 3 hours ago. The patient states it feels like heartburn. It is present in his left chest and occasionally radiates into his back. He has taken some Advil without any improvement in his symptoms. No fever, chills, or cough. He has had some shortness of breath for approximately a minute and it resolved. He used to get this frequently after eating spicy food.
+PAST MEDICAL HISTORY: Unremarkable.
+ALLERGIES: None.
+FAMILY HISTORY: Negative for coronary artery disease.
+SOCIAL HISTORY: Denies tobacco use.
+REVIEW OF SYSTEMS: All systems reviewed and otherwise negative.
+PHYSICAL EXAMINATION:
+VITAL SIGNS: BP 110/78, temperature 97.4, pulse 86, respirations 18, O2 sat 100% on room air.
+GENERAL: The patient is a well-developed male, in no distress.
+HEENT: Moist mucous membranes.
+HEART: Regular rate and rhythm, S1, S2. No murmurs, rubs, or gallops.
+LUNGS: Clear to auscultation bilaterally.
+CHEST: Chest is nontender with palpation.
+ABDOMEN: Soft, nontender, and no masses.
+EXTREMITIES: No clubbing, cyanosis, or edema.
+DIAGNOSTIC STUDIES: EKG shows a normal sinus rhythm with a rate of 72. No acute findings seen. Chest x-ray shows no infiltrates by my reading.
+EMERGENCY DEPARTMENT COURSE: The patient was seen and examined. He underwent workup. He was given a GI cocktail with resolution of his symptoms. He was re-examined and was discharged in good condition.
+MEDICAL DECISION MAKING: The patient is a (XX)-year-old male with chest pain. The patient will be discharged home on Protonix 40 mg, #30. He was to follow up with his primary care physician. He will be given referrals. The patient is to return if his symptoms worsen.
+DISPOSITION: Home.
+DIAGNOSIS: Acute chest pain, probably secondary to gastroesophageal reflux disease.
+-----------------------------------------------------------------------------------
+CHIEF COMPLAINT: Chest pain.
+HISTORY OF PRESENT ILLNESS: The patient is a (XX)-year-old man who has been experiencing exertional chest pain with shortness of breath for 3 weeks. At 6 a.m. this morning, it occurred spontaneously, and he asked his wife to drive him to the emergency department. Cardiac enzymes were noted to be elevated, and he was transferred to this facility for angiography. He had a stress test 4 days ago.
+PAST MEDICAL HISTORY:
+1. Hypertension for 8 years, treated with Monopril.
+2. Hypercholesterolemia for 2 years, on simvastatin 80 mg every day.
+SOCIAL HISTORY: The patient is married and lives with his wife. He does not smoke cigarettes. He used some alcohol.
+FAMILY HISTORY: Negative for coronary disease.
+REVIEW OF SYSTEMS: Except as mentioned above, review of system is negative.
+PHYSICAL EXAMINATION:
+VITAL SIGNS: Blood pressure 126/72, pulse 96 and regular.
+GENERAL: The patient is well nourished and well developed, in no acute distress.
+EYES: No scleral icterus, xanthelasma.
+MOUTH: No oral pallor or cyanosis.
+NECK: There is a right carotid bruit.
+CHEST: Clear to auscultation and percussion.
+HEART: There are no murmurs or gallops.
+ABDOMEN: Soft, nontender. No abdominal masses.
+EXTREMITIES: Peripheral pulses full. No edema. No varicose veins.
+SKIN: Warm and dry.
+PSYCHIATRIC: Oriented x3.
+NEUROLOGIC: Nonfocal.
+DIAGNOSTIC STUDIES: The electrocardiogram showed normal sinus rhythm, and it was within normal limits.
+LABORATORY DATA: Glucose 108, BUN 14, creatine 1.2, GFR 56, sodium 134, potassium 3.6, chloride 98. Troponin 0.34, myoglobin normal, BNP 22. PT 12.6, INR 1.2. Hemoglobin 14.6, hematocrit 43.8, white count 6.4 with a normal differential.
+EMERGENCY DEPARTMENT COURSE: The patient was given Plavix 300 mg by mouth, aspirin, and started on heparin. He was pain-free shortly after arriving to the emergency department.
+IMPRESSION:
+1. Acute non-ST-segment elevation myocardial infarction.
+2. Hyperlipidemia.
+3. Hypertension.
+PLAN: Left heart catheterization with a view to primary angioplasty.
+ER Sample Reports
+   
+ER Sample Reports # 1
+Medical Transcription Word Seeker - Google Custom Search for MTs - Searches just Medical Websites

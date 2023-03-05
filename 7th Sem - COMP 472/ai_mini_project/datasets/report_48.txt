@@ -1,0 +1,33 @@
+Pneumonia Consult Medical Transcription Sample Report
+
+DATE OF CONSULTATION: MM/DD/YYYY
+REFERRING PHYSICIAN: John Doe, MD
+REASON FOR CONSULTATION: Pneumonia.
+HISTORY OF PRESENT ILLNESS: The patient is a (XX)-year-old male with history of HIV. The patient stated approximately three days ago, he started having chills and severe cold associated with fever. The patient also noticed some dry cough and worsening of chronic shortness of breath. Because of persistence of his symptoms, the patient decided to come to the emergency department. The patient denies any sore throat, nasal congestion, nausea, vomiting, diarrhea, abdominal pain, significant weight loss, anorexia, presyncope, loss of consciousness, seizure, motor or sensory deficits, vision abnormalities, speech problems, dysphagia, heartburn, reflux or aspiration. He denies any pleuritic chest pain, retrosternal discomfort, orthopnea, PND or edema of lower extremities. He denies any polydipsia, polyuria or polyphagia. He denies any flank pain or urinary symptoms. He denies any heat or cold intolerance. Admits to diffuse musculoskeletal pain.
+PAST MEDICAL HISTORY: HIV positive for several years, status post pneumonia x2. A year back, the patient was admitted to the hospital and was diagnosed with PCP. There appeared to be a lot of emphysematous and cystic lesions in the lungs at that time. The patient since then has been using oxygen on and off at home. He does feel short of breath on exertion normally. He does not appear to have progressed in the past year. Also, he has some mild cough. Approximately a month ago, the patient was seen because of pneumonia and p.o. antibiotics were given. The patient was also admitted to hospital about four months ago, and he remained there for about one week for pneumonia.
+SOCIAL HISTORY: Denies any alcohol or smoking.
+ALLERGIES: Not known.
+PHYSICAL EXAMINATION:
+VITAL SIGNS: Blood pressure 114/58, heart rate 106 per minute, respiratory rate 22 per minute, oxygen saturation is 96% and T max was 101.4.
+GENERAL: The patient appears as an ill male, medium built, in no acute distress. He is alert and oriented.
+HEENT: Pupils are equal and reactive. Nasal passages are patent. Oropharynx appears noncongested.
+NECK: Supple. No carotid bruits, thyromegaly, stridor or tracheal deviation.
+LUNGS: Symmetric chest excursion. Breath sounds are bilaterally diminished. No crackles or wheezes are heard.
+HEART: Normal. Regular S1 and S2. No S4 noted.
+ABDOMEN: Soft, nontender, no organomegaly.
+EXTREMITIES: No tenderness, clubbing, cyanosis or edema.
+DIAGNOSTIC DATA: Chest x-ray shows a bilateral bullous disease in both lung fields and hyperinflation. There appears to be cavitary lesion in the right upper lobe. CT scan of the chest showed multiple cystic lesion/bullous emphysema in both lung fields, presented diffusely with mostly peripheral distribution. One lesion in the right upper lobe appears with significantly thick walls, suggesting the possibility of a cavity. Within this lesion, there is an eccentric mass based in the periphery of the lesion, solid, suggesting the possibility of a fungal ball.
+LABORATORY TESTS: WBC count 4400, hemoglobin 10.6, hematocrit 32, and platelet count 132,000, segmented 78%, bands 3%, and lymphocytes 11%, PTT of 44, PT of 13.2. Sodium 133, potassium 3.9, chloride 100, CO2 of 21, glucose 88, BUN 8.2, creatinine 0.8, calcium 9, albumin 3.0. Total bilirubin 1.9, alkaline phosphatase 196, SGPT 29, and SGOT 72.
+IMPRESSION:
+1. Right upper lobe cavitary lesion, thick wall, with eccentric peripheral solid nodule consistent with fungal ball. Cannot exclude malignancy or tuberculosis.
+2. Bilateral bullous disease, likely sequela of previous Pneumocystis carinii pneumonia.
+3. Left lower lobe interstitial infiltrate with some linear component, some nodular component as well. Cannot exclude active versus sequela of previous infection.
+4. Human immunodeficiency virus, no current retroviral therapy.
+5. Abnormal liver function test.
+RECOMMENDATION: Sputum AFB and bronchoscopy.
+Thank you very much for the opportunity to take care of this patient.
+Pulmonary Consult Sample #1
+  
+Pulmonary Consult Sample #2
+  
+Consult Sample Reports

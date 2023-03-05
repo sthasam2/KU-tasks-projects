@@ -1,0 +1,48 @@
+Voice Evaluation and Therapy Medical Transcription Sample
+
+The patient is a (XX)-year-old man with a history of intracranial hemorrhage who presents with generalized weakness, nausea and vomiting. He also had some prior deficits on his left side secondary to a prior pontine infarct. During the prior hospital stay, the patient required intubation and subsequent extubation. He was noted to have an aphonic vocal quality. He was seen by Dr. Doe of otolaryngology in February of this year with findings of a left vocal fold paralysis either secondary to intubation or as a result of his CVA. He was followed clinically, however, continued with near aphonic vocal quality. Dr. Doe performed a thyroplasty for vocal fold medialization. At his most recent office visit, flexible laryngoscopy revealed left vocal fold in a more medial position, allowing for good glottic closure. The patient continued with breathy weak voice, however, and he was subsequently referred for voice therapy.
+The patient has an extensive medical history including hypertension, diabetes, dyslipidemia, prior lacunar stroke, and intracranial hemorrhage. A reported fall at rehabilitation resulted in a left hip fracture with an ORIF performed for repair of femur fracture. He has a heavy history of smoking. There is reported heroin abuse. However, the patient denies this. At the current time, he is frustrated by his weak and breathy voice. He reports that voicing is effortful and is exacerbated with use. Of note, the patient appears disheveled and emotionally labile at today's visit. Within home safety screen, the patient reported that he feels safe at home. The patient also reports that he is frustrated regarding ongoing pain and becomes emotional discussing this. When asked to elaborate further, he reports that he has had a level 8 pain each time he swallowed for the past week. For this reason, Dr. Doe was contacted for further evaluation given history of recent thyroplasty and high level of reported pain.
+VOICE HANDICAP INDEX: The voice handicap index (VHI) was administered to capture a subjective measure of the patient's perceived voice. Scores are as follows: Functional 26/32 (severely perceived functional handicap), physical 22/36 (severely perceived physical handicap), and emotional 19/40 (moderate to severe emotional handicap). Overall, the patient reports a total score of 67/100 correlating to a severely perceived voice handicap overall.
+ACOUSTIC PARAMETERS: The patient has a breathy vocal quality with low intensity. He is variably able to achieve improved voicing; although, this is inconsistent and negatively affected by emotional state. Maximum phonation time for sustained /a/ equals 4 seconds, although question the patient’s comprehension regarding appropriate initiating breath with prolonged production.
+The perceptual analysis of dysphonia (GRBAS) was administered to qualify the patient's current vocal quality. This is a subjective clinician rated scale from 0 to 3 with 0 equaling normal and 3 equaling severe. Scores are as follows:
+Grade- severe (3) indicative of an overall severe dysphonia.
+Roughness/harshness
+- severe (3) as noted through persistent voice breaks and vocal fry.
+Breathiness
+- severe (3) noted through audible air leakage and short aphonic segments.
+Asthenia
+- severe (3) notable in the presence of hypofunctional voice use and weakness.
+Strain
+- normal (0) he is not noted to have severe strain.
+RESPIRATORY PARAMETERS: The patient has very shallow breath support, was limited. Breath replenishment at the conversational level. He speaks in short utterances only during today's evaluation and breath support is inadequate even for his short 4 to 8 word utterances. S/z ratio is unable to be obtained at this session due to the patient's emotional state and need for followup with Dr. Doe. This can be done at a future session to gauge glottic valving in a rudimentary fashion. This, however, may not be the most reliable measure with question of the patient's ability to accurately replicate desired phonemes.
+OBJECTIVE MEASURES: Objective measures obtained using the CSL. The first set is from a vowel prolongation.
+1. Highest fundamental frequency: 195.56, norm 150.08.
+2. Lowest fundamental frequency: 112.76, norm 140.4.
+3. Absolute jitter 472.088, norm 41.663.
+4. Shimmer percent 19.264%, norm 2.523%.
+5. Noise to harmonic ratio: 0.416, norm 0.122.
+6. Soft phonation index 3.598, norm 6.770.
+7. Degree of voice breaks: Zero, norm 0.2%.
+8. Degree of voiceless 95.488%, norm 0.2%.
+The following measurements are obtained via a speaking sample.
+1. Minimum pitch 146.64.
+2. Maximum pitch 154.82.
+3. VFO 0.01.
+4. RAP 0.56.
+The patient's lower than average lowest fundamental frequency and soft phonation index may be correlated to loosely adducted vocal folds. He may have inconsistent glottic valving despite improved medial positioning of the left vocal fold. The patient also appears to have a hypofunctional component to voicing so he may not be consistently and strongly achieving vocal fold adduction.
+The patient's notably elevated degree of voiceless is supported by clinical findings of persistent voice breaks and near aphonia with breathy vocal quality.
+HEARING AND ORAL MOTOR STATUS: The patient has seemingly normal hearing acuity for a quiet one-on-one setting. Strength and range of motion of the articulators is judged to be generally within normal limits for conversational speech tasks. The patient is edentulous.
+VOCAL HYGIENE AND DEMANDS: The patient drinks 3 glasses of water per day. He drinks 3 cups of caffeinated coffee. He states he does not drink alcoholic beverages, but smokes a half pack of cigarettes a day. He lives at home with his mother. He does not work. He avoids using the telephone because people have difficulty hearing him.
+SUMMARY AND IMPRESSION: The patient is a (XX)-year-old male with a history of left vocal fold paralysis status post CVA and required intubation in the past after his CVA. The patient is approximately 3 weeks status post a thyroplasty procedure with improved positioning of paralyzed left vocal fold allowing for glottic contact. The patient continues with breathy vocal quality and reduced intensity indicative of hypofunctional voice use and it is further supported by objective measures during today's evaluation.
+He may benefit from voice therapy optimizing functional voice use through coordination of respiration and phonation. However, question the patient's insight into problem and compliance with program. At this time, he states he is willing to try some exercises so he was provided with initial breath support and vocal energy exercises at the short phrase level. He had some slight success with this in today's session; although, it is unclear if the patient is able to discriminate between accurate and inaccurate productions.
+He is scheduled for followup in one week's time. Until then, he is following up with Dr. Doe, later today, for reported odynophagia for the past week. Therapeutic intervention will be reassessed at each session pending the patient's success with home practice and insight into use of vocal techniques. The case was discussed with Dr. Doe who is in agreement.
+RECOMMENDATIONS:
+1. Trial course of voice therapy.
+2. Follow up with Dr. Doe in clinic today for odynophagia.
+3. Intensive work with breath initiation and replenishment in order to optimize intensity and limit undue effort associated with voicing.
+4. Use of neck stretches and laryngeal massage once the patient has slightly more healing from thyroplasty procedure.
+5. Use of partially occluded vocal tract exercises for coordination of respiration and phonation.
+6. Further recommendations to be made pending therapeutic process.
+MT Word Help      Speech Language Pathology Swallow Evaluation Sample Report
+Medical Transcription Samples
+Medical Transcription Word Seeker - Google Custom Search for MTs - Searches just Medical Websites

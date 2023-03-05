@@ -1,0 +1,31 @@
+Epigastric and Chest Pain Consultation MT Sample Report
+
+DATE OF CONSULTATION: MM/DD/YYYY
+REFERRING PHYSICIAN: John Doe, MD
+REASON FOR CONSULTATION: Epigastric and chest pain with vomiting and hematemesis.
+HISTORY OF PRESENT ILLNESS: The patient is a (XX)-year-old African-American woman who has a history of peptic ulcer disease and gastroesophageal reflux disease. The patient was admitted for epigastric and chest pain of 4 days' duration. Per the patient, she has been experiencing aching pain in the epigastrium and in the retrosternal area, which is fairly constant, grade 8/10 in severity, pain associated with nausea and vomiting. The pain was getting worse when eating food and better after vomiting. She was vomiting all the food she was eating and had one episode of small amount of bright red blood hematemesis. She also has on and off melena at home. She has been taking Naprosyn 500 mg p.o. b.i.d. for the last 10 months because of chronic neck pain because of a motor vehicle accident. She also was found to have peptic ulcer disease. She has been taking Prevacid at home along with Flexeril and Naprosyn. The pain got worse before she was admitted to the hospital because of which she was admitted for further evaluation. She is status post cholecystectomy for gallstone disease. There is no history of recent weight loss. No history of fever. On admission, the patient was found to have a white cell count of 15.5, which reduced to 8 today. The hemoglobin was 9.8, which increased to 12 without any packed RBC transfusion. Her electrolyte panel is otherwise unremarkable.
+PAST MEDICAL HISTORY: Significant for chronic neck pain because of a motor vehicle accident, peptic ulcer disease, gastroesophageal reflux disease, and ovarian cyst.
+PAST SURGICAL HISTORY: Cholecystectomy, appendectomy, and hysterectomy.
+MEDICATIONS: At home, the patient takes Naprosyn, Tylenol, Flexeril, and Prevacid. In hospital, she is on Protonix and IV fluids.
+ALLERGIES: No known drug allergies.
+FAMILY HISTORY: The patient's mother had coronary artery disease and died of an ovarian cancer. She has one brother and one sister. She is divorced, and she has one child.
+SOCIAL HISTORY: The patient does not smoke, does not drink alcohol, does not do any injection drugs.
+REVIEW OF SYSTEMS: As above. Otherwise, negative for other systems.
+PHYSICAL EXAMINATION:
+GENERAL: The patient is a (XX)-year-old woman, who is alert and oriented x3, comfortable at rest.
+VITAL SIGNS: Temperature 98.6, heart rate 74, blood pressure 98/66, respirations 18.
+HEENT: Normocephalic, atraumatic. Pupils are equal, round, reacting to light and accommodation. Extraocular muscles are intact. ENT examination is normal.
+NECK: There is no JVD. There is no lymphadenopathy. There is no thyromegaly. Neck is supple.
+HEART: First and second heart sounds normally heard. No third sound. No fourth sound. No murmurs.
+LUNGS: Auscultation of the lungs showed bilateral vesicular breath sounds.
+ABDOMEN: Examination of the abdomen shows soft and scaphoid abdomen. There is a surgical scar in the epigastrium. There is a deep tenderness in the epigastrium in the right upper quadrant of the abdomen. No hepatosplenomegaly. No ascites. Normal peristaltic sounds are heard.
+EXTREMITIES: Extremity examination shows no edema, no rash.
+NEUROLOGIC: No focal neurological deficits.
+LABORATORY DATA: The patient's labs shows a white cell count of 8, hemoglobin 12, platelet count 244,000 with an MCV of 88. Electrolytes panel shows sodium 140, potassium 3.7, bicarbonate 24, chloride 109, BUN 12, creatinine 0.9, glucose of 84. No LFTs have been done yet.
+DIAGNOSTIC STUDIES: Ultrasound of the abdomen shows the patient is status post cholecystectomy. There is no biliary dilation.
+ASSESSMENT AND PLAN:
+1. Epigastric pain with vomiting and one episode of small amount of hematemesis with a history of nonsteroidal anti-inflammatory drug use. Rule out peptic ulcer disease, gastritis, esophagitis, and hepatitis. The patient at this time needs to have an EGD to rule out acid peptic disease. The procedure of EGD, including the risks of perforation, bleeding, infection, allergy, and hypotension secondary to sedation were explained to her in detail, and she was willing to have the procedure. The patient will be kept n.p.o. now, and we will have the EGD today. She is going to be started on oral feeding after the EGD is done on her. Continue Protonix at this time. Also, check the liver function tests. Discontinue nonsteroidal anti-inflammatory drugs. Further recommendations after EGD.
+2. History of black stools at home. The patient's stools have been sent for guaiac. In case there is no pathology seen in the upper GI tract and stools are positive for guaiac, she will require a colonoscopy as well.
+Thank you, Dr. Doe, for the opportunity to participate in this patient's care.
+Gastroenterology Consultation MT Sample Report     Neuro Critical Care Consultation Sample Report
+Renal Consult MT Sample Report                  Cardiovascular Consultation MT Sample Report

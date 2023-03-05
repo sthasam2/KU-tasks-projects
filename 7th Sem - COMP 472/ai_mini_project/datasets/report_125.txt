@@ -1,0 +1,31 @@
+Percutaneous PFO Closure Coronary Angiography Sample
+
+DATE OF PROCEDURE: MM/DD/YYYY
+REFERRING PHYSICIAN: John Doe, MD
+PROCEDURES PERFORMED:
+1. Percutaneous PFO closure.
+2. Coronary angiography.
+OPERATOR: Jane Doe, MD
+INDICATIONS FOR PROCEDURE: Cryptogenic stroke with PFO and PFO with atrial septal aneurysm with right to left shunting and positive bubble study.
+DESCRIPTION OF PROCEDURE: After informed consent was obtained, the patient was sterilely prepped and draped in the usual fashion. Access was obtained to the right femoral artery with a Cook needle insertion of a 7 French introducer sheath via the modified Seldinger technique. No complications. Access obtained to the right femoral vein with a Cook needle insertion of an 8 French introducer sheath via modified Seldinger technique. No complications. Access obtained to the left femoral vein with a Cook needle insertion of an 8 French introducer sheath via modified Seldinger technique. No complications. Lidocaine 2% used for local anesthesia. Selective coronary angiography was performed, 6 French diagnostic JL 3.5 and JR4 catheters were used to engage the left and right coronary arteries respectively. Multiple views were obtained with contrast injection. Following diagnostic procedure, these catheters were removed. An intracardiac echo probe, 8 French, was then advanced via the left femoral venous sheath up to inferior vena cava under fluoroscopic guidance to the right atrium and used to interrogate the intra-atrial septum. Following this, bubble study was performed that showed significant right-to-left shunting with Valsalva. The patient then underwent successful closure of the patent foramen ovale under both fluoroscopic as well as intracardiac echo guidance.
+PROCEDURE FINDINGS:
+1. Coronary angiography.
+a. Right main coronary artery: The right coronary artery is a moderate caliber dominant vessel. No significant stenosis is seen.
+b. Left main coronary artery: The left main coronary artery is a large caliber moderate length vessel.
+c. Left anterior descending artery: The left anterior descending artery is a large caliber vessel with several diagonal branches noted. No disease.
+d. Circumflex coronary artery: The circumflex coronary artery is a moderate caliber nondominant vessel. No disease.
+Intracardiac echo examination of the interatrial septum: Intracardiac echo examination of the interatrial septum reveals a patent foramen ovale. There is also significant atrial septal aneurysm present with significant bulging of the atrial septum. There is significant right-to-left shunting by bubble study with Valsalva.
+Percutaneous closure of the patent foramen ovale: A 5 French multipurpose catheter was advanced via the right femoral venous sheath up to the inferior vena cava into the right heart under fluoroscopic guidance. The catheter was then used to cross the patent foramen ovale into the left atrium. The catheter was then positioned in the left upper pulmonary vein. A 1.5 mm J-tipped Amplatzer exchange length wire was then advanced into the left upper pulmonary vein. The multipurpose catheter was removed. A PFO assessment balloon was then advanced through the patent foramen ovale and inflated with interrogation of the PFO. Following this, the balloon was removed and percutaneous closure of the PFO was performed.
+Patent foramen ovale with septal aneurysm: Balloon assessment revealed a 12 mm waist, no significant tunneling present. Given the atrial septal aneurysm, which is significant, as well as the fairly large waist and potential diameter of the PFO, it was felt that a 33 mm CardioSEAL device would be appropriate. The assessment balloon was removed and PFO closure was performed.
+Percutaneous closure of the patent foramen ovale: Once the PFO assessment balloon was removed, an 11 mm CardioSEAL delivery sheath system with dilator was advanced over the Amplatzer exchange length wire into the left atrium. The dilator and wire were both removed. A 33 mm CardioSEAL VSD device was then deployed across the intra-atrial septum under both fluoroscopic as well as intracardiac echo guidance. Excellent positioning, which covered the septal aneurysm as well as appeared to be in excellent position, the device was released without complications. Bubble study subsequently revealed no significant right-to-left shunting with Valsalva. Excellent results. No complications.
+PROCEDURE SUMMARY:
+1. Normal coronary arteries in this right dominant system.
+2. Patent foramen ovale with significant atrial septal aneurysm present.
+3. Markedly positive right-to-left shunting by bubble study with Valsalva.
+4. Successful PFO closure with a 33 mm CardioSEAL VSD device deployed across the intra-atrial septum under both fluoroscopic as well as intracardiac echo guidance with confirmation of position and essentially complete coverage of the septal aneurysm without complications.
+5. Repeat bubble study at the conclusion of the procedure showed no significant right-to-left shunting.
+We will discontinue Coumadin and discharge the patient on aspirin 81 mg as well as Plavix 75 mg a day.
+Cardiology Operative Samples #1
+     
+Cardiology Operative Samples #2
+Medical Transcription Word Seeker - Google Search for Medical Transcriptionists
