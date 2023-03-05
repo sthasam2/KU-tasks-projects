@@ -1,2 +1,3 @@
 # KU
-All Labworks from KU
+
+All Labworks as well as subject projects from KU
